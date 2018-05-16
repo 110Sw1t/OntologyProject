@@ -1,1135 +1,187 @@
-The   Avengers  comics  Avengers   are a series of fictional   superhero   teams that have starred in     The Avengers  comic book  The Avengers     and related   comic book   series published by   Marvel Comics    Over the years  the teams have featured a rotating lineup composed of a large number of characters  Characters listed in    bold    are the current  when date May 2018   members of the team 
+  italic title  
+  Refimprove date October 2017  
+  Infobox comics story arc     Wikipedia WikiProject Comics   
+ image            AVEN503 COV jpg
+ imagesize             default 250    
+ caption          Promotional art for   Avengers   #503  br / Art by   David Finch  comics  David Finch   
+ publisher          Marvel Comics  
+ startmo          August
+ startyr          2004
+ endmo            January
+ endyr            2005
+ Crossover        y
+ titles     plainlist 
+     Avengers  comics  Avengers     vol  4  #500–503
+   Avengers Finale   #1
+     Captain America     vol  4  #29–32
+     Captain America and the Falcon     #5–7
+     Fantastic Four     #517–519
+     Iron Man     vol  3  #84–89
+     The Spectacular Spider Man     vol  2  #15–20
+     Thor  Marvel Comics  Thor     vol  2  #80–85  
+ main_char_team     Avengers  comics  Avengers  
+ writers     plainlist 
+   Brian Michael Bendis      Avengers   and   Avengers Finale   
+   Robert Kirkman      Captain America   
+   Paul Jenkins  writer  Paul Jenkins      The Spectacular Spider Man   
+   John Jackson Miller      Iron Man   
+   Michael Avon Oeming Mike Oeming      Thor   
+   Christopher Priest  comic book writer  Christopher Priest      Captain America and the Falcon   
+   Mark Scott Ricketts Mark Ricketts      Iron Man   
+   Mark Waid      Fantastic Four     
+ artists  
+ pencillers     plainlist 
+   Joe Bennett  artist  Joe Bennett      Captain America and the Falcon   
+   Jim Cheung      Avengers Finale   
+   Oliver Coipel    flashbacks 
+   Andrea Di Vito      Thor   
+   Scot Eaton      Captain America   
+   Steve Epting      Avengers Finale   
+   David Finch  comics  David Finch      Avengers   
+   Gary Frank      Avengers Finale   
+   Michael Gaydos      Avengers Finale   
+   Tony Harris  cartoonist  Tony Harris      Iron Man   
+   Jorge Lucas      Iron Man   
+   David W  Mack David Mack      Avengers Finale   
+   Alex Maleev      Avengers Finale   
+   Mike Mayhew  illustrator  Mike Mayhew      Avengers Finale   
+   Steve McNiven      Avengers Finale   
+   Paco Medina      The Spectacular Spider Man   
+ Mike Oeming    Avengers Finale   
+   George Pérez      Avengers Finale   
+   Eric Powell  comic writer  Eric Powell      Avengers Finale   
+   Humberto Ramos      The Spectacular Spider Man   
+   Darick Robertson      Avengers Finale   
+   Michael Ryan  artist  Michael Ryan      The Spectacular Spider Man   
+   Lee Weeks      Avengers Finale   
+   Mike Wieringo      Fantastic Four     
+ inkers  
+ letterers  
+ editors  
+ colorists  
+ TPB   Avengers Disassembled HC
+ ISBN   0 7851 2294 X
+ TPB1   Avengers Disassembled  Iron Man  Thor & Captain America
+ ISBN1   0785138846
+ cat   Avengers  comics 
+ sortkey   Avengers Disassembled
+  
+    Avengers Disassembled     is a   fictional crossover crossover   event involving   Avengers  comics  the Avengers      Fantastic Four      Captain America      Spider Man   and   Thor  Marvel Comics  Thor     Avengers Disassembled  saw the beginning of   Brian Michael Bendis    Avengers run with the destruction of the existing  traditional  roster and exile of several key members of the team  The other crossover stories intersect  or in the case of the Spectacular Spider Man and Thor crossover issues  or take place prior or after to the main Avengers story line  In particular  the tie ins saw other changes to the status quo  Iron Man once again closeting his secret identity  Spider Man developing organic webshooters  like the Sony Spider Man movies   and the death of Thor and Asgard in one final Ragnarok 
 
-  File Avengers png 500px thumb Cover art for   Avengers    vol  3  #1  Art by   George Pérez     
+The main story   Chaos   ran in Avengers #500 503 and a special epilogue   Avengers Finale   and drew considerable controversy due to its overt continuity errors related to its main plot and deaths and vilification of classic Avengers members  These continuity errors and fan backlash would lead to retconning of the events in  Avengers  The Children  Crusade  and  AXIS   as well as the  Marquis of Death  story line from Mark Millar  Fantastic Four run and the Kurt Busiek and George Perez  Avengers/JLA  mini series and J  Michael Straczynski   Amazing Spider Man  run 
 
-  Original organization  1963–2004   
+The series would also see to a massive relaunch of the Avengers family of titles with new ongoing series launched for the Thunderbolts  Captain America  and Iron Man as well as the launching of Young Avengers and Thor going on a three year hiatus 
 
-   Founders   
-All of these members helped form the team in   The Avengers   #1  September 1963  
+  Plot summary  
 
-   class  wikitable  style  width 100%; text align left; margin 1em auto 1em auto; 
-  
- width 12%  Character
- width 24%  Real name
- width 20%  Joined in
-   Notes
-  
-       Iron Man     
-  Anthony  Tony  Edward Stark
- rowspan  5    Avengers   #1  September 1963 
-   Founder of original roster  Joined West Coast Branch in   West Coast Avengers   vol  2 #1  1984  
-  
-       Thor  Marvel Comics  Thor     
-  Thor Odinson  br  a k a  Dr  Donald Blake  Sigurd Jarlson  Jake Olsen  Odinson 
-  Current member of the main Avengers team  
-  
-    Hank Pym Ant Man   br a k a  Giant Man  br Goliath  br Yellowjacket  br The Wasp  br Ultron
-  Dr  Henry Jonathan  Hank  Pym
-  Became Giant Man in   Avengers    #2  November 1963   Goliath in   Avengers   #28  May 1966   and Yellowjacket in   Avengers   #59  December 1968   Expelled as Yellowjacket in   Avengers   #213  November 1981   ref   Cite comic   Writer  Jim Shooter   Penciller  Bob Hall   Inker  Dan Green   Story  Court Martial   Title     Avengers  comics  Avengers     Volume   1   Issue   212—213   Date  October—November 1981   Publisher     Marvel Comics     Page     Panel     ID      /ref  Joined West Coast Branch as Doctor Pym in   West Coast Avengers   #21  1988   Became The Wasp in   Mighty Avengers   #21  March 2009   He is one of only two members  the other being Kelsey Leigh  Captain Britain   who have Avengers status in both their civilian and superhero guises  Formerly the head of the     Avengers Academy      former member of the Secret Avengers and formerly the leader of the Avengers A I  Squad  Currently merged with   Ultron    ref Rage of Ultron /ref  
-  
-    Wasp  comics  Wasp  
-  Janet van Dyne
-  Active with West Coast team in   West Coast Avengers   vol  2 #32  1988   Current member of the Avengers Unity Squad  ref Uncanny Avengers #5  2013  /ref 
-  
-    Hulk  comics  Hulk  
-  Dr  Robert Bruce Banner
-  Resigned from the team in   Avengers   #2  November 1963   rejoins the Avengers in     Avengers vs  X Men     #11  Former member of the main Avengers team 
-  
+   Avengers   
+Jack of Hearts arrives at the Avengers mansion  The zombified hero explodes damaging the mansion  Ant Man  who approached his former teammate  is seemingly killed in the blast but in truth is teleported away by future versions of his daughter  Cassie Lang  and her teammates  the Young Avengers  With Ant Man presumed dead  Doom orders   Scarlet Witch Wanda   to send Vision  piloting an Avengers Quinjet  to crash into the partially damaged Avengers Mansion causing more damage 
 
-   1960s recruits   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 18%  Real name
- width 26%  Joined in
-   Notes
-  
-       Captain America      br a k a  Nomad  br The Captain  br Commander Rogers
-  Steven  Steve  Rogers ref Official Handbook of the Marvel Universe A Z Softcover #2 /ref 
-    Avengers   #4  March 1964 
-  Given retroactive  founding member  status in place of the Hulk  Active as The Captain in   Avengers   #300  1989   ref name  casebook99 /  Former leader of the Avengers Unity Division as Steve Rogers 
-  
-       Hawkeye  comics  Hawkeye      br a k a  Goliath  br Ronin
-  Clinton Francis Barton
- rowspan  3    Avengers   #16  May 1965 
-  First active as Goliath in   Avengers   #63  April 1969   Founding West Coast chair    Avengers   #243  Joined the New Avengers as Ronin in   New Avengers   #27  2007   Former member of the main Avengers team  ref   cite web url http //www comicbookresources com/?page article&id 24708 title Hawkeye Rejoins The Avengers  publisher   Comic Book Resources    accessdate February 5  2010   /ref  and the   Secret Avengers     Former member of the   The New Avengers  comics  Avengers Idea Mechanics    Current member of Occupy Avengers 
-  
-    Quicksilver  comics  Quicksilver  
-  Pietro Maximoff
-  Joined West Coast branch in   Avengers West Coast   #56  Joined the Mighty Avengers in   Mighty Avengers   #24  Former teacher at the     Avengers Academy      Former member of the Avengers Unity Division 
-  
-    Scarlet Witch  
-  Wanda Maximoff
-  Joined West Coast branch in   West Coast Avengers   Vol  2 #37  Apparently de powered at the end of     House of M      Re emerged fully powered in   Avengers Children  Crusade    Rejoined team in   Avengers vs X Men   #7  Current member of the Avengers Unity Squad 
-  
-    Swordsman  comics  Swordsman  
-  Jacques Duquesne
-    Avengers   #20  September 1965 
-  Expelled in   Avengers   #20  September 1965   ref name  index1  Official Marvel Index to the Avengers Vol  2 #1  October 1994   Published by   Marvel Comics    /ref  Readmitted in   Avengers    #114  August 1973   Killed in   Giant Size Avengers   #2  November 1974   Returned to life in     Chaos War  comics  Chaos War    Dead Avengers   #1  January 2011  
-  
-    Hercules  Marvel Comics  Hercules  
-  Heracles br  alias Harry Cleese 
-    Avengers   #45  October 1967 
-  Former member of the main Avengers team 
-  
-       Black Panther  comics  Black Panther     
-  T Challa br  a k a  Luke Charles 
-    Avengers   #52  May 1968 
-  Former member of the   Ultimates  2015 team  Ultimates    
-  
-    Vision  Marvel Comics  Vision  
-  Victor Shade  alias 
-    Avengers   #58  November 1968 
-  Joined West Coast branch in   West Coast Avengers   Vol  2 #37  Former member of the main Avengers team  Destroyed by   Hulk  comics  Hulk   in   Avengers   Vol  1 #685 
-  
-    Black Knight  Dane Whitman  Black Knight  
-  Dane Whitman
-    Avengers   #71  December 1969 
-  
-  
+Elsewhere  the mind controlled Wanda arrives at the United Nations where she has a conversation with Captain America who announces that he is ending their fledgling relationship  Furious  Wanda uses her powers to cause   Tony Stark Tony   to suddenly become drunk and belligerent at an important meeting where the Avengers would have their UN security clearance revoked following the events of Secret War  Attempting to pick a fight with the Latverian ambassador  the Avengers UN charter is revoked as Iron Man leaves Hank Pym in the lurch to respond to the  Code White  from the Avengers mansion 
 
-   1970s recruits   
-   class  wikitable  style  width 100%; 
-  
- width 12%  Character
- width 21%  Real name
- width 26%  Joined in
-   Notes
-  
+Leaving the Avengers Quinjet he crashed  Vision warns the Avengers of Doom  plan to destroy the team and then vomits up a series of eggs that spawn Ultron drones that attack the Avengers  With Doom and the mind controlled Wanda watching from the shadows  She Hulk is hexed by Wanda and becomes consumed with bloodlust  tearing Vision in half and brutally assaulting Wasp and Captain Britain 
 
-    Black Widow  Natasha Romanova  Black Widow  
-  Natasha Alianovna Romanoff
-    Avengers    #111  May 1973 
-  Originally offered membership between   Avengers   #44  September 1967  and   Avengers   #45  October 1967   Former member of the   Secret Avengers   and the main   Avengers  comics  Avengers   team  Deceased as of end of  Secret Empire  storyline 
-  
-    Mantis  Marvel Comics  Mantis  
-  Brandt  surname 
-    Giant Size Avengers   #4  June 1975 
-  Resident of Avengers Mansion in   Avengers   #114  August 1973  
-  
-    Beast  comics  Beast  
-  Dr  Henry  Hank  McCoy
- rowspan  3    Avengers   #151  September 1976  br 
-  Originally given probationary status in   Avengers   #137  July 1975   ref name  casebook99    Cite comic   writer   Marc Steven Sumerak   penciller   Eric Eng Wong   inker   John G  Roshell   story   An A Z Compedium of Earth  Mighiest Heroes   title   Avengers Casebook 1999   volume   1   issue   1   date   February 2000   publisher     Marvel Comics     location     page     panel     id      /ref  ref name  index3  Official Marvel Index to the Avengers vol 2 #3  December 1994   Published by   Marvel Comics    /ref  Former member of the   Secret Avengers    Former member of Avengers Unity Division 
-  
-    Moondragon  
-  Heather Douglas
-  Originally given probationary status in   Avengers    #137  July 1975   ref name  casebook99 /  ref name  index3 /  ref name  AVLog  The Avengers Log #1  February 1994   Published by   Marvel Comics    /ref  ref name  AV305    Avengers   #305  July 1989   Published by   Marvel Comics    /ref 
-  
-    Patsy Walker Hellcat  
-  Patricia  Patsy  Walker
-  Originally given probationary status in   Avengers    #148  February 1976   ref name  casebook99 /  ref name  index3 /  ref name  AVLog /  ref name  AV305 /  ref name  official handbook  All New Official Handbook of the Marvel Universe A to Z  Vol  1  Published by   Marvel Comics      ISBN 978 0 7851 3028 4   /ref 
-  
-    Two Gun Kid  
-  Matthew J   Matt  Hawk
-    Avengers   #174  August 1978 
-    Time travel  er from the 19th century; joined as a reserve member  ref name  casebook99 /  ref name  index3 /  ref name  official handbook /  Originally given honorary status in   Avengers   #147  May 1976   ref name  AVLog /  ref name  roleplaying guide  The Marvel Universe Roleplaying Game Guide To The Hulk & The Avengers    ISBN 0 7851 1158 1   /ref 
-  
-       Carol Danvers Ms  Marvel       br a k a  Binary  br Warbird  br Captain Marvel
-  Carol Susan Jane Danvers
-    Avengers   #183  May 1979 
-  Active as Warbird in   Avengers   vol  3 #4  1998   ref name  casebook99 /  Former member of the New Avengers and the   Ultimates  2015 team  Ultimates    Current member of the main Avengers team as Captain Marvel 
-  
-    Falcon  comics  Falcon   br a k a  Captain America
-  Samuel  Snap  Thomas Wilson
-    Avengers   #184  June 1979 
-  Former leader of the main Avengers team 
-  
+Ultimately  She Hulk is subdued by Iron Man and Captain America as Hank Pym joins them and rushes Wasp to the hospital  Returning  Hank reveals to Cap and the team of Iron Man  drunken outburst at the UN and the UN  decision to revoke their charter  As the super hero community gathers at the mansion  the Avengers do not know that several of the members are constructs created by the possessed Wanda on behalf of Doctor Doom to spy on the Avengers 
 
-    1980s recruits    
-   class  wikitable  style  width 100%; 
-  
- width 12%  Character
- width 18%  Real name
- width 29%  Joined in
-   Notes
-  
-    Wonder Man  
-  Simon Williams
-    Avengers   #194  April 1980 
-  Originally given probationary status in   Avengers   #158  April 1977   ref name  casebook99 /  Founding West Coast member  Former leader of the   Revengers   
-  
-    Tigra  
-  Greer Grant Nelson
-    Avengers   #211  September 1981 
-  Founding West Coast member  Former teacher at the   Avengers Academy   
-  
-       She Hulk     
-  Jennifer Walters
-    Avengers   #221  July 1982 
-  Former member of the   Mighty Avengers    Former leader of A Force 
-  
-    Monica Rambeau Captain Marvel   br a k a  Photon  br Pulsar  br Spectrum
-  Monica Rambeau
-    Avengers   #231  May 1983 
-  Originally made a member in training in   Avengers    #227  January 1983   Active as Photon in   Avengers Unplugged   #5  1996   ref name  casebook99 /  Former member of the   Mighty Avengers   and current member of the   Ultimates  2015 team  Ultimates   as Spectrum 
-  
-    Starfox  comics  Starfox  
-  Eros
-    Avengers   #243  May 1984 
-  Originally made a member in training in   Avengers    #232  June 1983   ref name  casebook99 /  ref name  index5  Official Marvel Index to the Avengers vol 2 #5  February 1995   Published by   Marvel Comics    /ref 
-  
-    Namor   br a k a  The Sub Mariner
-  Namor McKenzie
-    Avengers   #262  December 1985 
-  Former member of the Illuminati and the   All New Invaders Invaders    Killed in Squadron Supreme vol  4 #1  2016   Revived when that event was erased from timeline 
-   
-    Doctor Druid   br a k a  Druid  br Doctor Droom
-  Dr  Anthony Ludgate Druid
-    Avengers   #278  April 1987 
-  Killed in   Druid   #4  August 1995  
-  
+As the Avengers fear that Ultron may be behind the attack  Doom orders Wanda to summon an armada of Kree soldiers to attack Manhattan  In the ensuing battle  Hawkeye is killed when his arrows are hit causing their explosives to go off  In his dying moments  Hawkeye takes out a Kree battleship in the blast after taking flight with a commandeered Kree jet pack 
 
-   West Coast Avengers recruits  1984–1987    
-  Main article List of West Coast Avengers members  
-Avengers members recruited by   Hawkeye  comics  Hawkeye   as the   West Coast Avengers   chair 
-   class  wikitable  style  width 100%; 
-  
- width 15%  Character
- width 16%  Real name
- width 28%  Joined in
-   Notes
-  
-    Mockingbird  Marvel Comics  Mockingbird  
-  Barbara  Bobbi  Morse
-  rowspan 2    West Coast Avengers   #1 br/   September 1984 
-  Founding West Coast member  Former member of the New Avengers and Secret Avengers 
-  
-    War Machine   br a k a  Iron Man  br Iron Patriot
-  James Rupert  Rhodey  Rhodes
-  Founding West Coast member  as Iron Man   Rejoined as War Machine in   Avengers West Coast   #94  May 1993   ref name  casebook99 /  Former member of the Secret Avengers as the   Iron Patriot    Deceased
-  
-    Thing  comics  Thing  
-  Benjamin Jacob Grimm
-    West Coast Avengers   vol  2 #9 br/   June 1986 
-  Accepted membership after assisting West Coast team  but left before official vote was taken  ref name  casebook99 /  ref name  AVLog /  ref name  AV305 /  ref name  official handbook /  ref Avengers vol  3 #1 After being called to a meeting  Reed Richards comments  I know all three of us have served as Avengers     in reference to himself  the Invisible Woman  and The Thing  /ref  Former member of the New Avengers and the Guardians of the Galaxy 
-  
-    Moon Knight  
-  Marc Spector br  a k a  Steven Grant  br/  Jake Lockley 
-    West Coast Avengers   vol  2 #21 br/   June 1987 
-  Gained full membership in   West Coast Avengers   vol  2 #33  ref name  casebook99 /  ref name  AVLog /  ref name  AV300    Cite comic   editor Mark Gruenwald   story Avengers Membership   title The Avengers   issue 300   date February 1989   page 47–49   publisher   Marvel Comics     location   New York City New York  NY      /ref 
-  
-    Firebird  Marvel Comics  Firebird   br a k a  Espirita
-  Bonita Juárez
-    West Coast Avengers   Annual #2 br/  1987 
-  Given reserve status after assisting West Coast team  ref name  casebook99 /  ref name  AVLog /  ref name  AV305 /  ref name  official handbook / 
-  
-  
+In the wake of Hawkeye  death  Doctor Strange suddenly appears for the first time since the Dark Dimension invasion several months prior  His memories altered due to Baron Mordo  meddling  he immediately suspects Scarlet Witch of being responsible and accuses her of having turned against the Avengers in a fit of madness over the loss of her children  triggered by Wasp  comment about aborting her and Hawkeye  would be children  Strange  no longer familiar with chaos magic due to Mordo  also assumes that Wanda  ability to launch such a complex scheme indicates that she  a high level reality warper and that she must be taken down ASAP before she threatens the world in her current mental state 
 
-   Post   Inferno   recruits  1989–1990    
-   class  wikitable  style  width 100%; 
-  
- width 15%  Character
- width 16%  Real name
- width 28%  Joined in
-   Notes
-  
-    Demolition Man  comics  Demolition Man  
-  Dennis Dunphy
-    Captain America    #349 br  January 1989 
-  Recruited by The Captain for East Coast team  but presumed killed before official vote was taken  ref name  casebook99 /  ref name  official handbook /  ref name  official handbookav04  Official Handbook of the Marvel Universe  Avengers 2004 Published by   Marvel Comics    /ref  ref name  official handbookav05  Official Handbook of the Marvel Universe  Avengers 2005 Published by   Marvel Comics    /ref  ref name  official handbookhc3  All New Official Handbook of the Marvel Universe A to Z  Vol  3  Published by   Marvel Comics      ISBN 978 0 7851 3100 7   /ref  ref Captain America  #349  per caption directly follows Avengers Annual 17  1988   Offered Avengers membership by The Captain  accepts  /ref  ref Avengers vol 3 #1  amongst the team when all former members and nonmembers are summoned to battle   Morgan le Fay  Marvel Comics  Morgan le Fay    Jarvis comments on the fact that Demolition Man was  made an Avenger by Captain America himself   /ref  Former member of the   Revengers   
-  
-    Forgotten One  comics  Forgotten One   br a k a  Hero
-  Gilgamesh
- rowspan  3    Avengers   #300  February 1989 
-  Presumed killed in   Avengers   #391  October 1995   Returned in   Eternals    vol  4  #3  October 2008  
-  
-    Mister Fantastic  
-  Reed Richards
-  Former member of the Illuminati and Fantastic Four  
-  
-    Invisible Woman  
-  Susan Storm Richards
-  Former member of the Fantastic Four and Avengers 
-  
-    U S  Agent  comics  U S  Agent   br a k a  Super Patriot  br Captain America
-  John Frank Walker  br/  Jack Daniels  alias 
-    West Coast Avengers   vol  2 #44 br  May 1989 
-  Appointed to West Coast team by government  Left during UN Charter  ref   Avengers West Coast   vol  2 #69  April 1991   Published by   Marvel Comics    /ref  and later gained official membership  ref   Avengers West Coast   vol  2 #74  September 1991   Published by   Marvel Comics    /ref 
-  
-    Quasar  Wendell Vaughn  Quasar  
-  Wendell Elvis Vaughn
-    Avengers   #305  July 1989 
-  Originally given probationary status in   Avengers Annual   #18  1989   ref name  casebook99 /  ref name  AVLog /  ref name  AV305 / 
-  
-    Human Torch  android  Human Torch  
-  Jim Hammond  alias 
-    Avengers West Coast   #50 br  November 1989 
-  Former member of the Secret Avengers and the   All New Invaders Invaders    
-  
-    Sersi  
-  Circe
-    Avengers   #314  February 1990 
-  
-  
-    Stingray  comics  Stingray  
-  Walter Newell
-    Avengers   #319  July 1990 
-  Given reserve status as caretaker of Avengers Island  ref name  casebook99 /  ref name  AVLog /  ref name  official handbook / 
-  
+The Avengers visit Agatha Harkness  home  where the Life Force possessed Wanda has been left alone by Doom to eliminate the Avengers  Summoning an army of constructs  including a version of Rogue and Red Skull and a group of SS troops  the Life Force entity attempts to destroy the Avengers before Doctor Strange uses the Eye of Agamotto to put Wanda into a coma  However  by this point  Professor X sends Magneto to retrieve Wanda from the Avengers  much to Captain America  dismay and horror  Reluctantly he allows Magneto to take his daughter with him after he vows to help her  ref Avengers The Children  Crusade /ref 
 
-   UN Charter recruits  1991–1992    
-   class  wikitable  style  width 100%; 
-  
- width 15%  Character
- width 16%  Real name
- width 28%  Joined in
-   Notes
-  
-    Spider Man  
-  Peter Benjamin Parker
-    Avengers    #329  February 1991 
-  Joined as a reserve member  ref name  casebook99 /  ref name  AVLog /  Former member of the New Avengers  while serving concurrently as a member of the   Future Foundation    Former member of the Avengers Unity Division  Former member of the main Avengers team 
-  
-    Sandman  Marvel Comics  Sandman  
-  William Baker br  a k a  Flint Marko 
- rowspan  2    Avengers   #329  February 1991  br/   Reserve Substitutes 
-  Never gained full membership  ref name  casebook99 /  ref name  AVLog /  Resigned in   The Amazing Spider Man   vol  2 #4  1999   Current member of the   Frightful Four   
-  
-    Rage  comics  Rage  
-  Elvin Daryl Haliday
-  Never gained full membership  ref name  casebook99 /  Was discovered to be still in his   adolescence   in   Avengers   #341  November 1991  and was demoted to trainee status  Status revoked in   New Warriors    #26  ref name  AVLog /  ref name  official handbook /  ref name  index6  Official Marvel Index to the Avengers vol 2 #6  March 1995   Published by   Marvel Comics    /ref  ref New Warriors  #26  August 1992   published by   Marvel Comics    After Rage was made ineligible  he still had access to the Avengers facility  until he aided the New Warriors in stealing an Avengers Quinjet  and his status with the team was revoked  /ref 
-  
-    Machine Man   br a k a  X 51
-  Aaron Stack  alias 
-    Avengers West Coast   #69  April 1991 
-  Given reserve status after assisting West Coast team  ref   Avengers West Coast Annual   #5  1990   Published by   Marvel Comics    /ref  Active in   Avengers West Coast   #83  June 1992   Removed from roster in   X 51   #4  1999   ref name  casebook99 /  ref name  AVLog / 
-  
-    Living Lightning   br a k a Lightning
-  Miguel Santos
- rowspan  2    Avengers West Coast   #74 br/   September 1991 
-  
-  
-    Julia Carpenter Spider Woman   br a k a  Arachne  br Madame Web 
-  Julia Carpenter
-  
-  
-    Crystal  comics  Crystal  
-  Crystalia Amaquelin Maximoff
- rowspan  2    Avengers   #343  January 1992 
-  Originally given probationary status in   Avengers    #336  August 1991   ref name  casebook99 / 
-  
-    Thunderstrike  Eric Masterson  Thunderstrike   br a k a  Thor 
-  Eric Kevin Masterson
-  Active as Thunderstrike in   Avengers   #374  ref name  casebook99 /  br Killed in   Thunderstrike   #24  September 1995  
-  
-    Darkhawk  
-  Christopher Powell
-    Avengers West Coast   #94  May 1993 
-  Joined as a reserve member  ref name  casebook99 /  ref name  AVLog / 
-  
+   Iron Man   
+After rescuing Force from the corrupt senators who have been trying to kill Tony Stark since he became Secretary of Defense  Iron Man finds himself targeted by an Iron Man impostor who murders his longtime love interest Rumiko Fujikawa  Iron Man eventually defeats his impersonator and bring down the ring of corrupt senators who were behind the murder and Force being blackmailed  Realizing that his loved ones are being targeted by his enemies  Stark gives a press conference where he announces that he is resigning as Secretary of Defense and will no longer actively be Iron Man  in favor of returning to  subordinates  filling the role for him 
 
-   Post   Heroes Return   recruits  1998–2004    
-   class  wikitable  style  width 100%; 
-  
- width 15%  Character
- width 15%  Real name
- width 25%  Joined in
-   Notes
-  
-    Vance Astrovik Justice  
-  Vance Astrovik
- rowspan  2    Avengers   vol  3 #4  May 1998 
-  Joined as a reserve member  Promoted to full status in   Avengers   vol  3 #7  1998   Formerly a teacher at the     Avengers Academy      Former member of the   New Warriors   
-  
-    Firestar  Marvel Comics  Firestar  
-  Angelica  Angel  Jones
-  Joined as a reserve member   Promoted to full status in   Avengers   vol  3 #7  1998   Retired in     Civil War  Front Line     #2  Former member of the   New Warriors   and the Young Allies  Currently a member of the   X Men   
-  
-    Delroy Garrett Triathlon   br a k a    3 D Man  
-  Delroy Garrett
-    Avengers   vol  3 #27  April 2000 
-  Currently active as 3 D Man in the Agents of Atlas 
-  
-    Silverclaw  
-  Maria de Guadalupe Santiago
-    Avengers   vol  3 #30  July 2000 
-  Joined as a reserve member  Active in   Avengers   vol  3 #43 55 
-  
-    Jack of Hearts  
-  Jack Hart
-    Avengers   vol  3 #38  March 2001 
-  Gained full membership in   Avengers   vol  3 #43  August 2001   Died in   Avengers   vol  3 #76  February 2004   Revived in   Marvel Zombies Supreme   #2  2011  
-  
-    Ant Man  Scott Lang  Ant Man  
-  Scott Lang
-    Avengers   vol  3 #57  October 2002 
-  Gained full membership in   Avengers   vol  3 #62  February 2003   Seemingly killed by a zombie   Jack of Hearts   under influence of the Scarlet Witch in   Avengers   #500  September 2004   Rescued moments before his apparent death by the   Young Avengers   and brought several years into the future by the Scarlet Witch in     Avengers  The Children  Crusade     #5  June 2011  
-  
-    Lionheart  comics  Captain Britain   br a k a  Lionheart
-  Kelsey Leigh Shorr
-    Avengers   vol  3 #81  June 2004 
-  Made an honorary member as Kelsey Leigh  and a full member as Captain Britain  She is one of only two members  the other being Henry Pym  who have Avengers status in both their civilian and superhero guises 
-  
+   Thor   
+A mystic force that is the living embodiment of Ragnarok has begun slaying the Asgardian Gods  in rapid succession  Investigating the genocide of his people  Thor discovers that the universe itself is seeking to eliminate the Asgardians for cheating death by surviving countless previous attempts by the universe to fulfill Ragnarok and wipe out the Asgardians  Ultimately Thor allows himself to be destroyed  as all known Asgardians are destroyed 
 
-  New Avengers recruits  2005   
-  Main article List of New Avengers members  
-The     The New Avengers  comics  New Avengers     were formed due to a mass break out at the super villain prison   The Raft  comics  The Raft   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 20%  Joined in
-   Notes
-  
-    Luke Cage   br a k a  Power Man
-  Carl Lucas  birth name  br Lucas Cage  legal name 
-    New Avengers   #3 br/   March 2005 
-  Former leader of the New Avengers  ref   Cite web   url http //www comicbookresources com/?page article&id 25026   title Luke Cage is a New Avenger Again   work   Comic Book Resources     accessdate March 2  2010   /ref  Left the team in   New Avengers   vol  2 #30  Former leader of the Mighty Avengers 
-  
-    Wolverine  character  Wolverine  
-  James  Logan  Howlett
-    New Avengers   #6 br/   June 2005 
-  Former member of the main Avengers team and the Avengers Unity Squad  Maintained simultaneous membership in the Avengers and the X Men 
-  
-    Sentry  Robert Reynolds  Sentry  
-  Robert Reynolds
-    New Avengers   #10 br/   October 2005 
-  Became a member of the Mighty Avengers after the Civil War and the Dark Avengers during   Dark Reign  comics  Dark Reign    Went rogue in   Siege   #3 before being killed in   Siege   #4 
-  
-    Echo  Marvel Comics  Echo   br a k a  Ronin
-  Maya Lopez
-    New Avengers   #11 br/   November 2005   as Ronin 
-  Joined as Ronin in   New Avengers   #11  2005 ; active as Echo in   New Avengers   #27  2007   Killed in   Moon Knight   vol  4 #9 
-  
+   Captain America and Falcon   
+Captain America And the Falcon are in the midst of an international scandal between a naval intelligence operation  ONI  and a Drug Cartel with ties to A I M when Cap starts having hallucinations; some of them involving encounters with his fellow Avenger Wanda Maximoff aka the Scarlet Witch  Meanwhile  Falcon is gifted a new enhanced costume from Wakanda and uses it to escape the feds 
+Captain America discusses his past  most notably his guilt from the death of Bucky  with Scarlet Witch and she eases his trouble  While they engage in a romance  Cap cites that he can not give her the normal life she desires due to his own emotional issues  His apparent romance with Wanda ceases just prior to the UN meeting to determine if the Avengers will retain their UN Charter  Wanda  oddly tells him she has no recollection of their romance  indicating that Cap hallucinated the whole thing  Cap later believes that due to the events of  Avengers Disassembled   Wanda was responsible for his visions and the Falcon  aggressive behavior  ref Captain America and the Falcon #10 /ref 
 
-  Post   Civil War   recruits  2007–2009   
-  Main article List of Mighty Avengers members  
-The New Avengers became a splinter group that chose not to comply with federal superhuman registration  as opposed to the governmental sanctioned team presented in     The Mighty Avengers Mighty Avengers     then     Dark Avengers      The Mighty Avengers after the Dark Avengers launch was an international agency sanctioned team 
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-    Ares  Marvel Comics  Ares  
-  Ares br  a k a  John Aaron 
-    Mighty Avengers   #1 br/   May 2007 
-  Became member of the Dark Avengers  Killed in   Siege   #2 
-  
-    Amadeus Cho   br a k a Mastermind Excello  Hulk
-  Amadeus Cho
- rowspan  2    Mighty Avengers   #21  br/  March 2009 
-  Helped assemble a new Mighty Avengers team after the beginning of Dark Reign  ref name Assemble   Cite comic   Writer  Jeff Christiansen & Sean McQuaid   Penciller     Inker     Story  Avengers Update   Title   Avengers Assemble   Volume   1   Issue   1   Date  July 2010   Publisher     Marvel Comics     Page  7   Panel     ID      /ref 
-  
-    Jocasta  comics  Jocasta  
-  Jocasta
-  Jocasta was previously granted provisional status in   Avengers   vol  1 #197  She left the team before she was to be offered substitute status with the team  in   Avengers   vol  1 #211  ref name  casebook99 /  ref name  AVLog /  ref name  index4  Official Marvel Index to the Avengers vol  2 #4  January 1995   Published by   Marvel Comics    /ref  ref name  annual17  Avengers Annual #17  1988   Published by   Marvel Comics    /ref  Former teacher at the Avengers Academy 
-  
-    Cassandra Lang Stature  
-  Cassandra Lang
- rowspan  2    Mighty Avengers   #22 br/   April 2009 
-  Killed in   Avengers  The Children  Crusade   #8  Resurrected in   Avengers World #16   
-  
-    Vision  Jonas  Vision  
-  Jonas  alias 
-  Killed in   Avengers  The Children  Crusade   #9  
-  
-  
+   Spectacular Spider Man   
+Peter Parker is given a special kiss from the Spider Queen Adrianna; who has returned to exact revenge on America for abandoning her during a World War 2 experiment 
 
-  Heroic Age recruits  2010–2011   
-  Main article Heroic Age  comics   
-Characters who have officially joined the Avengers after the events of   Dark Reign  comics  Dark Reign   and   Siege  comics  Siege   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-    Bucky Barnes Captain America   br a k a  Winter Soldier
-  James Buchanan  Bucky  Barnes
- rowspan  2    Avengers   vol  4 #1  May 2010 
-  Originally joined the New Avengers in   New Avengers    vol 1  #48  January 2009   ref name  Assemble /  Apparently died in   Fear Itself   #3  but was recently revealed to be alive and re assuming his identity as the Winter Soldier  
-  
-    Spider Woman  Jessica Drew  Spider Woman  
-  Jessica Drew
-  Originally joined the New Avengers in   New Avengers   vol 1 #48  January 2009   ref name Assemble/  Quit the team in   Spider Woman   vol  5 #4  February 2015   ref   cite web url http //www comicbookresources com/?page article&id 24674 title Spider Woman Joins The Avengers publisher   Comic Book Resources    accessdate February 5  2010   /ref 
-  
-    Valkyrie  Marvel Comics  Valkyrie  
-  Brunnhilde
- rowspan  4    Secret Avengers   vol  1 #1  May 2010 
- rowspan  2  Former members of the   Secret Avengers    ref   cite web  url http //marvel com/news/comicstories 11916 they_are_secret_avengers  title They Are Secret Avengers  publisher   Marvel com    date April 7  2010  accessdate April 7  2010    /ref  ref   cite web  first Kiel  last Phegley  url http //www comicbookresources com/?page article&id 25808  title C2E2  Cup O  Joe  publisher   Comic Book Resources    date April 17  2010  accessdate April 18  2010   /ref 
-  
-    Sharon Carter   br a k a  Agent 13
-  Sharon Carter
-  
-    Nova  Richard Rider  Nova  
-  Richard Rider
-  Left the   Secret Avengers    ref   cite web  author JK Parkin  url http //robot6 comicbookresources com/2010/04/and your secret avengers line up is/  title And your Secret Avengers line up is      publisher   Comic Book Resources    date April 14  2010  accessdate April 16  2010   /ref  to participate in     The Thanos Imperative      Presumed killed in   The Thanos Imperative   #6  Revealed to be alive in   Nova   vol  6 #11  September 2016  
-  
-    Eric O Grady Ant Man   br a k a  Slaying Mantis  br Black Ant
-  Eric O Grady
-  Killed and replaced by a   Life Model Decoy   in   Secret Avengers   vol  1 #23  February 2012  
-  
-    Iron Fist  comics  Iron Fist   br a k a  Daredevil
-  Daniel Thomas Rand Kai
- rowspan  2    New Avengers   vol  2 #1  June 2010 
-  Originally joined in   New Avengers   vol  1 #27  February 2007  
-  
-    Jessica Jones Power Woman   br a k a  Jessica Jones  br Jewel  br Knightress
-  Jessica Campbell Jones
-  Originally joined as Jewel in   New Avengers Annual   #3  December 2009   ref name Assemble/  Left the team in   New Avengers    vol  2  #24   Former member of the Mighty Avengers 
-  
-    Noh Varr Protector   br a k a  Marvel Boy
-  Noh Varr
-    Avengers   vol  4 #6  December 2010 
-  Left the main team in Avengers vol  4 #27  Current member of the Young Avengers as Marvel Boy  
-  
-       Doctor Strange     
-  Stephen Vincent Strange
-  New Avengers vol  2 #7  December 2010 
-  Originally joined in   New Avengers   vol  1 #27  February 2007   
-  
-    Thunderbolt Ross Red Hulk  
-  Thaddeus E   Thunderbolt  Ross
-    Avengers   vol  4 #12  June 2011 
-  Former member of the   Thunderbolts  comics  Thunderbolts    
-  
-  
+The kiss transforms him into her spider creature  However the kiss has an unexpected side effect of making him  pregnant   which regressed him back into his human form  As a side effect  Peter now finds himself able to produce organic spider webbing from his wrists and has a psychic link with all insects  Peter thwarts the queen  plan of destroying all humans in New York  by disarming a neural bomb  The queen seemingly dies in the collapse of the underground subway 
 
-  Shattered Heroes recruits  2011–2012   
-After the     Fear Itself  comics  Fear Itself     event  the lineup of the Avengers teams was shifted by   Captain America   during the   Shattered Heroes   storyline 
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-    Daredevil  Marvel Comics character  Daredevil  
-  Matthew  Matt  Murdock
-    New Avengers   vol  2 #16  September 2011 
-  
-  
-    Storm  Marvel Comics  Storm  
-  Ororo Iqadi T Challa  née Munroe 
- rowspan  2    Avengers   vol  4 #19 br/   November 2011 
-  Left the team in   New Avengers    vol  2  #24  Current member of the X Men 
-  
-    Daisy Johnson Quake  
-  Daisy Johnson
-  Agent of   S H I E L D    and former member of the   Secret Warriors  Team White  Secret Warriors   
-  
-    Captain Britain  
-  Brian Braddock
-    Secret Avengers   vol  1 #22 br/   January 2012 
-  Asked by Steve Rogers to join the Avengers in   Age of Heroes   #1  
-  
-    Flash Thompson Agent Venom   br a k a  Venom
-  Eugene  Flash  Thompson
-    Secret Avengers   vol  1 #23  February 2012 
-  Current member of Guardians of the Galaxy 
-  
-  
-    DO NOT ADD INFORMATION FROM COMICBOOK COVERS OR OTHER PROMOTIONAL MATERIALS WITHOUT EXPLICIT VERIFICATION   
+   Fantastic Four   
+While the Avengers face the destruction of their mansion and the invading Kree armada  Wizard and the Frightful Four launch a surprise attack on the Fantastic Four  defeating the heroes and seizing control over the Baxter Building  The Fantastic Four regroup and beat the villains 
 
-  Marvel NOW  recruits  2012 2013   
-After the   Avengers vs  X Men   event  members from both Avengers and   X Men   teams were shifted by Captain America during the   Marvel NOW    storyline 
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-    Havok  comics  Havok  
-  Alex Summers
-      Uncanny Avengers     #1  October 2012 
-  Former leader of the Avengers Unity Squad 
-  
-    Sunspot  comics  Sunspot   br a k a  Citizen V
-  Roberto da Costa
- rowspan  7    Avengers   vol  5 #1  December 2012 
-  Former member of the main Avengers team  Former leader of the   U S Avengers   as Citizen V 
-  
-    Cannonball  comics  Cannonball  
-  Sam Guthrie
-  Former member of the main Avengers and the   U S Avengers   
-  
-    Eden Fesi Manifold  
-  Eden Fesi
- rowspan  4  Former members of the main Avengers team  ref   cite web last Ching first Albert title Inside the New Mutants Infused Marvel NOW  AVENGERS Lineup url http //www newsarama com/10149 inside the new mutants infused marvel now avengers lineup html publisher Newsarama   /ref 
-  
-    Shang Chi  
-  Shang Chi
-  
-    Captain Universe  
-  Tamara Devoux
-  
-    Smasher  Izzy Kane  Smasher  
-  Isabel  Izzy  Kane ref   cite web url http //brevoortformspring tumblr com/post/63878172632/has izzy dare name been changed to kane in the avengers title Has Izzy Dare name been changed to Kane in the    author  date  website New Brevoort Formspring accessdate 28 March 2018   /ref 
-  
-    Hyperion  comics #Marvel NOW  Hyperion  
-  Marcus Milton
- Former member of the main Avengers team  Current member of the   Squadron Supreme   
-  
-    Rogue  comics  Rogue  
-  Anna Marie
-    Uncanny Avengers   #4  January 2013 
-  Maintains simultaneous membership in the Avengers and the X Men 
-  
-   Sunfire  comics  Sunfire  
-  Shiro Yoshida
-    Uncanny Avengers   #5  February 2013 
-  Former member of the Avengers Unity Squad  ref   cite web last Ching  first Albert  title Marvel NOW  Next Big Thing  UNCANNY AVENGERS Expands  url http //blog newsarama com/2012/11/14/marvel now next big thing uncanny avengers expands/  publisher Newsarama  deadurl yes  archiveurl https //web archive org/web/20121123080621/http //blog newsarama com/2012/11/14/marvel now next big thing uncanny avengers expands/  archivedate 2012 11 23  df     /ref 
-  
-    Doombot#Avengers A I   Doombot Doombot  
-  None
- rowspan  2    Avengers A I    #1  July 2013 
- rowspan  2  Former member of the Avengers A I  Squad  ref name  Avengers NOW    Cite comic   Writer  Mike O Sullivan   Title   Avengers NOW  Handbook   Volume   1   Issue   1   Date  February 2015   Publisher     Marvel Comics     Page  11   Panel     ID      /ref 
-  
-    Victor Mancha  
-  Victor Mancha
-  
+   Captain America   
+Following the events of  Disassembled   Captain America is naturally depressed and rekindles a relationship with Diamondback  Rachel Leighton   Meanwhile  the Red Skull conspires with a corrupt SHIELD agent to kill Captain America using Diamondback  but his plan backfires  During these events Steve realizes his love for Rachel 
 
-  Infinity recruits  2013 2014   
-Characters that joined the team during the     Infinity  comic book  Infinity     event 
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-   Abyss  comics #Marvel NOW  Abyss  
-  
- rowspan  4    Avengers   vol  5 #17  October 2013 
- rowspan  2  Former members of the main Avengers team  Killed in   New Avengers   vol  3 #32  May 2015  
-  
-   Ex Nihilo  comics  Ex Nihilo  
-  Ex Nihilo
-  
-   Nightmask  Adam Blackveil  Nightmask  
-  Adam Blackveil
- rowspan  2  Former members of the main Avengers team 
-  
-    Star Brand  Kevin Connor  Star Brand  
-  Kevin Connor
-  
-    Alexis The Protector  
-  Alexis
-    Avengers A I    #3
-  Former member of the Avengers A I  Squad  ref name  Avengers NOW / 
-  
-   Ronin  Marvel Comics  Ronin   br a k a  Blade
-  Eric Brooks
-    Mighty Avengers   vol 2 #1
-  First appeared as  Spider Hero   Revealed as   Blade  comics  Blade   in   Mighty Avengers   vol  2 #9  ref   cite web url http //www comicbookresources com/?page article&id 48773 title Marvel Inadvertently Leaks  Mighty Avengers  Mystery Member ID author  date 28 October 2013 website comicbookresources com accessdate 28 March 2018   /ref 
-  
-   Blue Marvel  
-  Adam Brashear
-    Mighty Avengers   vol 2 #2
-   Former member of the Mighty Avengers  Current member of the   Ultimates  2015 team  Ultimates   
-  
-   Power Man  Victor Alvarez  Power Man  
-  Victor Alvarez
- rowspan  2    Mighty Avengers   vol 2 #3
- rowspan  2  Former students at   Avengers Academy    former members of the   Heroes for Hire    Former members of the   The New Avengers  comics  Avengers Idea Mechanics    ref   cite web url http //marvel com/news/comics/24827/download_the_this_week_in_marvel_all new_all different_special title Download the This Week in Marvel All New All Different Special author  date  website News   Marvel com accessdate 28 March 2018   /ref 
-  
-   White Tiger  Ava Ayala  White Tiger  
-  Ava Ayala
-  
-  
+  Aftermath  
+In the wake of  Avengers Disassembled   two new Avengers series were created  The     Avengers  comics #New Avengers New Avengers     title replaced the   Avengers   title  with a new No  1 in December 2004  which ended with issue No  503 and   Avengers Finale    November 2004   This new title continued with the creative team of writer   Brian Michael Bendis   and artist   David Finch  comics  David Finch    The other title  premiering February 2005  was     Young Avengers      which featured teenage heroes  each of whom  excepting   Hawkeye  Kate Bishop  Hawkeye    related in some way to the legacy of the Avengers  This series was written by   Allan Heinberg    a writer for     The OC      with art by   Jim Cheung    The group was revived by its creators in July 2010 with the bimonthly series     Avengers  The Children  Crusade     which is a follow up to   Disassembled   and     House of M     
 
-  Avengers NOW   2014 2015   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-   Kaluu  
-  Kaluu
-    Captain America and the Mighty Avengers   #1  November 2014 
-  Former member of the Mighty Avengers  ref name  Avengers NOW / 
-  
-    Nova  Sam Alexander  Nova  
-  Sam Alexander
-    Nova #25    December 2014 
-  Originally offered membership by Thor in   Avengers Vs  X Men   #12  December 2012   Former member of the main Avengers team  ref name  Magazine 2015 / 
-  
-    Brother Voodoo Doctor Voodoo  
-  Jericho Drumm
-    Avengers & X Men  AXIS   #9  December 2014 
-  Former member of the Avengers Unity Squad 
-  
-    Sabretooth  comics  Sabretooth  
-  Victor Creed
-    Uncanny Avengers   vol  2 #1  January 2015 
-  Former member of the Avengers Unity Squad 
-   
-    Validator  comics  Validator  
-  Michaud
-  rowspan  2      Avengers  vol  5  #39  February 2015 
-  Former member of Sunspot  Avengers and   Omega Flight   
-  
-    Aikku Jokinen Pod   br a k a  Enigma
-  Aikku Jokinen
-  Former member of the Avengers Idea Mechanics and the   U S Avengers   
-  
-  
+The Scarlet Witch  storyline continued in the pages of     Excalibur  comics  Excalibur      where Magneto and   Professor X   tried helping her  to no avail  This in turn led into the     House of M     mini series and crossover  also written by Bendis 
 
-    All New All Different    Recruits  2015 2016   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-    Jane Foster  comics  Thor  
-  Jane Foster 
-  rowspan  3    All New All Different Avengers    May 2015 
-  Former member of the main Avengers team  Currently deceased
-  
-    Ms  Marvel  Kamala Khan  Ms  Marvel  
-  Kamala Khan
- rowspan  2  Former members of the main Avengers team 
-  
-    Spider Man  Miles Morales  Spider Man  
-  Miles Morales
-  
-    Deadpool  
-  Wade Wilson
-  rowspan  7    Avengers   #0  October 2015 
-  Former member of the Avengers Unity Division  ref name  Avengers #0 2015    Avengers   #0  2015  /ref 
-  
-    Synapse  Emily Guerrero  Synapse  
-  Emily Guerrero
-  rowspan  2  Current members of the Avengers Unity Division  ref name  Avengers #0 2015 / 
-  
-    Human Torch  
-  Johnny Storm
-  
-   Songbird  comics  Songbird  
-  Melissa Gold
-  Former field leader of the Avengers Idea Mechanics  ref name  Avengers #0 2015 /  ref   cite web url http //marvel com/cards/184/clocking_in_with_the_new_avengers/all title Clocking in with the New Avengers author  date  website News   Marvel com accessdate 28 March 2018   /ref 
-  
-    Squirrel Girl  
-  Doreen Green
-  Former member of the Avengers Idea Mechanics and   U S Avengers   
-  
-    Wiccan  comics  Wiccan  
-  William Kaplan
-  rowspan  2  Former members of the Avengers Idea Mechanics  ref name  Avengers #0 2015 /  
-  
-    Hulkling  
-  Dorrek V
-  
-    Cable  comics  Cable  
-  Nathan Summers
-    Uncanny Avengers   vol  3 #4  January 2016 
-  Former member of the Avengers Unity Division 
-  
-     Medusa  comics  Medusa   
-  Medusalith Amaquelin Boltagon
- rowspan  2    A Force   vol  2 #1  January&nbsp;2016 
- rowspan  4  Former members of A Force 
-  
- colspan  2     Singularity  comics  Singularity   
-  
-     Dazzler  Marvel Comics  Dazzler  
-  Alison Blaire
- rowspan  2    A Force   vol  2 #2  February&nbsp;2016 
-  
-     Nico Minoru Sister Grimm  
-  Nico Minoru
-  
-    Nadia van Dyne Wasp  
-  Nadia van Dyne
-    All New  All Different Avengers   #9  May&nbsp;2016 
-  Former member of the main Avengers team 
-  
-  
+The event is now considered by Marvel editors as the first part of a long series of events  which includes     House of M          Decimation  comics  Decimation          Planet Hulk          Civil War  comics  Civil War          Civil War  The Initiative The Initiative          X Men  Endangered Species Endangered Species          World War Hulk          X Men  Messiah Complex Messiah Complex          X Men  Divided We Stand Divided We Stand          Secret Invasion          X Men  Manifest Destiny Manifest Destiny          Dark Reign  comics  Dark Reign          Messiah War          Utopia  comics  Utopia          X Men  Nation X Nation X     and     Necrosha       All these grim events lead up to     Siege  comics  Siege     written by Brian Michael Bendis in 2010  which ushers in a new   Heroic Age  comics  Heroic Age   for Marvel  and     X Men  Second Coming     by Christopher Yost and Craig Kyle  which sees the slow rebirth of Earth    Mutant  Marvel Comics  Mutant   population 
 
-  Post   Civil War II   Recruits  2016–present   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 20%  Real name
- width 16%  Joined in
-   Notes
-  
-       William Talltrees Red Wolf     
-  Will Talltrees
-    Occupy Avengers   #1  November&nbsp;2016 
-  Current member of Occupy Avengers team
-  
-    Flatman  comics  Flatman  
-  Matt
- rowspan  4    Great Lakes Avengers   Vol  2 #1  December&nbsp;2016 
-  rowspan  4   Current member of the Great Lakes Avengers
-  
-    Big Bertha  comics  Big Bertha  
-  Bertha Crawford
-  
-    Doorman  comics  Doorman  
-  DeMarr Davis
-  
-    Mister Immortal  
-  Craig Hollis
-  
-    Good Boy  comics  Good Boy  
-  Goodness Silva
-    Great Lakes Avengers   Vol  2 #2  January&nbsp;2017 
- Current member of the Great Lakes Avengers
-  
-    Toni Ho Iron Patriot   br a k a  Rescue
-  Toni Ho
- rowspan  2    U S Avengers   #1  March&nbsp;2017 
- rowspan  2  Current members of the   U S Avengers   
-  
-    Robert Maverick Red Hulk   br a k a  Iron Hulk
-  Robert Maverick
-  
-       Nightshade  Marvel Comics  Nightshade     
-  Tilda Johnson
-    Occupy Avengers   #4  April&nbsp;2017 
-  Current member of Occupy Avengers team
-  
-       Wheels Wolinski     
-  Nico Wolinski
-    Occupy Avengers   #7  August&nbsp;2017 
-  Current member of Occupy Avengers team  Former member of   Wolfpack  Marvel Comics  Wolfpack   
-  
-       Ghost Rider  Robbie Reyes  Ghost Rider     
-  Robbie Reyes
-    The Avengers   Vol  8 #1  July&nbsp;2018 
-  Current member of the main Avengers team 
-  
-  
+As for the Avengers killed during   Disassembled   saga  they have all returned to life in separate events  Hawkeye was rematerialized by Wanda during the   House of M   story  Ant Man was rescued by the time traveling Young Avengers during   The Children  Crusade    as Stature brings him away from the range of Jack of Hearts  explosion  Ant Man is thus brought to the present along with the Young Avengers  The Vision is successfully rebuilt by Tony Stark after   Fear Itself  comics  Fear Itself    and Jack of Hearts is restored by a team of scientists of   Project Pegasus    during an assault of a pack of zombified clones of   Squadron Supreme    a source of zero point energy aggregates taking the corporeal form of Jack Hart 
 
-  Honorary  
-Heroes that have been granted honorary status during their lifetime or posthumously for acts of great courage and/or sacrifice 
+  List of crossover issues  
+    Avengers   #500–503  main story 
+    Avengers Finale    epilogue 
+    Captain America   #29–32  aftermath 
+      Captain America and the Falcon     #5–7  prologue 
+    Fantastic Four   #517–519  aftermath 
+    Iron Man   #84–85  prologue  and #86–89  aftermath 
+      Spectacular Spider Man     #15–20  prologue 
+    Excalibur   No  8  parallel story 
+    Thor   #80–81  prologue  and #82–85  parallel story 
 
-   class  wikitable  style  ; 
-  
- width 14%  Character
- width 18%  Real name
- width 24%  Joined in
- Notes
-  
-    Rick Jones  comics  Rick Jones  
-  Richard Milhouse Jones
-    Avengers   #1  September 1963 
-  
-  
-    Captain Marvel  Mar Vell  Captain Marvel  
-  Mar Vell br  a k a  Walter Lawson 
-    Avengers   vol  1 #86  March 1971  br  by affiliation only 
-  Posthumously awarded honorary membership  ref   The Official Handbook Of The Marvel Universe   #1 /ref 
-  
-    Whizzer  Robert Frank  Whizzer  
-  Robert L  Frank Sr 
-    Avengers   #173  July 1978 
-  Died in   Vision and Scarlet Witch   #2  December 1982  
-  
-    Moira Brandon  
-  Moira Brandon
-    Avengers West Coast   vol  2 #100  November 1993 
-  Honorary founding member of the West Coast team  Status given in flashback taking place before   West Coast Avengers   vol  1 
-  
-    Shroud  comics  Shroud  
-  Maximilian Quincy Coleridge
-    West Coast Avengers   #1  br/  September 1984 
-  Honorary founding member of the West Coast team  Status confirmed in   The Official Handbook of the Marvel Universe   
-  
-    Marrina Smallwood Marrina  
-  Marrina Smallwood
-    Avengers   #282  August 1987 
-  Wife of Namor; honorary member while he served on the team  ref name  casebook99 /  ref name  index5 /  ref name  AV300 /  Revived during the   Chaos War  comics  Chaos War    January 2011  
-  
-    Yellowjacket  Rita DeMara  Yellowjacket  
-  Rita DeMara
-    Avengers Annual   #17  1988 
-  Made honorary member after assisting an East Coast reserve team  ref name  casebook99 /  ref name  AVLog /  ref name  roleplaying guide /  ref name  annual17 /  Killed by Iron Man  Stark  in   Avengers  The Crossing    September 1995   Returned to life in   Chaos War  Dead Avengers   #1  January 2011  
-  
-    Swordsman  comics #Philip Javert Swordsman  
-  Phillip Jarvert
-    Avengers   #357  December 1992 
- rowspan  2  Alternate universe Avenger & Gatherer 
-  
-    Magdalene  comics  Magdalene  
-   Unrevealed
-    Avengers   #363  June 1993 
-  
-    Deathcry   br a k a  Lifecry
-   Sharra Neramani
-    Avengers   #364  July 1993  br  as a probationary member 
-  Never gained full membership  Given honorary status in   Avengers   #399  June 1996   ref name  casebook99 /  Killed in   Annihilation Conquest  Star Lord   #2  August 2007   Restored to life in   Chaos War  Dead Avengers   #5 
-  
-    Madame Masque Masque  
-  Guillietta Nefaria  birth name   Whitney Frost  legal name 
-    Avengers   #393  April 1996 
-  A   cloning clone   of   Madame Masque    ref name  roleplaying guide /  Killed in   Avengers   vol  3 #34  November 2000  
-  
-    Iron Man  
-  Anthony Edward Stark
-    Avengers  Timeslide    1996 
-  An alternate adolescent version of the original from reality 96020  Replaced him for a time and then merged with the original Stark 
-  
-    Flux  Dennis Sykes  Flux  
-  Dennis Sykes
-    One Month To Live   #5 br  September 2010 
-  Died in   One Month To Live   #5  September 2010   ref name  Magazine 2015    Avengers Magazine   #1  June 2015  /ref  ref name  Roll Call    Avengers  Roll Call    April 2012  /ref 
-  
-  
+Although not bannered as a part of the crossover  the events of     Beta Ray Bill Stormbreaker  The Saga of Beta Ray Bill     are a direct sequel to the story in   Thor   
 
-   Guardians of the Galaxy  1978    
-  Main article Guardians of the Galaxy  1969 team   
+  Later references to the storyline  
 
-A group of   superhero  es from the 31st century  the Guardians of the Galaxy   time travel  ed to the 20th century in vol  1 #168  February 1978  and served as honorary members during the   Korvac   saga  ref name  casebook99 /  ref name  AVLog / 
+     New Avengers Disassembled     
+Although not directly connected with the previous storyline  Bendis  5th arc on   New Avengers   is titled  New Avengers  Disassembled   a reference to  Avengers  Disassembled   It deals with the events of the   Civil War  comics  Civil War    in which superheroes were forced to register with the government or be arrested  on the Avengers  and how the team  varying opinions have caused them to break apart  The first three issues featured Captain America  Jessica Drew and Luke Cage  opinions on the matter  all who have heavily weighed against the registration  The next two featured the Sentry and Iron Man  both of whom were for registration  New avengers 21 25
 
-   class  wikitable  style  ; 
-  
- width 12%  Character
- width 14%  Real name
- width 20%  Joined in
-   Notes
-  
-    Yondu  
-  Yondu Udonta
- rowspan  7     Avengers   #168 br/   February 1978 
-  
-  
-    Martinex  
-  Martinex T Naga
-  
-  
-    Charlie 27  
-  
-  
-  
-    Nikki  comics  Nikki  
-  Nicholette Gold
-  
-  
-    Starhawk  comics  Starhawk  
-  Stakar Ogord
-  
-  
-    Aleta Ogord  
-  Aleta Ogord
-  
-  
-    Vance Astro  
-  Vance Astrovik
-  A younger  alternate version of him also later joined as the superhero   Vance Astrovik Justice    a k a    Marvel Boy    see above  Post   Heroes Return   recruits  1998  
-  
+     Avengers  The Initiative Disassembled     
+Like the 5th arc of Bendis    New Avengers    the storyline of     Avengers  The Initiative     also references   Avengers  Disassembled    complete with a banner reminiscent of the original  Issue No  21  the first in the     Dark Reign  comics  Dark Reign     event  centers on the aftermath of the failed   Secret Invasion Skrull invasion    and the revelation that the shape shifting aliens had infiltrated and corrupted the Fifty State Initiative and   Camp Hammond  comics  Camp Hammond    where the registered heroes were trained  Most disturbingly  Camp Hammond and the   Avengers  The Initiative Initiative   were largely under the supervision of the legendary Avenger   Henry Pym    but Pym had in fact been replaced by a Skrull years earlier  This is an opportunity for  top cop    Norman Osborn    the newly appointed director of   H A M M E R     formerly   S H I E L D     to radically redefine how the Initiative will fit into the new order—to his own advantage  Thus  the whole structure  and much of the cast  of   Avengers  The Initiative   is disassembled  Avengers the initiative 21 25
 
-   Young Avengers   
-  Main article Young Avengers  
+     Avengers/New Avengers  End Times     
+Bendis  last Avengers and New Avengers storylines used a red smashed Avengers symbol and a black text box with white text in same font as the Disassembled logo on the front covers of each issue of thouse stories  Avengers 31 34 new avengers 31 34
 
-A group of teenage heroes modeled after the Avengers  the surviving Young Avengers were awarded honorary membership following the    Young Avengers#Avengers  The Children 27s Crusade Children  Crusade    storyline 
+     Ultimates Disassembled     
+The 6th story arc of the 4th series of The Ultimate Comics series The Ultimates used the Disassembled name complete with the black box white text logo 
 
-   class  wikitable  style  ; 
-  
- width 12%  Character
- width 14%  Real name
- width 20%  Joined in
-   Notes
-  
-    Hawkeye  Kate Bishop  Hawkeye  
-  Kate Bishop
- rowspan  4     Avengers  The Children  Crusade   #9 br/   May 2012 
- rowspan  4  Awarded honorary membership by Captain America  ref name  Roll Call / 
-  
-    Hulkling  
-  Dorrek VIII
-  
-    Speed  comics  Speed  
-  Thomas Shepherd
-  
-    Wiccan  comics  Wiccan  
-  William Kaplan
-  
+  Other versions  
 
-   Avengers Third Grade   
-  Main article Avengers Academy  
+     What If?     
+On November 1  2006  Marvel released a      What If  comics #Volume 5 What If?      special showing a different outcome to the storyline  In this alternate reality  the Beast  sensing something wrong  investigates afterward  He and Warbird go to see Dr  Strange who claims to have no knowledge of what occurred  Strange uses his abilities to see the event  claiming that is not really him     Of course there  chaos magic   I would never use the Eye that way       They deduce that Wanda used her magics to make everyone believe Strange had defeated her and Magneto then took her away  The Beast eventually figures out that Captain America  his mind suffering long term damage from his years in ice  had pushed Wanda to do this  using the deaths to power her  They remake Genosha into a mutant paradise and Magneto fights to defend his daughter from the Avengers and the X Men  who all end up dead as the Scarlet Witch  spell is interrupted by   Rogue  comics  Rogue    In the end  Wanda and Cap allow themselves to be taken to oblivion to stop any more harm being done  Only Rogue    Ms  Marvel      Beast  comics  Beast      Falcon  comics  Falcon      Cyclops  Marvel Comics  Cyclops      Iron Man   and Doctor Strange are left – they were the ones who were directly confronting Cap and Wanda – and a guilt ridden Beast  learning from Uatu that Cap would have recovered from his illness and abandoned his manipulative relationship with the Witch as he became leader of a new team of Avengers if Beast had done nothing  realizes that he should have left everything alone 
 
-The Avengers promoted several senior Academy students to  Avengers Third Grade   as part of a plan to eventually award them full Avengers membership  ref name  Avengers NOW / 
+   Earth 5012   
+In an alternate world  the Avengers were never disassembled  but were subsequently captured by an alien race called the Trellions when the Vision detected the arrival of their agent   Titannus    a brainwashed   Skrull   super soldier  accompanying him on a mission to rescue his dying lover only to learn that he had been brainwashed with a fake story to lure the Avengers into a trap  The Wasp was quickly killed  Hank Pym   apparently another   Hulk  comics  Hulk   in this reality   was announced missing in action  and Captain America was executed to break their spirit  the reserve Avengers taking five years to rescue them and another five to beat back the Trellions sufficiently to stop them trying to re conquer Earth  At some point  Reed Richards apparently attempted to conquer the world  Iron Man taking on a Doctor Doom like apparel to oppose him  killing the Human Torch before Richards sent him to Earth 616 prior to Titannus  arrival on that Earth  This Iron Man has since become the villain Iron Maniac  being kept in stasis in a Helicarrier  while the Titannus of Earth 616 was defeated by a team assembled by Doctor Strange when he detected Titannus  arrival only after Titannus had destroyed most of Tokyo in a rampage  his violent approach leaving the heroes less inclined to trust him than they had been in this world 
 
-   class  wikitable  style  ; 
-  
- width 17%  Character
- width 17%  Real name
- width 26%  Joined in
-   Notes
-  
-    Finesse  comics  Finesse  
-  Jeanne Foucault
- rowspan  7    Avengers Academy   #39  November 2012 
-  
-  
-    Hazmat  comics  Hazmat  
-  Jennifer Takeda
-  
-  
-    Mettle  comics  Mettle  
-  Ken Mack
-  
-  
-    Reptil  
-  Humberto Lopez
-  
-  
-    Striker  comics  Striker  
-  Brandon Sharpe
-  
-  
-    Julie Power Lightspeed  
-  Julie Power
-  
-  
-    X 23  
-  Laura Kinney
-  
-  
+  Parodies  
 
-  Infiltrators  
-   class  wikitable  style  width 100%; 
-  
- width 12%  Character
- width 15%  Real name
- width 18%  Joined in
-   Notes
-  
-  Hawkeye
-    Sagittarius  comics #Second Life Model Decoy Sagittarius  
-    West Coast Avengers   #27 br/   December 1987 
-  Created to look exactly like Hawkeye to infiltrate the West Coast Avengers 
-  
-  Tigra
-    Leo  comics #Female android Leo Leo  
-    West Coast Avengers   #27 br/   December 1987 
-  Created to look exactly like Tigra to infiltrate the West Coast Avengers 
-  
-    Ravonna   br a k a   Nebula   Terminatrix
-  Ravonna Lexus Renslayer
-    Avengers   #291 br/   May 1988 
-  Posing as Nebula at the time  and better known as    Terminatrix     Started placing the East Coast division under   mind control   as of #291  May 1988   Unofficial leader as of #294  August 1988    Officially  joined in  #297  Reported   Missing in action MIA   minutes later  East Coast division consequently disbanded  November 1988  
-  
-  Mockingbird
-  H rpra
-    Avengers West Coast   #91 br/   February 1993 
-  Skrull who replaced the kidnapped Barbara Morse as Mockingbird in order to infiltrate the team  as revealed in a retcon in   Secret Invasion   #8  January 2009   She was slain by Mephisto in   Avengers West Coast   #100  November 1993   although her ghost or spirit has been seen a few times since ref   Dead Girl   #1 5    Avengers III   #10 11    Thunderbolts 2000  Hellcat   #3 /ref  True name revealed in   Official Handbook of the Marvel Universe A to Z   #1 Softcover in the updates section 
-  
-  Vision
-  AntiVision
-    Avengers   #360 br/   March 1993 
-  Infiltrated the team as a representative of the Gatherers  He impersonated the Vision  and was seemingly destroyed by   Proctor  comics  Proctor    before being defeated by Vision 
-  
-  Spider Woman
-    Veranke  
-    New Avengers   #3 br/   March 2005 
-  Joined the Mighty Avengers  Initiative team  in   Mighty Avengers   #7  November 2007   Revealed in   New Avengers   #42  August 2008  to have been a Skrull  Killed by   Green Goblin Norman Osborn   in   Secret Invasion   #8  January 2009  
-  
-  Scarlet Witch
-    Loki  comics  Loki Laufeyson  
-    Mighty Avengers   #21 br/   March 2009 
-  Joined and assembled the Mighty Avengers in   Mighty Avengers   #21  March 2009   Revealed in   Mighty Avengers   #29  November 2009  
-  
-  Ant Man
-    Black Ant  comics  Black Ant  
-    Secret Avengers   #24 br/   March 2012 
-  Infiltrated the Secret Avengers as a Life Model Decoy impersonating Eric O Grady  Supposedly destroyed alongside the other Descendents 
-  
-    The Superior Spider Man Spider Man  
-    Doctor Octopus Otto Octavius   br/  switched bodies with Peter Parker 
-    The Amazing Spider Man   #698 br/   December 2012 
-  Due to a body swap that occurred during     The Amazing Spider Man     #698  Peter Parker was replaced by   Doctor Octopus Otto Octavius   as Spider Man on the Avengers  with the other members unaware of the switch  Under probation after     The Superior Spider Man     #8 for various violent acts  Left team in   The Superior Spider Man   #26 to avoid an incriminating brain scan  Peter Parker later regained his body and subsequently became a member again  
-  
-    Captain America  
-    Captain America/Supreme Hydra Steve  Stevil  Rogers   br/  Alternate version of Cap created by Kobik 
-    Sam Wilson  Captain America   #7 br/   May 2016 
-  Due to Kobik  warped view of the world thanks to the Red Skull  upbringing  when Kobik restored Steve Rogers to health  she  improved  him by altering his history so that he was always a HYDRA deep cover agent  Her memories of the real Cap she contained within herself   Stevil  manipulated the Avengers  SHIELD  and the superhero community as he went up the HYDRA ranks  becoming its leader and conquering America  Eventually realizing her creation was a monster  Kobik freed and restored the true Captain America  who defeated his evil doppelganger  
-  
-   Avenger X  comics  Avenger X  
- Cressida
-   Avengers   Vol  7 #2 1  December 2016 
- Retconned as an additional member of Captain America  Kooky Quartet before betraying the team  Currently stuck in the Microverse  
-  
-    Voyager  Va Nee Gast  Voyager  
-  Va Nee Gast  a k a  Valerie Vector
-    The Avengers   #675  March&nbsp;2018 
-  Retconned as a founding member of the Avengers who was erased from the timeline and returned  This proved to be a ruse set up by her father  the   Grandmaster  Marvel Comics  Grandmaster   
-  
+     Great Lakes Avengers  Misassembled     
+The   GLA   miniseries    GLA  Misassembled    2005   written by   Dan Slott   and pencilled by   Paul Pelletier    provided a   tongue in cheek   reference to   Avengers Disassembled    In a move which satirized the   comic book death  s in that book  it was announced that a character would die in each   GLA   issue  Surely enough    Dinah Soar    the newcomer   Grasshopper  comics  Grasshopper    the squirrel   Monkey Joe    and   Doorman  comics  Doorman   are all killed  and   Mr  Immortal   commits suicide  However  Doorman was resurrected almost immediately acquiring the powers of   Deathurge    Monkey Joe was replaced with an identical squirrel called   Tippy Toe   and Mr  Immortal stayed dead for only a few seconds  Three other Grasshoppers appeared in later issues of GLA  and were all killed in the space of few pages  continuing the parody 
 
-  Other teams  
+   Bongo Comics Free For All   
+A   Bongo Comics   Free For All    Free Comic Book Day   Special  has   Comic Book Guy   reading    Archie Disassembled    The following quotes 
+    Big Ethel   kills   Moose Mason Moose   to get   Jughead Jones Jughead    attention? Oh    Brian Michael Bendis    you ve done it again 
 
-   Fury  Black Ops Initiative  1959    
-As revealed in   New Avengers   #10  March 2011  
+     Cable & Deadpool   #12   
+    Deadpool  comics  Deadpool    to   Agent X  Marvel Comics  Agent X      Dude    anyone   wearing a harness rig has a failsafe release to prevent it from catching on fire and forcing you to fly into   Kree   spaceships and blow up  I mean    duh    who   doesn t   know that? 
 
-   class  wikitable  style  width 100%; text align left; margin 1em auto 1em auto; 
-  
- width 12%  Character
- width 24%  Real name
- width 20%  Joined in
-  
-    Nick Fury  
-  Nicholas Joseph Fury
- rowspan  8    New Avengers   vol  2 #10  March 2011 
-  
-    Dum Dum Dugan  
-  Timothy Aloysius Cadwallader Dugan
-  
-    Sabretooth  comics  Sabretooth  
-  Victor Creed
-  
-    Dominic Fortune  
-  Duvid Jerome T  Fortunov
-  
-    Namora  
-  Aquaria Nautica Neptunia
-  
-    Kraven the Hunter  
-  Sergei Kravinoff
-  
-    Ulysses Bloodstone  
-  Unrevealed
-  
-    Silver Sable  
-  Ernst Sablinova
-  
-    Blonde Phantom  
-  Louise Grant Mason
-      Avengers 1959     #1  October 2011 
-  
-
-   Great Lakes Avengers  1989    
-  Main article List of Great Lakes Avengers members  
-
-A group of heroes independently formed their own branch of Avengers  as   Great Lakes Avengers    in     West Coast Avengers     vol  2 #46  July 1989   with no official status  Later known as the Lightning Rods  after the Thunderbolts during   Heroes Reborn     they eventually switched their name back  In the   GLA Misassembled   miniseries  the team was contacted by the Maria Stark Foundation and forced to change their name  They chose the Great Lakes   X Men    In   The Thing   #8  they changed their name again to the Great Lakes   Champions  1975 team  Champions    Since the   Civil War  comics  Civil War    the team has been known as the Great Lakes Initiative  In the new ongoing Great Lakes Avengers series  the team was made official members of the Avengers due to a legal technicality  ref   The Great Lakes Avengers   Vol  2 #1 /ref  A few issues later  their membership was revoked  ref   The Great Lakes Avengers   Vol  2 #7 /ref 
-
-   Avengers Resistance  2009    
-  Main article List of Avengers  The Initiative characters#Avengers Resistance l1 List of Avengers Resistance members  
-  Vance Astrovik Justice   and other former members of the   New Warriors   eventually left   Avengers  The Initiative The Initiative   to form   Counter Force  Marvel Comics  Counter Force    with the purpose of ensuring that The Initiative stayed true to their goal of training new and undeveloped superhumans  After   Camp Hammond  comics  Camp Hammond   was shut down    Tigra   and   Gauntlet  comics  Gauntlet   joined the New Warriors who had left the Initiative  and they formed the Avengers Resistance  with the specific purpose of exposing the criminal deeds of   Norman Osborn   
-
-   Astonishing Avengers  2014    
-During the     AXIS  comics  AXIS     storyline    Magneto  comics  Magneto   assembles an unnamed group consisting of   Absorbing Man      Carnage  comics  Carnage      Deadpool      Doctor Doom      Enchantress  Marvel Comics  Enchantress      Roderick Kingsley Hobgoblin      Jack O Lantern  Marvel Comics  Jack O Lantern   V    Loki  comics  Loki      Mystique  comics  Mystique   and   Sabretooth  comics  Sabretooth   to combat the Red Skull  ref   Avengers & X Men  AXIS   #2 /ref  When the Red Skull was defeated  the villains went their separate ways  but were inverted due the spell cast by Scarlet Witch and Doctor Doom  ref   Avengers & X Men  AXIS   #3 /ref  The inverted villains were reassembled by Steve Rogers when he noticed something was wrong with the Avengers and X Men to assemble an effective resistance against the heroes after the other Avengers   with the exception of Spider Man and Nova   were captured  naming the new team the    Astonishing Avengers     ref   Avengers & X Men  AXIS   #6 /ref  During the subsequent fight  Carnage sacrifices himself to prevent the inverted X Men detonating a  gene bomb  that would have killed every non mutant in the blast radius  ref   Avengers & X Men  AXIS   #8 /ref  with the fight concluding with the rest of the  Astonishing Avengers    with the exception of Sabretooth  who was protected by a shield generated by Iron Man   being returned to normal  However  the team left a video message claiming responsibility for the heroes  actions while corrupted before they returned to their own villainous ways  identifying themselves as the  Axis of Evil   allowing the Avengers and X Men to rebuild their reputations  ref   Avengers & X Men  AXIS   #9 /ref 
-
-   Hydra Avengers  2017    
-During the     Secret Empire  comic book  Secret Empire     storyline  the Hydra regime has their own Avengers  consisting of Odinson  Deadpool  Scarlet Witch  Vision    Taskmaster  comics  Taskmaster    the   Black Ant  comics  Black Ant    and the   Superior Octopus   ref   Secret Empire   #1 /ref   However  Odinson only served on this team because he was psychologically broken due to his current state of unworthiness prompting him to side with Rogers after his old ally still proved capable of lifting his hammer  while Wanda was possessed by a demon and the Vision by an A I  virus  In the final stand  Odinson returned to his old allies as he recognized that Rogers had gone too far  while the Vision  daughter and Brother Voodoo restored the Vision and the Witch to normal respectively  Taskmaster and Black Ant turning against their fellows in exchange for future amnesty ref   Secret Empire   #9 /ref  
-
-  Bibliography  
-  main article List of Avengers titles  
-
-  See also  
-     Avengers Arena    
-    Avengers  The Initiative      List of Avengers  The Initiative characters   
-     Marvel Adventures  The Avengers    
-    List of Mighty Avengers members  
-     Next Avengers  Heroes of Tomorrow    
-     Secret Avengers    
+  Collected editions  
+The stories have been collected into a number of   trade paperback  comics  volumes   
+    Avengers Disassembled    collects   Avengers   #500–503 and  Avengers Finale   176 pages  hardcover  January 2007    ISBN 0 7851 2294 X    softcover  February 2005    ISBN 0 7851 1482 3   
+    Avengers Disassembled  Iron Man  Thor & Captain America    collects   Thor   #80–85    Iron Man   #84–89    Captain America & The Falcon   #5–7  and   Captain America   #29–32  448 pages  hardcover  April 2009    ISBN 0 7851 3884 6    collected separately as softcovers 
+     Avengers Disassembled  Iron Man    collects   Iron Man   #84–89  softcover 144 pages  Jan 2007    ISBN 0 7851 1653 2   
+     Avengers Disassembled  Captain America    collects   Captain America   #29–32 and   Captain America And The Falcon   #5–7  168 pages  December 2004    ISBN 0 7851 1648 6   
+     The Mighty Thor Disassembled    collects Thor 80–85  152 pages  December 2004    ISBN 0 7851 1599 4   
+    New Avengers Omnibus  Volume 1    collects   Avengers   #500–503   Avengers Finale     New Avengers   1 31  Annual 1;  New Avengers Most Wanted Files ;  New Avengers   Custom 676  Army & Air Force ;   Giant Size Spider Woman   1;  New Avengers  Illuminati  1;   Civil War  The Confession   1; and   Civil War  The Initiative   1  1208 pages  September 2012    ISBN 0 7851 6489 8   
 
   References  
-  reflist 2  
+  Reflist  
 
-  Avengers  
+  External links  
+    comicbookdb type storyarc id 603 title Avengers Disassembled  
+   http //marvel com/comics/events/234/avengers_disassembled Avengers Disassembled  at Marvel com
 
-  DEFAULTSORT Avengers Members  List Of  
-  Category Lists of Marvel Comics characters by organization  
-  Category Lists of Avengers characters  
+  Avengers publications  
+  New Avengers  
+  Marvel events  

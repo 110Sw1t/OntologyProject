@@ -1,381 +1,258 @@
-  About the comic book series the 1960s British pop group The Mighty Avengers  band   
-  Refimprove date June 2013  
-  Infobox comic book title     Wikipedia WikiProject Comics   
-  image   Mighty_Avengers jpg
-  caption     The Mighty Avengers   #1  May 2007  br Cover art by   Frank Cho  
-  schedule   Monthly
-  startmo   May
-  startyr   2007
-  endmo   April
-  endyr   2010
-  publisher     Marvel Comics  
-  main_char_team      Current Members    br   Blue Marvel  Marvel Comics  Blue Marvel   br   Luke Cage   br   Falcon  comics  Captain America  Wilson    br   Kaluu   br   Power Man  Victor Alvarez  Power Man   br   She Hulk   br   Monica Rambeau Spectrum   br   Spider Man   br   White Tiger  Ava Ayala  White Tiger  
-  writers     Brian Michael Bendis   br   Dan Slott  
-  pencillers     Frank Cho   br   Mark Bagley   br Khoi Pham
-  inkers   Danny Miki
-  colorists   Jason Keith
-  letterers  
-  editors  
-  creative_team_month   
-  creative_team_year  
-  creators   Brian Michael Bendis br Frank Cho
-  subcat   Avengers  comics 
-  sort   Mighty Avengers  The
+  refimprove date April 2015  
+  Infobox comics team and title     Wikipedia WikiProject Comics    
+ pub   y
+     Group section    
+      name                  Dark Luis    
+ image                      file name format only    
+ caption               
+ publisher             Marvel Comics
+ debuthead             
+ debut                   Dark Avengers   #1
+ debutmo               January
+ debutyr               2009
+ creators              Brian Michael Bendis
+ type                  
+ business              
+ organisation          
+ organization          
+ team                  dark avengers
+ base                  NYC
+ owners                  U S  Agent  comics  U S  Agent   br/ Formerly  br/   Norman Osborn   br/   Victoria Hand   br/   Luke Cage  
+ employees             
+ members                  Current Members     br/   Moonstone  comics  Captain Marvel  Moonstone    br/   June Covington Scarlet Witch  Toxie Doxie    br/   Ragnarok  comics  Thor  Ragnarok    br/    Former Members     br/   Ares  Marvel Comics  Ares  John Aaron    br/   Noh Varr Captain Marvel  Noh Varr    br/   Bullseye  comics  Hawkeye  Bullseye    br/   Barney Barton Hawkeye  Trickshot    br/   Skaar  character  Hulk  Skaar    br/   Superia Ms  Marvel  Superia    br/   Sentry  Robert Reynolds  Sentry  The Void    br/   List of incarnations of Spider Man#Ai Apaec Spider Man  Ai Apaec    br/   Mac Gargan Spider Man  Venom    br/   Daken Wolverine  Daken    br/   gorgon  Tomi Shishido  Wolverine  Gorgon   
+
+ fullroster           
+
+     Series section    
+      title                 Dark Avengers    
+ cvr_image             Darkavengers jpg     to be replaces w/ cover as published   
+ cvr_caption             Descript cvr Dark Avengers  1 Jan  2009  Art by   Mike Deodato Jr   
+ schedule              Monthly
+ ongoing               Y
+ Superhero             y
+ pub_series              Marvel Comics  
+ date                  
+ 1stishhead            Volume 1
+ 1stishyr              2009
+ 1stishmo              March
+ endishmo              June
+ endishyr              2010
+ 1stishhead1           Volume 1 continued
+ 1stishyr1             2012
+ 1stishmo1             August
+ endishmo1             
+ endishyr1             
+ issues                    vol  1     16 br     vol  1 cont      16
+ main_char_team        
+ writers                 Brian Michael Bendis   
+ artists                 Mike Deodato  
+ pencillers            
+ inkers                
+ letterers             
+ colorists             Rain Beredo
+ editors               
+ creative_team_month   
+ creative_team_year    
+ creators_series       
+ TPB                   Dark Avengers Assemble
+ ISBN                  0 7851 3851 X
+ TPB1                  Molecule Man
+ ISBN1                 0 7851 3853 6
+ TPB2                  Siege
+ ISBN2                 0 7851 4811 6
+
+     Category section    
+ cat                   teams
+ subcat                Marvel Comics
+ hero                  y
+ villain               y
+ sortkey               Dark Avengers
+ addpubcat1            Avengers  comics  titles
   
-     The Mighty Avengers      is a   comic book     Ongoing series series   that was published by   Marvel Comics    Originally written by   Brian Michael Bendis    also the writer of     The New Avengers  comics  New Avengers      the title first featured an officially sanctioned   Avengers  comics  Avengers   team of   Superhuman Registration Act registered     superhero  es  residing in   New York City   as part of the   Fifty State Initiative    as opposed to the unlicensed team featured in The New Avengers  This first incarnation of the team is led by   Iron Man   and   Carol Danvers Ms  Marvel    with the second lineup featuring   Hank Pym   as the leader  and the third led by   Luke Cage   and   Monica Rambeau   
+     Dark Avengers      is an American   comic book     ongoing series series   published by   Marvel Comics       Not name of team  On p 3 of first issue  team is clearly introduced as the  Avengers     It is part of a series of titles that have featured various iterations of the   superhero   team the   Avengers  comics  Avengers    Unusually  the series stars a version of the team that  unknown to the public in its fictional universe  contains several members who are   supervillains   disguised as established superheroes 
 
   Publication history  
-The team first appears in   The Mighty Avengers   #1  May 2007   written by   Brian Michael Bendis   and pencilled and inked by   Frank Cho    The roster  led by   Ms  Marvel    also consisted of   Ares  Marvel Comics  Ares      Black Widow  Natalia Romanova  Black Widow      Iron Man      Sentry  Robert Reynolds  Sentry      Wasp  comics  Wasp   and   Wonder Man    In the wake of the superhero    Civil War  comics  Civil War     Iron Man recruits Ms  Marvel as leader of the revamped team  Together they select the first roster 
+The series debuted with issue #1  dated January 2009  as part of a multi series story arc entitled    Dark Reign  comics  Dark Reign     ref name  darkreign   http //www newsarama com/comics/090829 BendisDarkAvengers html Getting Dark  Brian Bendis on Dark Avengers & Dark Reign     Newsarama    September 29  2008 /ref  In the premiere  writer   Brian Michael Bendis   and artist   Mike Deodato   ref  http //www newsarama com/comics/081223 deadato dark avengers html Mike Deodato Explores His Dark  Avengers  Side     Newsarama    December 23  2008 /ref   working from a continuity begun in a previous  company wide story arc     Secret Invasion     involving an infiltration of Earth by the shape shifting alien   Skrull  s and that race  eventual defeat  chronicled the aftermath of the U S  government  disbanding of the federally sanctioned superhero team  the   Avengers  comics  Avengers    Bendis described the thinking behind the team   These are bad ass  hardcore get it done types  They ll close the door and take care of business and he  dressing them up to make them something that the people want   ref  http //www comicbookresources com/?page article&id 19654  The Osborn Supremacy  Dark Avengers      Comic Book Resources    January 22  2008 /ref  This is in contrast to the changes Norman Osborn is shown making to the   Thunderbolts  comics  Thunderbolts    where  according to writer   Andy Diggle    he turns that team into  something much more covert and much more lethal  his own personal hit squad   ref name newsarama120817  http //www newsarama com/comics/120817 Diggle ThunderboltsB html  Andy Diggle  The Future of the Thunderbolts      Newsarama    December 17  2008 /ref 
 
-  The Mighty Avengers   was originally intended to run parallel with     The New Avengers  comics  New Avengers      with characters and events crossing over and being viewed from both perspectives  However  artist Cho fell behind schedule  and left the book after six issues and an additional cover  ref  http //forum newsarama com/showthread php?t 130974 Kean  Benjamin Ong Pang   Frank Cho  On Leaving   The Mighty Avengers        Newsarama com    September 27  2007 /ref  Successor   Mark Bagley   drew the series from issues #7–11  early March – late May 2008  
+The series ended with   Dark Avengers   #16  at the culmination of the   Siege  comics  Siege   storyline  ref   cite web  first Richard  last George  url http //comics ign com/articles/106/1061476p1 html  title Siege Ends the Avengers  publisher   IGN    date January 15  2010  accessdate January 15  2010    /ref 
 
-The series was canceled with   The Mighty Avengers   #36  April 2010   at the conclusion of the     Siege  comics  Siege     storyline  ref   cite web  first Richard  last George  url http //comics ign com/articles/106/1061476p1 html  title Siege Ends the Avengers  publisher IGN  date January 15  2010  accessdate January 15  2010    /ref 
-
-The team was relaunched in September 2013 under the creative team of   Al Ewing   and   Greg Land    The new team is more street level  and is led by   Luke Cage    ref   cite web url http //www newsarama com/18034 mighty creative team details revealed html  title MIGHTY AVENGERS Creative Team  Details Revealed  publisher Newsarama com  date 2013 06 07  accessdate 2014 07 14   /ref  The team contains new versions of   Ronin  Marvel Comics  Ronin      White Tiger  Ava Ayala  White Tiger   and   Power Man  Victor Alvarez  Power Man    plus   Blue Marvel  Marvel Comics  Blue Marvel    the   Doctor Octopus Superior Spider Man      She Hulk      Monica Rambeau Spectrum    the   Falcon  comics  Falcon   and the new hero   Blade  comics  Spider Hero    ref   cite web last Grey  first Melissa  url http //www ign com/articles/2013/06/08/the mighty avengers return to marvel  title The Mighty Avengers Return to Marvel  publisher IGN  date 2013 06 07  accessdate 2014 07 14   /ref 
+The   Thunderbolts   comic book was renamed   Dark Avengers   beginning with issue #175  but the creative team remained unchanged  ref name  auto    cite web  first Albert  last Ching  url http //www newsarama com/comics/wondercon 2012 dark avengers jeff parker html  title WonderCon 2012 Exclusive  THUNDERBOLTS Becomes DARK AVENGERS  publisher   Newsarama    date March 18  2012  accessdate March 28  2012    /ref  ref name  auto1    cite web  first Dave  last Richards  url http //www comicbookresources com/?page article&id 37637  title WC12  Parker & Shalvey Cage The  Dark Avengers   publisher   Comic Book Resources    date March 19  2012  accessdate March 28  2012    /ref  Dark Avengers ended with issue #190  ref   cite web url http //www comicbookresources com/?page article&id 43749 title Marvel Comics Solicitations for May  2013 author  date 14 February 2013 website comicbookresources com accessdate 19 March 2018   /ref 
 
   Fictional team biography  
-  see also List of Mighty Avengers story arcs  
-Following the federally sanctioned creation of this iteration of the Avengers    Iron Man    Tony Stark  is discredited and publicly vilified after his inability to anticipate or prevent a   Secret Invasion secret infiltration and invasion   of Earth by the shape shifting alien   Skrull   race  and by the Skrull disabling of his StarkTech technology  which had a virtual monopoly on worldwide defense 
 
-Following the Skrulls  eventual defeat and the subsequent dissolution of   S H I E L D     the officially sanctioned team of Avengers  now led by   Norman Osborn   under the   H A M M E R    banner  is spun off into the pages of   Dark Avengers    ref     Dark Avengers     #1  March 2009  /ref 
+   Dark Avengers   
+The government assigned the team  redevelopment to   Norman Osborn    the reformed supervillain now calling himself the Iron Patriot  whom the government had previously assigned to head the superhero team the   Thunderbolts  comics  Thunderbolts   and who had become a public hero for his role in repelling the Skrull threat  Osborn  also given leadership of the   espionage   agency   S H I E L D     reforms that agency into   H A M M E R    and creates a new Avengers team under its aegis 
 
-In response    Henry Pym    in his latest superhero persona as the new   Wasp  comics  Wasp    leads an Avengers team outside the U S  and H A M M E R   jurisdiction  With the apparent help of the   Scarlet Witch  —actually  a disguised   Loki  comics  Loki    the   Loki Norse trickster god  —he summons the   Vision  Marvel Comics #Second android Vision/ Jonas  Vision   and   Cassandra Lang Stature   of the   Young Avengers      U S  Agent  comics  U S  Agent      Jocasta  comics  Jocasta      Hercules  Marvel Comics  Hercules      Amadeus Cho    and   Iron Man   
+The initial line up consists of former Thunderbolts members and new recruits  including the   Sentry  Robert Reynolds  Sentry      Ares  Marvel Comics  Ares      Noh Varr    now   Captain Marvel  Marvel Comics  Captain Marvel    as well as disguised super villains   Moonstone  comics  Moonstone    portraying   Ms  Marvel       Venom  Marvel Comics character  Venom      Mac Gargan   portraying   Spider Man   after being given a formula that resets the symbiote to the size it was when it possessed Spider Man     Bullseye  comics  Bullseye    portraying   Hawkeye  comics  Hawkeye    and   Wolverine  character  Wolverine    disgruntled son   Daken   taking on the Wolverine mantle  Osborn also takes on the identity of   Iron Patriot    wearing a red  white  and blue themed   Iron Man   armor  ref   Dark Avengers   #1  March 2009  /ref  The team goes to   Latveria   to rescue   Doctor Doom   from   Morgan le Fay  Marvel Comics  Morgan Le Fay    ref   Dark Avengers   #2  April 2009  /ref  Upon returning from Latveria  Osborn deals ref   Dark Avengers   #5 /ref  with the aftermath of   Hawkeye  comics  Ronin    appearance on live TV reminding the public of Osborn  murderous past and that he should not be trusted  ref   New Avengers   #50 /ref  Due to this action  Osborn is forced to  get rid of  this problem 
 
-Claiming to be the only authentic team of Avengers due to being the only team operating under that name to have a founding member on the roster  the team operates from an interdimensional headquarters  It is granted official recognition outside the U S  by the international organization   List of government agencies in Marvel Comics#G R A M P A  G R A M P A     and combats supervillains and other entities including   Chthon  Marvel Comics  Chthon    ref   The Mighty Avengers   #21  March 2009  /ref  and   the Unspoken    ref   The Mighty Avengers   #27  Sept  2009  /ref 
+The Dark Avengers arrive in San Francisco to set up martial law and to quell the anti mutant riots  In doing so  Norman sets up   Dark X Men his own team of X Men   consisting of   Cloak and Dagger  comics  Cloak and Dagger      Mimic  comics  Mimic      Emma Frost      Namor   the Sub Mariner    Daken      Michael Pointer  comics  Weapon Omega   and   Mystique  comics  Mystique    posing as   Professor X    much to the chagrin of his Avengers  ref   Dark Avengers/Uncanny X Men    Utopia  comics  Utopia     #1 /ref  After Emma Frost  Namor  and Cloak and Dagger betray the team  Norman swears vengeance on the X Men  ref   Dark Avengers   #8 /ref 
 
-During the events of     Infinity  comic book  Infinity      a new team of Mighty Avengers are formed during   Thanos    invasion of Earth  With the main Avengers branch off in space  the defense of New York falls to a group of former Avengers and the remnants of Luke Cage  recently disbanded   Heroes for Hire   squad  They are given the name  Mighty Avengers  after a   Twitter     hashtag   used to describe the group  ref   Mighty Avengers    vol  2  #1–3 /ref 
+A series of disappearances throughout Colorado causes Norman Osborn  Dark Avengers  except for Venom  to visit the small town of   Dinosaur  Colorado     Everyone except Norman is teleported away  while Osborn finds himself in front of a throne with   Molecule Man   seated on it  flanked by the   Beyonder      Mephisto  comics  Mephisto      Zarathos    and the   Enchantress  Marvel Comics  Enchantress    ref   Dark Avengers   #10  2009  /ref   However  it is revealed that these others were merely Molecule Man  creations   Molecule Man tortures Norman mentally and physically and seemingly kills his Avengers  ref   Dark Avengers   #11 /ref  Osborn  assistant   Victoria Hand  comics  Victoria Hand   successfully stalls Molecule Man with a false surrender until the   Sentry  Robert Reynolds  Void   is able to reform and kill Molecule Man  It is revealed that the Sentry and the Void have the same powers as Molecule Man  The Sentry regains control of himself and agrees to begin therapy with Moonstone  while Victoria Hand demands Norman to undergo therapy as well after being tortured  Inside his office    Loki  comics  Loki   is manipulating Norman into having a   Green Goblin   relapse  ref   Dark Avengers   #12 /ref 
 
-During the     Inhumanity  comics  Inhumanity     storyline  Luke Cage keeps the Mighty Avengers together and made the remodeled Gem Theater as their base  The Mighty Avengers now have the purpose of helping those in need  During this time  the Spider Hero becomes the new   Ronin  Marvel Comics  Ronin    ref   Mighty Avengers   #4 INH /ref 
+After declaring war on the   Asgard  comics  Asgardians    Norman Osborn has the Dark Avengers and those in   Avengers  The Initiative The Initiative   prepare for the   Siege  comics  Siege of Asgard    ref   Siege   #1 /ref  Norman considers The Sentry  specifically his dark side  known as The Void  his secret weapon  ref   Dark Avengers   #13 /ref 
 
-During the  Last Days  part of the     Secret Wars  2015 comic book  Secret Wars     storyline  Steve Rogers tells the Mighty Avengers team that the world is ending and asks them to side with him or the Illuminati  Two weeks before the end of the world  the Mighty Avengers join Steve Rogers in a fight against the Illuminati  ref   Captain America and the Mighty Avengers   #8 /ref  The Mighty Avengers help out in the incursion against Earth 1610  ref   Captain America and the Mighty Avengers   #9 /ref 
+In flashback  it is told how Robert Reynolds received his vast powers from experimental drugs  using his might as the Sentry to live the life of a superhero  while his darker emotions manifested as the Void  Osborn has manipulated Reynolds into allowing the Void to take over  to do Osborn  murderous bidding  Osborn has somehow recreated the addictive serum that gave Reynolds his powers  making him dependent on Osborn and his approval  Meanwhile  Reynolds  wife Lindy has been a virtual prisoner in the Sentry  Watchtower  has even attempted to kill him  and begs Reynolds to either kill her or let her go  Reynolds  warring personalities  however  have stalemated  The Sentry even attempts suicide  flying into the heart of the sun  but such is his invulnerability that it doesn t work  He tires of struggling against the Void  Norman orders Bullseye to kill Lindy  blaming her for Sentry  uncertainty and weakness  ref   Dark Avengers   #14 /ref  When an emergency evacuation occurs  Bullseye takes Lindy on a helicopter  antagonizes her cruelly  then strangles her to death and dumps her body into the ocean  When Sentry arrives looking for Lindy  Bullseye claims that she committed suicide  out of fear of Reynolds  by jumping out of the helicopter in the countryside  Sentry leaves to look for her body  From this point on  it could be said that the murderous Void was in full control of Reynolds and his unprecedented power  ref   Dark Avengers   #15 /ref 
 
-  Team Roster  
-   Initiative Team  2007–2008    
-The Mighty Avengers were founded by Ms  Marvel and Iron Man  as New York  team under the   Fifty State Initiative   
-   class  wikitable  style  width 100%; 
-  
- width 14%  Character
- width 21%  Real Name
- width 17%  Joined in
- width 48%  Notes
-  
-    Iron Man  
-  Anthony Edward Stark
- rowspan  7    Mighty Avengers   #1  May 2007 
-  Removed from being director of S H I E L D  in   Secret Invasion   #8 
-  
-    Ms  Marvel  
-    Carol Danvers Carol Susan Jane Danvers  
-  Became member of the New Avengers  
-  
-    Wonder Man  
-  Simon Williams
-  Resigned in   Secret Invasion   #8 
-  
-    Wasp  comics  The Wasp  
-  Janet van Dyne br  a k a  Janet Pym 
-  Died in   Secret Invasion   #8  Later revealed that she was actually shunted to the   Microverse   ref   Avengers   vol  4  #32 /ref 
-  
-    Black Widow  Natasha Romanova  Black Widow  
-  Natalia Alianovna Romanova br  a k a  Natasha Romanoff 
-  Resigned in   Secret Invasion   #8 
-  
-    Sentry  Robert Reynolds  Sentry  
-  Robert Reynolds
-  Became member of the Dark Avengers  Presumed deceased as of   Siege   #4 
-  
-    Ares  Marvel Comics  Ares  
-  Ares br  a k a  John Aaron 
-  Became member of the Dark Avengers  Presumed killed in   Siege   #2 
-   style  background #ddd; 
-  colspan  4  style  text align center;      Infiltrator  2007    
-  
-    Spider Woman  Jessica Drew  Spider Woman  
-    Veranke   br  posing as Jessica Drew 
-    Mighty Avengers   #7  November 2007 
-  A   double agent   with the New Avengers  Revealed to be a Skrull in   Secret Invasion   #3  May 2008   Died in   Secret Invasion   #8 
-  
+Following the events of Siege  Norman Osborn is incarcerated in   The Raft  comics  The Raft   penitentiary  Moonstone  Bullseye and Venom are captured by the heroes  while Daken manages to escape capture by military personnel  After being interrogated by   Captain America  comics  Captain Rogers    Victoria Hand is informed that she has been reassigned  ref   Dark Avengers   #16 /ref  Moonstone joins   Luke Cage    incarnation of the Thunderbolts  ref   Thunderbolts   #144 /ref  Noh Varr is recruited into the Avengers team to help them build a time machine to save the future  ref   Avengers   #2 /ref  Victoria Hand is assigned by Steve Rogers to be the liaison for Luke Cage  team of Avengers  dubbed the   The New Avengers  comics  New Avengers    because he feels that she can provide an important insight to the team  ref   New Avengers #1  2010    /ref  Bullseye escapes custody and is killed by his longtime nemesis   Daredevil  Marvel Comics character  Daredevil   when he attacks his fortress of   Shadowland  comics  Shadowland   during the storyline of the same name  Daken eludes capture at the conclusion of the Siege of Asgard and is confronted by   Punisher Franken Castle    whom he had killed during the Dark Reign   Mac Gargan  symbiote is removed and he is taken into custody    Alistair Smythe   breaks Gargan out of prison who is transformed back into the Scorpion  ref   Amazing Spider Man   #651 /ref 
 
-   International Team  2009–2010    
-After the events of    Dark Reign  comics  Dark Reign     the Mighty Avengers were followed by a reorganized Initiative team published in     Dark Avengers      and a new international team was featured in   Mighty Avengers   
-   class  wikitable  style  width 100%; 
-  
+   New Dark Avengers   
+A new Dark Avengers team is formed by Norman Osborn and H A M M E R  The roster includes   Skaar  comics  Skaar      Gorgon  Tomi Shishido  Gorgon      List of incarnations of Spider Man#Ai Apaec Ai Apaec    Dr    June Covington      Superia    and   Barney Barton Trickshot    The team is backed up by   Hydra  comics  HYDRA   and   Advanced Idea Mechanics A I M    Norman Osborn also has A I M  rebuild   Ragnarok  comics  Ragnarok   so that he can join the Dark Avengers  ref   New Avengers   vol  2 #18 /ref  Although Osborn claims to be certain that his new team is superior to their  templates   he appears unaware that   Viper  Madame Hydra  Madame Hydra   and Gorgon are already planning to kill him once he proves himself to be too dangerous as leader  intending to use his team to sow discord by serving as a voice of the  disenfranchised  unsatisfied with the status quo  ref   New Avengers   vol  2 #19 /ref  The subsequent fight against the New Avengers proves to be relatively evenly matched  Although Osborn demonstrates a surprising new level of strength allowing him to throw Luke Cage a considerable distance and his   Scarlet Witch   injures   Doctor Strange    the others are able to hold their own far more easily  When they attempt to teleport away  the New Avengers end up facing Ragnarok  ref   New Avengers   vol  2 #20 /ref  Spider Man and   Iron Fist  comics  Iron Fist   are able to defeat Ragnarok  but the Dark Avengers  actions have still damaged the New Avengers  reputations by tricking them into provoking a fight with a team who just helped the civilians  ref   New Avengers   vol  2 #21 /ref  Osborn  other forces attacking the main team to charge them with various war crimes  ordering the President to declare Osborn the new head of world security and put the Avengers on trial  ref   Avengers   vol  4 #23 /ref 
+
+The Dark Avengers capture Captain America during their successful attack on both Avengers teams with the intention of executing him for his  crimes   Gorgon and Superia are already planning to betray the team  while Victoria Hand  apparently Norman  double agent inside the team  reveals her real allegiance to Captain America to the New Avengers  and Skaar turns on his teammates after they confirm their intentions to assault Captain America  proclaiming  Avengers Assemble   as he does so  ref   New Avengers   vol  2 #22 /ref  Skaar reveals that he is a double agent for Captain America  allowing the New Avengers to defeat the rest of the team  ref   New Avengers   vol  2 #23 /ref  Norman Osborn is shown to have developed the abilities of the   Super Adaptoid    enabling him to copy the abilities of the other Avengers  The Avengers find a way to overload this power  which puts Norman Osborn into a coma  After Osborn is defeated  the rest of the Dark Avengers are detained  It is suggested in a conversation with Captain America that they be considered for the Thunderbolts Program  ref   Avengers   vol  4 #24 /ref 
+
+As of #175    Thunderbolts   is renamed   Dark Avengers   with writer   Jeff Parker  comics  Jeff Parker   and the art team of   Kev Walker   and   Declan Shalvey   remaining on the title  ref name  auto /  ref name  auto1 / 
+
+When the Thunderbolts are missing in the time stream  the Dark Avengers were recruited as a replacement team  In order to keep the Dark Avengers in line  they were implanted with nanites  and placed under the leadership of Luke Cage  ref   Dark Avengers   #175 /ref 
+
+The Dark Avengers team are thrown into the alternate world of Earth 13584 with   U S  Agent  comics  John Walker  U S  Agent    where they are captured by that reality  version of   Iron Man    ref   Dark Avengers   #184 /ref  It turns out that A I M  is behind the reality manipulation  Due to the Dark Avengers  arrival  the solar system is starting to disappear  The Dark Avengers enter the A I M  base and accelerate the sliver  destruction  The Dark Avengers arrive back in their world  Skaar hops away  but the rest of the team ponders what to do  as most of them are still criminals  June Covington bewitches U S  Agent into believing they could still work as a team and steps on a still miniaturized Ai Apaec  ref   Dark Avengers   #190 /ref 
+
+  Roster  
+
+   Founders   
+   class  wikitable  width 100%
  width 14%  Character
  width 20%  Real Name
  width 18%  Joined in
    Notes
   
-    Hank Pym The Wasp  
-  Dr  Henry Jonathan  Hank  Pym
- rowspan  4    Mighty Avengers   #21  March 2009 
-  Chosen by the  Scarlet Witch   who was actually Loki  Challenged for leadership by Iron Man  but assumed full leadership after defeating Chthon 
+    Iron Patriot  
+    Norman Osborn  
+ rowspan  8    Dark Avengers   #1  March 2009 
+  Former leader  captured in   Dark Avengers   #16  Redesigned Stark armor to represent both   Iron Man   and   Captain America    Rejoined in   New Avengers   #18 acquired the power of the   Super Adaptoid   after reassembling the team 
   
-    Hercules  Marvel Comics  Hercules  
-  Heracles
-  Presumed killed in the Assault on New Olympus  Returned in     Chaos War     #1  Oct  2010  
+     Spider Man   
+    Mac Gargan  
+  Captured in  Dark Avengers  #16  Became Scorpion again after Venom suit was taken by government 
   
-    Amadeus Cho  
-  Amadeus Cho
+     Ms  Marvel    a k a  Captain Marvel
+    Moonstone  comics  Karla Sofen  
+  Captured in   Dark Avengers   #16 and joined Luke Cage    Thunderbolts  comics  Thunderbolts   in   Thunderbolts   #144  Rejoins the team in Dark Avengers #184 
   
+     Bullseye  comics  Bullseye   
+    Bullseye  comics  Lester  
+  Captured in   Dark Avengers   #16  Killed by Daredevil in   Shadowland   #1 
   
-    Jocasta  comics  Jocasta  
-  Jocasta
+     Wolverine  character  Wolverine   
+    Daken Akihiro  
+    Wolverine  character  Wolverine    psychopathic son  He avoided capture in   Dark Avengers   #16 and remains at large 
   
+    Noh Varr Captain Marvel  
+    Noh Varr  
+  Left the team in   Dark Avengers   #6 and joined the   Avengers  comics  Avengers   
   
-    U S  Agent  comics  U S  Agent  
-  John Frank Walker  br/  Jack Daniels  alias 
- rowspan  3    Mighty Avengers   #22
-  Former member of Omega Flight  chosen in the place of an incapacitated Captain America  Removed by Norman Osborn in   Mighty Avengers   #33 
+    Ares  Marvel Comics  Ares  
+  Ares
+  Killed in   Siege   #2 by the Sentry 
   
-    Cassandra Lang Stature  
-  Cassandra Lang
- rowspan  2  Concurrent members of the   Young Avengers   
+    Sentry  Robert Reynolds  The Sentry  
+  Robert Reynolds
+  Went rogue in   Siege   #3 before being killed by Thor in   Siege   #4 
   
-    Vision  Marvel Comics  Vision   II
-  Jonas  alias 
-  
-    Quicksilver  comics  Quicksilver  
-  Pietro Django Maximoff
-    Mighty Avengers   #24
-  Joined the team after helping them defeat Titan 
-   style  background #ddd; 
-  colspan  4  style  text align center;      Infiltrator  2009    
-  
-    Scarlet Witch  
-    Loki  comics  Loki   br/  posing as Scarlet Witch 
-    Mighty Avengers   #21 br/   March 2009 
-  Joined and assembled the Mighty Avengers in   Mighty Avengers   #21  March 2009   Revealed in   Mighty Avengers   #29  November 2009  
   
 
-   Infinity recruits  2013–2014    
-During the     Infinity  comic book  Infinity     storyline  a new team was assembled   The Mighty Avengers  volunteer organization is based out of the old Gem Theatre in Times Square  offering their services as non profit heroes for free or a charitable contribution 
-
-   class  wikitable  style  width 100%; 
-  
+   Post     Fear Itself  comics  Fear Itself     recruits   
+   class  wikitable  width 100%
  width 14%  Character
- width 20%  Real name
- width 16%  Joined in
+ width 20%  Real Name
+ width 18%  Joined in
    Notes
   
-    Luke Cage  
-  Lucas Cage  born Carl Lucas 
- rowspan  3    Mighty Avengers   Vol  2 #1
-  Founder and business director 
+     Wolverine  character  Wolverine   
+    Gorgon  Tomi Shishido  Tomi Shishido  
+ rowspan  7    New Avengers   #18  November 2011 
+  Fought and killed by Wolverine in   Wolverine   #31  Revived by the   The Hand  comics  Hand   in     Secret Warriors  2009 series  Secret Warriors     #2  Leaves the team in   New Avengers   vol  2  #23 
   
-   Monica Rambeau Spectrum  
-  Monica Rambeau
-  Field leader  former member of   Nextwave  
+     Hulk  comics  Hulk   
+    Skaar  comics  Skaar  
+  Recruited by Osborn in the   Savage Land    Skaar was actually double agent working for   Captain America   in secret  Rejoins the team in   Dark Avengers   #175 and leaves again in   Dark Avengers   #190 
   
-   Ronin  Marvel Comics  Ronin  
-  Eric Brooks  aka   Blade  comics  Blade    ref   cite web url http //www comicbookresources com/?page article&id 48773 title Marvel Inadvertently Leaks Mighty Avengers Mystery Member ID last Sunu first Steve date 28 October 2013 website Comic Book Resources accessdate 28 October 2013   /ref 
-  First appeared as  Spider Hero   His identity was leaked in an earlier draft of a script  His identity was officially revealed in   Mighty Avengers   #9 
+     Ms  Marvel   
+    Superia Deidre Wentworth  
+  Led a   H A M M E R    team after Norman Osborn  incarceration  Leaves the team in   New Avengers   vol  2  #23 
   
-   Blue Marvel  Marvel Comics  Blue Marvel  
-  Adam Brashear
-    Mighty Avengers   Vol  2 #2
+     Hawkeye  comics  Hawkeye   
+    Barney Barton  
+  Joined after having his death in a hospital bed faked by Osborn 
   
+     Spider Man   
+    List of incarnations of Spider Man#Ai Apaec Ai Apaec  
+  South American spider god  First encountered by Osborn in   Osborn   #1  Changed into a six armed humanoid form resembling the black suit version of Spider Man by an unknown substance 
   
-   Power Man  Victor Alvarez  Power Man  
-  Victor Alvarez
- rowspan  2    Mighty Avengers   Vol  2 #3
- rowspan  2  Former students at   Avengers Academy    former members of the   Heroes for Hire   
+        Scarlet Witch      
+    June Covington Dr  June Covington  
+  Biologist and geneticist  First encountered by Osborn in   Osborn   #1 following the Siege of Asgard 
   
-   White Tiger  Ava Ayala  White Tiger  
-  Ava Ayala
-  
-   Falcon  comics  Falcon   br aka Captain America
-  Samuel  Sam  Wilson
-    Mighty Avengers   Vol  2 #4
-  Also a member of the main   Avengers  comics  Avengers   team as Captain America 
-  
-   She Hulk  
-  Jennifer Walters
-    Mighty Avengers   Vol  2 #6
-  Legal counsel for the Mighty Avengers and current member of the   Future Foundation   
-   style  background #ddd; 
-  colspan  4  style  text align center;      Infiltrator  2013    
-  
-   Doctor Octopus Superior Spider Man  
-    Doctor Octopus Otto Octavius    mind in   Spider Man Peter Parker    body
-    Mighty Avengers   Vol  2 #1
-  Self declared member  also member on probation of the main   Avengers  comics  Avengers   team  He leaves the team in   Mighty Avengers   Vol  2 #5  ref   Mighty Avengers   Vol  2 5 /ref 
+        Thor  Marvel Comics  Thor      
+    Ragnarok  comics  Ragnarok  
+  Currently held and being repaired by   Advanced Idea Mechanics A I M    on Norman Osborn  behalf  He was repaired in time to help the Dark Avengers fight the New Avengers 
   
 
-   Avengers NOW   2014–2015    
-In November 2014  the book was relaunched under the new title of   Captain America and the Mighty Avengers   as part of     Avengers NOW      ref http //www newsarama com/21696 sdcc 2014 marvel comics avengers now panel live html /ref  This volume was cancelled in June  2015  after 9 issues 
-
-   class  wikitable  style  width 100%; 
-  
+     Marvel ReEvolution   recruits    
+   class  wikitable  width 100%
  width 14%  Character
- width 20%  Real name
- width 16%  Joined in
+ width 20%  Real Name
+ width 18%  Joined in
    Notes
   
-   Kaluu  
-  Kaluu
-    Captain America and the Mighty Avengers   #1  November 2014 
- rowspan  2  Current members of the Mighty Avengers  
-  
-   Spider Man  
-  Peter Parker
-    Captain America and the Mighty Avengers   #3  January 2015 
+       U S  Agent  comics  U S  Agent     
+  John Walker
+    Dark Avengers   #185  2013 
+  Former warden of the Raft swept along with the Dark Avengers to an alternate reality  Resumes his role as U S  Agent after receiving a lobotomized alternate reality version of the Venom symbiote that recreates his missing limbs 
   
   
 
-  Reception  
-The first issue of Mighty Avengers was the second highest selling comic for that month based on Diamond Publisher  indexes  ref name  icv2 / 
+  Other versions  
 
-  IGN   reviewer Richard George said   Brian Michael Bendis    writing for   The Mighty Avengers   #1  manages to move through the roster selection  convey their basic information and personality  marshal them against a huge threat and leave us with a solid cliffhanger   George also praised   Frank Cho    artwork  saying   The artist not only delivers with some excellent action sequences  he does a great job with the increasingly standard widescreen format that many are adopting   ref   cite web  last   George  first   Richard  url http //au comics ign com/articles/770/770533p1 html  title Advance Review  Mighty Avengers #1  publisher IGN  accessdate 2009 01 16   /ref 
-
-   Circulation   
-   class  wikitable 
-    
-  Issue    Qty    icv2 Top 300 Ranking
-  
-  1    141 288  ref name  icv2  
-  cite web
-  url http //www icv2 com/articles/home/10404 html
-  title Top 300 Comics Actual—March 2007
-  publisher icv2 com
-  accessdate 2009 01 05
-  
- /ref     2
-  
-  2    121 365  ref 
-  cite web
-  url http //www icv2 com/articles/home/10618 html
-  title Top 300 Comics Actual—April 2007
-  publisher icv2 com
-  accessdate 2009 01 05
-  
- /ref    8
-  
-  3    115 440  ref 
-  cite web
-  url http //www icv2 com/articles/home/10766 html
-  title Top 300 Comics Actual—May 2007
-  publisher icv2 com
-  accessdate 2009 01 05
-  
- /ref    8
-  
-  4    107 768  ref 
-  cite web
-  url http //www icv2 com/articles/home/11131 html
-  title Top 300 Comics Actual—June 2007
-  publisher icv2 com
-  accessdate 2009 01 05
-  
- /ref    8
-  
-
-  Collected editions  
-   class  wikitable 
-  
-  Title    Material collected    Year    ISBN
-  
-    Mighty Avengers Vol  1  The Ultron Initiative  
-    Mighty Avengers   #1–6
-  2008
-    ISBNT 978 0785123682  
-  
-    Mighty Avengers Vol  2  Venom Bomb  
-    Mighty Avengers   #7–11
-  2008
-    ISBNT 978 0785123699  
-  
-     Mighty Avengers Vol  3  Secret Invasion  Book 1   
-    Mighty Avengers   #12–15
-  2009
-    ISBNT 978 0785130109  
-  
-    Mighty Avengers Vol  4  Secret Invasion  Book 2   
-    Mighty Avengers   #16–20
-  2009
-    ISBNT 978 0785136507  
-  
-    Mighty Avengers  Earth  Mightiest  
-    Mighty Avengers   #21–26
-  2009
-    ISBNT 978 0785137467  
-  
-    Mighty Avengers  The Unspoken  
-    Mighty Avengers   #27–31
-  2010
-    ISBNT 978 0785137474  
-  
-    Mighty Avengers  Siege  
-    Mighty Avengers   #32–36
-  2010
-    ISBNT 978 0785148005  
-  
-    Mighty Avengers Vol  1  No Single Hero  
-    Mighty Avengers   Vol  2 #1–5
-  March 2014
-    ISBNT 978 0785188742  
-  
-    Mighty Avengers Vol  2  Family Bonding  
-    Mighty Avengers   Vol  2 #6–10
-  August 2014
-    ISBNT 978 0785188759   
-  
-    Mighty Avengers Vol  3  Original Sin – Not Your Father  Avengers  
-    Mighty Avengers   Vol  2 #11–14
-  December 2014
-    ISBNT 978 0785190721  
-  
-    Captain America & the Mighty Avengers Vol  1  Open for Business  
-    Captain America & the Mighty Avengers   #1–7
-  June 2015
-    ISBNT 978 0785193821   
-  
-    Captain America & the Mighty Avengers Vol  2  Last Days  
-    Captain America & the Mighty Avengers   #8–9    Captain Britain & the Mighty Defenders  #1–2    Avengers Assemble   #15AU
-  November 2015
-    ISBNT 978 0785198031  
-  
-
-   class  wikitable 
-  
-  Title    Material collected    Year    ISBN
-  
-    Mighty Avengers Assemble  
-    The Mighty Avengers   #1–11
-  March 11  2009
-    ISBNT 978 0785137580  
-  
-    Mighty Avengers  Secret Invasion  
-    The Mighty Avengers   #12–20
-  March 24  2010
-    ISBNT 978 0785142614  
-  
-    Mighty Avengers  Dark Reign  
-    The Mighty Avengers   #21–36
-  August 17  2011
-    ISBNT 978 0785156697  
-  
+   Ultimate Marvel   
+In the   Ultimate Marvel   reality  an alternate version of the Dark Avengers appears under the name the Dark Ultimates  The group consists of a female   Kang the Conqueror   and   Mister Fantastic Reed Richards   as well as the former   The Ultimates Ultimates     Hulk  comics  Hulk   and   Quicksilver  comics  Quicksilver    The team is formed with the goal of forcibly saving the world by any means necessary  They first appear while attacking the   Triskelion  comics  Triskelion   in order to steal the   Infinity Gems    ref   Ultimate Comics  Ultimates   #25 /ref 
 
   In other media  
+
    Television   
-  The Mighty Avengers appear in the     Avengers Assemble  TV series  Avengers  Ultron Revolution     episode  Civil War  Part 2  The Mighty Avengers   It consists of   Ant Man  Scott Lang  Ant Man      Black Panther  comics  Black Panther      Carol Danvers Captain Marvel      Ms  Marvel  Kamala Khan  Ms  Marvel      Thunderbolt Ross Red Hulk      Songbird  comics  Songbird    and   Vision  Marvel Comics  Vision    When the Avengers have disassociated themselves with   List of Marvel Comics characters  M#Truman Marsh Truman Marsh   following the Inhuman Registration Act  Truman Marsh assembles Ant Man  Black Panther  Captain Marvel  Ms  Marvel  Red Hulk  Songbird  and Vision as the Mighty Avengers where they first appear to save astronauts in a runaway space capsule  Then they are dispatched to a facility where HYDRA soldiers led by   Baron Strucker   are trying to steal an exo suit  The Mighty Avengers fight him alongside the Avengers and defeated Baron Strucker  Later on  the Mighty Avengers fight the Avengers near the log cabin where   Iso  comics  Iso      List of Marvel Comics characters  F#Flint Flint    and   List of Marvel Comics characters  H#Haechi Haechi   were hiding out  During the battle  Songbird defects to the Avengers upon being convinced by Hawkeye and Captain America gets badly injured upon Vision unknowingly throwing Mjolnir towards him  While Black Widow goes dark  the rest of the Avengers and Songbird are arrested  In the episode  Civil War  Part 3  The Drums of War   the Mighty Avengers join forces with the Avengers when Truman Marsh has placed a Registration Disk on Ms  Marvel showing the Mighty Avengers that the Avengers were right all along  Upon freeing Black Bolt and Medusa from the Registration Disk  both teams confront Truman Marsh where they find out that he is actually Ultron in disguise  In the episode  Civil War  Part 4  Avengers Revolution   the Mighty Avengers and the Avengers fight Ultron  forces while working to free the Inhumans from Ultron  mind control  Upon both teams freeing the Inhumans and Ultron  plan to  sanitize  the Earth fails  they end up fighting Iron Man when he gets possessed by Ultron until Doctor Strange places Iron Man in another dimension until they can find a way to get Ultron out of Iron Man  In the aftermath of the battle  the Mighty Avengers were seen cleaning up the mess that Ultron has made like burying his robots and picking up the debris 
+  In the     Avengers Assemble  TV series  Avengers Assemble     episode  The Dark Avengers   the Dark Avengers appear as reality flipped versions of the Avengers who are the bad guys while the   Squadron Supreme   are the good guys  The  evil  versions of the Avengers eventually discover that the Squadron Supreme have the Reality Infinity Gem and have used it to change the world in their image  After claiming the Reality Infinity Gem  the Dark Avengers used it to return the world to the way it was before the Squadron Supreme used the Reality Infinity Gem  powers 
+
+   Video games   
+  The Dark Avengers appear in     Marvel  Avengers Alliance      They are featured in Spec Ops #12 where they were formed by   Red Skull Dell Rusk   and consist of   Bullseye  comics  Bullseye    operating as Hawkeye     Daken    operating as Wolverine     Ragnarok  comics  Ragnarok      Black Widow  Yelena Belova  Black Widow    Yelena Belova  and   Mac Gargan Venom   
+  The Dark Avengers appear in     Marvel Puzzle Quest      a game available for download for   Android  operating system  Android   devices and for   iTunes   with   Apple Inc  Apple   devices  The team consists of   Ares  Marvel Comics  Ares      Bullseye  comics  Bullseye      Daken      Moonstone  comics  Moonstone      Ragnarok  comics  Ragnarok      Sentry  comics  Sentry      Mac Gargan Venom    and   Black Widow  Yelena Belova  Yelena Belova   
+
+  Collected editions  
+The series is being collected into individual   trade paperback  comics  volumes   
+
+    Volume 1  Dark Avengers Assemble    collects   Dark Avengers   #1–6  160 pages  premiere hardcover  September 2009    ISBN 0 7851 3851 X    softcover  December 2009    ISBN 0 7851 3852 8   
+    Dark Avengers/Uncanny X Men     Utopia  comics  Utopia      collects   Dark Avengers   #7 8   Dark Avengers/Uncanny X Men  Utopia   Utopia Finale  and   Uncanny X Men   #513 514  352 pages  hardcover  December 2009    ISBN 0 7851 4233 9    softcover  April 2010    ISBN 0 7851 4234 7   
+    Volume 2  Molecule Man    collects   Dark Avengers   #9 12  112 pages  premiere hardcover  February 2010    ISBN 0 7851 3853 6   
+    Dark Avengers  Siege    collects   Dark Avengers   #13 16  and   Dark Avengers Annual   #1  144 pages  Marvel Comics  premiere hardcover  July 2010    ISBN 0 7851 4811 6   
+    Dark Avengers  The End is the Beginning    collects   Dark Avengers   #175 183  softcover  February 2013    ISBN 0785161724   
+    Dark Avengers  Masters of Evil    collects   Dark Avengers   #184 190  softcover  July 2013    ISBN 0785168478   
+
+All the issues  Except the Utopia crossover  are being collected into one hardback book 
+    Dark Avengers   Marvel Comics Marvel      collects   Dark Avengers   #1 6  #9 16 and Annual #1  hardcover  400 pages  July 2011    ISBN 0 7851 5650 X   
+
+As were the spin offs 
+    Ms  Marvel   
+     Volume 7  Dark Reign    collects   Ms  Marvel   #35 40  176 pages  Marvel Comics  premiere hardcover  September 2009    ISBN 0 7851 3838 2    softcover  December 2009    ISBN 0 7851 3839 0   
+     Volume 8  War of The Marvels    collects   Ms  Marvel   #41 46  120 pages  Marvel Comics  premiere hardcover  January 2010    ISBN 0 7851 3840 4    softcover  May 2010    ISBN 0 7851 3841 2   
+      Dark Wolverine     
+     Volume 1  The Prince    collects     Wolverine  comic book  Wolverine     #73 74 and   Dark Wolverine   #75 77  112 pages  Marvel Comics  premiere hardcover  October 2009    ISBN 0 7851 3900 1    softcover  March 2010    ISBN 0 7851 3866 8   
+     Volume 2  My Hero    collects   Dark Wolverine   #78 81  112 pages  Marvel Comics  premiere hardcover  April 2010    ISBN 0 7851 3977 X   
+     Siege  X Men   Dark Wolverine & New Mutants    includes   Dark Wolverine   #82 84  128 pages  Marvel Comics  premiere hardcover  June 2010    ISBN 0 7851 4815 9   
+    Dark Reign  Sinister Spider Man    collects   Dark Reign  The Sinister Spider Man   #1 4  112 pages  Marvel Comics  softcover  January 2010    ISBN 0 7851 4239 8   
+    Dark Avengers  Ares    collects   Ares   #1 5 and   Dark Avengers  Ares   #1 3  192 pages  Marvel Comics  softcover  April 2010    ISBN 0 7851 4406 4   
+    Dark Reign  Hawkeye    collects   Dark Reign  Hawkeye   #1 5  120 pages  Marvel Comics  softcover  May 2010    ISBN 0 7851 3850 1   
+
   References  
   Reflist  
 
   External links  
-   http //marvel wikia com/wiki/Mighty_Avengers_ Initiative _ Earth 616  Mighty Avengers  Initiative version   at Marvel Wiki
-   http //marvel wikia com/wiki/Mighty_Avengers_ Cage _ Earth 616  Mighty Avengers  Luke Cage  version   at Marvel Wiki
+   http //www newsarama com/comics/010922 Dark Avengers Bendis html Explaining it All  Brian Bendis Talks Dark Avengers #1     Newsarama    January 22  2008
+    gcdb series id 33502 title   Dark Avengers    
+   http //marvel wikia com/Dark_Avengers_%28Earth 616%29 Dark Avengers  at Marvel Wiki
+   http //www comicvine com/dark avengers/65 55990/ Dark Avengers  at Comic Vine
+    comicbookdb type team id 1717 title Dark Avengers  
 
-  Mighty Avengers  
-  Navboxes
- title Related topics
- list1  /span 
-  Luke Cage  
-  Black Widow  
+  Dark Avengers  
   New Avengers  
   Avengers  
   Avengers publications  
   S H I E L D   
-  
-  DEFAULTSORT Mighty Avengers  
-
-  Category Comics by Brian Michael Bendis  
+  Thunderbolts  
