@@ -1,10 +1,12 @@
 import tweepy
 import json
 import mwclient
+import sys
+
 
 NO_OF_TWEETS = 100
 NO_OF_WIKIPEDIA_PAGES = 10
-hashtag = '#avengers'
+hashtag = sys.argv[1]
 consumer_token = 'UHGeTe83gyWyYixF7RPUNkLZ2'
 consumer_secret = 'hIWynid8cNuMHMFvP5famIBPXCUXxYX5tBAWL5tSgoqswDO2f3'
 

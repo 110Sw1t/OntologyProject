@@ -1,0 +1,46 @@
+  Infobox lake
+  name   Lake of Egypt
+  image   
+  caption   
+  image_bathymetry   Lake of Egypt PNG
+  caption_bathymetry   Map   the lake  irregular shape reveals its origins as a dammed river amidst hilly terrain 
+  location     Williamson County  Illinois Williamson   and   Johnson County  Illinois Johnson Counties      Little Egypt  region  Little Egypt region      Illinois  
+  coords     coord 37 37 30 N 88 57 30 W region US IL_type waterbody display inline title  
+  type     Reservoir  
+  inflow     Saline River  Illinois  Saline River  
+  outflow     Saline River  Illinois  Saline River  
+  catchment   
+  basin_countries   United States
+  length   
+  width   
+  area     1 E6 m² 2 300 acres  9 km²   
+  depth     convert 18 ft abbr on  
+  max depth     convert 52 ft abbr on  
+  volume   
+  residence_time   
+  shore     convert 90 mi abbr on  
+  elevation     convert 466 ft  
+  islands   
+  cities   
+  reference   ref name  gnis    gnis 1690887 Lake of Egypt   /ref 
+  
+   Lake of Egypt    is a   reservoir   in the   Little Egypt  region  Little Egypt   region of the   United States U S    state of   Illinois    It is located six miles  10&nbsp;km  south of   Marion  Illinois   and covers 2 300 acres  9&nbsp;km²  with   convert 90 mi    of shoreline  The lake has an average depth of   convert 18 ft    with a maximum depth of   convert 52 ft     The lake is owned by the Southern Illinois Power Cooperative  SIPC   who created the impoundment in 1962  by damming the South fork of the   Saline River  Illinois  Saline River    to supply cooling water for a   coal   burning electric power plant 
+
+As a privately owned lake  it is subject to regulation by its owners and the state  Terms of use from the SIPC are in the  Official Lake of Egypt Rules and Regulations   Public access is allowed as are all size boat motors    Waterskiing   and   jet ski  s are also permitted in most of the lake  Fishing includes   Bluegill      Largemouth Bass      Channel Catfish      Striped Bass    and   Crappie      Camping   at the lake is allowed at Buck Ridge Campground  part of the   Shawnee National Forest   
+
+  References  
+  Reflist  
+
+  External links  
+   http //leapo com/ Lake of Egypt Association of Property Owners 
+
+  Category Reservoirs in Illinois Egypt  
+  Category Protected areas of Williamson County  Illinois  
+  Category Protected areas of Johnson County  Illinois  
+  Category Bodies of water of Williamson County  Illinois  
+  Category Bodies of water of Johnson County  Illinois  
+  Category 1962 establishments in Illinois  
+
+
+  JohnsonCountyIL geo stub  
+  WilliamsonCountyIL geo stub  
