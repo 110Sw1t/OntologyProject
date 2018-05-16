@@ -46,7 +46,7 @@ public class GateTool {
         try {
             Gate.init();
             
-            SwingUtilities.invokeAndWait(() -> MainFrame.getInstance().setVisible(true));
+            //SwingUtilities.invokeAndWait(() -> MainFrame.getInstance().setVisible(true));
             corpus = Factory.newCorpus("myCorpus");
             doc = Factory.newDocument(new File(Inputpath).toURI().toURL());
             corpus.add(doc);
@@ -198,11 +198,10 @@ public class GateTool {
         return getTokens(doc.getAnnotations(), types);
 
     }
-
     private String TwitIE() {
         try {
             String plugins[] = {"ANNIE","Twitter",
-                "Tools", "Stanford_CoreNLP", "Language_Identification"};
+                "Tools", "Language_Identification"};
 
             //gate.stanford.Tagger
             String PRs[] = {
