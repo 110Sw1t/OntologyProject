@@ -1,258 +1,273 @@
-  refimprove date April 2015  
-  Infobox comics team and title     Wikipedia WikiProject Comics    
- pub   y
-     Group section    
-      name                  Dark Luis    
- image                      file name format only    
- caption               
- publisher             Marvel Comics
- debuthead             
- debut                   Dark Avengers   #1
- debutmo               January
- debutyr               2009
- creators              Brian Michael Bendis
- type                  
- business              
- organisation          
- organization          
- team                  dark avengers
- base                  NYC
- owners                  U S  Agent  comics  U S  Agent   br/ Formerly  br/   Norman Osborn   br/   Victoria Hand   br/   Luke Cage  
- employees             
- members                  Current Members     br/   Moonstone  comics  Captain Marvel  Moonstone    br/   June Covington Scarlet Witch  Toxie Doxie    br/   Ragnarok  comics  Thor  Ragnarok    br/    Former Members     br/   Ares  Marvel Comics  Ares  John Aaron    br/   Noh Varr Captain Marvel  Noh Varr    br/   Bullseye  comics  Hawkeye  Bullseye    br/   Barney Barton Hawkeye  Trickshot    br/   Skaar  character  Hulk  Skaar    br/   Superia Ms  Marvel  Superia    br/   Sentry  Robert Reynolds  Sentry  The Void    br/   List of incarnations of Spider Man#Ai Apaec Spider Man  Ai Apaec    br/   Mac Gargan Spider Man  Venom    br/   Daken Wolverine  Daken    br/   gorgon  Tomi Shishido  Wolverine  Gorgon   
-
- fullroster           
-
-     Series section    
-      title                 Dark Avengers    
- cvr_image             Darkavengers jpg     to be replaces w/ cover as published   
- cvr_caption             Descript cvr Dark Avengers  1 Jan  2009  Art by   Mike Deodato Jr   
- schedule              Monthly
- ongoing               Y
- Superhero             y
- pub_series              Marvel Comics  
- date                  
- 1stishhead            Volume 1
- 1stishyr              2009
- 1stishmo              March
- endishmo              June
- endishyr              2010
- 1stishhead1           Volume 1 continued
- 1stishyr1             2012
- 1stishmo1             August
- endishmo1             
- endishyr1             
- issues                    vol  1     16 br     vol  1 cont      16
- main_char_team        
- writers                 Brian Michael Bendis   
- artists                 Mike Deodato  
- pencillers            
- inkers                
- letterers             
- colorists             Rain Beredo
- editors               
- creative_team_month   
- creative_team_year    
- creators_series       
- TPB                   Dark Avengers Assemble
- ISBN                  0 7851 3851 X
- TPB1                  Molecule Man
- ISBN1                 0 7851 3853 6
- TPB2                  Siege
- ISBN2                 0 7851 4811 6
-
-     Category section    
- cat                   teams
- subcat                Marvel Comics
- hero                  y
- villain               y
- sortkey               Dark Avengers
- addpubcat1            Avengers  comics  titles
+  pp protected reason Persistent addition of   WP INTREF unsourced or poorly sourced content   expiry 07 51  6 July 2018 small yes  
+  short description upcoming 2019 superhero film produced by Marvel Studios  
+  Use list defined references date June 2017  
+  Infobox film
+  name               no italic Untitled Avengers film  
+  italic title     no
+  image            Avengers Infinity War logo jpg
+  caption          Original logo
+  director           Russo brothers Anthony Russo br / Joe Russo  
+  producer           Kevin Feige  
+  screenplay         Christopher Markus & Stephen McFeely Christopher Markus br / Stephen McFeely  
+  story            
+  based on           Based on     Avengers  comics  The Avengers       Stan Lee     Jack Kirby    
+  starring           Plainlist     Order is based on Infinity War poster  with actors not in that film appended at the end once they are confirmed  Adjustments will be made once a reliable source is released providing a new order    
+    Robert Downey Jr   
+    Chris Hemsworth  
+    Mark Ruffalo  
+    Chris Evans  actor  Chris Evans  
+    Scarlett Johansson  
+    Benedict Cumberbatch  
+    Don Cheadle  
+    Tom Holland  actor  Tom Holland  
+    Chadwick Boseman  
+    Paul Bettany  
+    Elizabeth Olsen  
+    Anthony Mackie  
+    Sebastian Stan  
+    Dave Bautista  
+    Zoe Saldana  
+    Josh Brolin  
+    Chris Pratt  
+    Jeremy Renner  
+         Samuel L  Jackson      
+    Evangeline Lilly  
+    Jon Favreau  
+    Paul Rudd  
+    Brie Larson  
+     Order is based on Infinity War poster  with actors not in that film appended at the end once they are confirmed  Adjustments will be made once a reliable source is released providing a new order     
   
-     Dark Avengers      is an American   comic book     ongoing series series   published by   Marvel Comics       Not name of team  On p 3 of first issue  team is clearly introduced as the  Avengers     It is part of a series of titles that have featured various iterations of the   superhero   team the   Avengers  comics  Avengers    Unusually  the series stars a version of the team that  unknown to the public in its fictional universe  contains several members who are   supervillains   disguised as established superheroes 
-
-  Publication history  
-The series debuted with issue #1  dated January 2009  as part of a multi series story arc entitled    Dark Reign  comics  Dark Reign     ref name  darkreign   http //www newsarama com/comics/090829 BendisDarkAvengers html Getting Dark  Brian Bendis on Dark Avengers & Dark Reign     Newsarama    September 29  2008 /ref  In the premiere  writer   Brian Michael Bendis   and artist   Mike Deodato   ref  http //www newsarama com/comics/081223 deadato dark avengers html Mike Deodato Explores His Dark  Avengers  Side     Newsarama    December 23  2008 /ref   working from a continuity begun in a previous  company wide story arc     Secret Invasion     involving an infiltration of Earth by the shape shifting alien   Skrull  s and that race  eventual defeat  chronicled the aftermath of the U S  government  disbanding of the federally sanctioned superhero team  the   Avengers  comics  Avengers    Bendis described the thinking behind the team   These are bad ass  hardcore get it done types  They ll close the door and take care of business and he  dressing them up to make them something that the people want   ref  http //www comicbookresources com/?page article&id 19654  The Osborn Supremacy  Dark Avengers      Comic Book Resources    January 22  2008 /ref  This is in contrast to the changes Norman Osborn is shown making to the   Thunderbolts  comics  Thunderbolts    where  according to writer   Andy Diggle    he turns that team into  something much more covert and much more lethal  his own personal hit squad   ref name newsarama120817  http //www newsarama com/comics/120817 Diggle ThunderboltsB html  Andy Diggle  The Future of the Thunderbolts      Newsarama    December 17  2008 /ref 
-
-The series ended with   Dark Avengers   #16  at the culmination of the   Siege  comics  Siege   storyline  ref   cite web  first Richard  last George  url http //comics ign com/articles/106/1061476p1 html  title Siege Ends the Avengers  publisher   IGN    date January 15  2010  accessdate January 15  2010    /ref 
-
-The   Thunderbolts   comic book was renamed   Dark Avengers   beginning with issue #175  but the creative team remained unchanged  ref name  auto    cite web  first Albert  last Ching  url http //www newsarama com/comics/wondercon 2012 dark avengers jeff parker html  title WonderCon 2012 Exclusive  THUNDERBOLTS Becomes DARK AVENGERS  publisher   Newsarama    date March 18  2012  accessdate March 28  2012    /ref  ref name  auto1    cite web  first Dave  last Richards  url http //www comicbookresources com/?page article&id 37637  title WC12  Parker & Shalvey Cage The  Dark Avengers   publisher   Comic Book Resources    date March 19  2012  accessdate March 28  2012    /ref  Dark Avengers ended with issue #190  ref   cite web url http //www comicbookresources com/?page article&id 43749 title Marvel Comics Solicitations for May  2013 author  date 14 February 2013 website comicbookresources com accessdate 19 March 2018   /ref 
-
-  Fictional team biography  
-
-   Dark Avengers   
-The government assigned the team  redevelopment to   Norman Osborn    the reformed supervillain now calling himself the Iron Patriot  whom the government had previously assigned to head the superhero team the   Thunderbolts  comics  Thunderbolts   and who had become a public hero for his role in repelling the Skrull threat  Osborn  also given leadership of the   espionage   agency   S H I E L D     reforms that agency into   H A M M E R    and creates a new Avengers team under its aegis 
-
-The initial line up consists of former Thunderbolts members and new recruits  including the   Sentry  Robert Reynolds  Sentry      Ares  Marvel Comics  Ares      Noh Varr    now   Captain Marvel  Marvel Comics  Captain Marvel    as well as disguised super villains   Moonstone  comics  Moonstone    portraying   Ms  Marvel       Venom  Marvel Comics character  Venom      Mac Gargan   portraying   Spider Man   after being given a formula that resets the symbiote to the size it was when it possessed Spider Man     Bullseye  comics  Bullseye    portraying   Hawkeye  comics  Hawkeye    and   Wolverine  character  Wolverine    disgruntled son   Daken   taking on the Wolverine mantle  Osborn also takes on the identity of   Iron Patriot    wearing a red  white  and blue themed   Iron Man   armor  ref   Dark Avengers   #1  March 2009  /ref  The team goes to   Latveria   to rescue   Doctor Doom   from   Morgan le Fay  Marvel Comics  Morgan Le Fay    ref   Dark Avengers   #2  April 2009  /ref  Upon returning from Latveria  Osborn deals ref   Dark Avengers   #5 /ref  with the aftermath of   Hawkeye  comics  Ronin    appearance on live TV reminding the public of Osborn  murderous past and that he should not be trusted  ref   New Avengers   #50 /ref  Due to this action  Osborn is forced to  get rid of  this problem 
-
-The Dark Avengers arrive in San Francisco to set up martial law and to quell the anti mutant riots  In doing so  Norman sets up   Dark X Men his own team of X Men   consisting of   Cloak and Dagger  comics  Cloak and Dagger      Mimic  comics  Mimic      Emma Frost      Namor   the Sub Mariner    Daken      Michael Pointer  comics  Weapon Omega   and   Mystique  comics  Mystique    posing as   Professor X    much to the chagrin of his Avengers  ref   Dark Avengers/Uncanny X Men    Utopia  comics  Utopia     #1 /ref  After Emma Frost  Namor  and Cloak and Dagger betray the team  Norman swears vengeance on the X Men  ref   Dark Avengers   #8 /ref 
-
-A series of disappearances throughout Colorado causes Norman Osborn  Dark Avengers  except for Venom  to visit the small town of   Dinosaur  Colorado     Everyone except Norman is teleported away  while Osborn finds himself in front of a throne with   Molecule Man   seated on it  flanked by the   Beyonder      Mephisto  comics  Mephisto      Zarathos    and the   Enchantress  Marvel Comics  Enchantress    ref   Dark Avengers   #10  2009  /ref   However  it is revealed that these others were merely Molecule Man  creations   Molecule Man tortures Norman mentally and physically and seemingly kills his Avengers  ref   Dark Avengers   #11 /ref  Osborn  assistant   Victoria Hand  comics  Victoria Hand   successfully stalls Molecule Man with a false surrender until the   Sentry  Robert Reynolds  Void   is able to reform and kill Molecule Man  It is revealed that the Sentry and the Void have the same powers as Molecule Man  The Sentry regains control of himself and agrees to begin therapy with Moonstone  while Victoria Hand demands Norman to undergo therapy as well after being tortured  Inside his office    Loki  comics  Loki   is manipulating Norman into having a   Green Goblin   relapse  ref   Dark Avengers   #12 /ref 
-
-After declaring war on the   Asgard  comics  Asgardians    Norman Osborn has the Dark Avengers and those in   Avengers  The Initiative The Initiative   prepare for the   Siege  comics  Siege of Asgard    ref   Siege   #1 /ref  Norman considers The Sentry  specifically his dark side  known as The Void  his secret weapon  ref   Dark Avengers   #13 /ref 
-
-In flashback  it is told how Robert Reynolds received his vast powers from experimental drugs  using his might as the Sentry to live the life of a superhero  while his darker emotions manifested as the Void  Osborn has manipulated Reynolds into allowing the Void to take over  to do Osborn  murderous bidding  Osborn has somehow recreated the addictive serum that gave Reynolds his powers  making him dependent on Osborn and his approval  Meanwhile  Reynolds  wife Lindy has been a virtual prisoner in the Sentry  Watchtower  has even attempted to kill him  and begs Reynolds to either kill her or let her go  Reynolds  warring personalities  however  have stalemated  The Sentry even attempts suicide  flying into the heart of the sun  but such is his invulnerability that it doesn t work  He tires of struggling against the Void  Norman orders Bullseye to kill Lindy  blaming her for Sentry  uncertainty and weakness  ref   Dark Avengers   #14 /ref  When an emergency evacuation occurs  Bullseye takes Lindy on a helicopter  antagonizes her cruelly  then strangles her to death and dumps her body into the ocean  When Sentry arrives looking for Lindy  Bullseye claims that she committed suicide  out of fear of Reynolds  by jumping out of the helicopter in the countryside  Sentry leaves to look for her body  From this point on  it could be said that the murderous Void was in full control of Reynolds and his unprecedented power  ref   Dark Avengers   #15 /ref 
-
-Following the events of Siege  Norman Osborn is incarcerated in   The Raft  comics  The Raft   penitentiary  Moonstone  Bullseye and Venom are captured by the heroes  while Daken manages to escape capture by military personnel  After being interrogated by   Captain America  comics  Captain Rogers    Victoria Hand is informed that she has been reassigned  ref   Dark Avengers   #16 /ref  Moonstone joins   Luke Cage    incarnation of the Thunderbolts  ref   Thunderbolts   #144 /ref  Noh Varr is recruited into the Avengers team to help them build a time machine to save the future  ref   Avengers   #2 /ref  Victoria Hand is assigned by Steve Rogers to be the liaison for Luke Cage  team of Avengers  dubbed the   The New Avengers  comics  New Avengers    because he feels that she can provide an important insight to the team  ref   New Avengers #1  2010    /ref  Bullseye escapes custody and is killed by his longtime nemesis   Daredevil  Marvel Comics character  Daredevil   when he attacks his fortress of   Shadowland  comics  Shadowland   during the storyline of the same name  Daken eludes capture at the conclusion of the Siege of Asgard and is confronted by   Punisher Franken Castle    whom he had killed during the Dark Reign   Mac Gargan  symbiote is removed and he is taken into custody    Alistair Smythe   breaks Gargan out of prison who is transformed back into the Scorpion  ref   Amazing Spider Man   #651 /ref 
-
-   New Dark Avengers   
-A new Dark Avengers team is formed by Norman Osborn and H A M M E R  The roster includes   Skaar  comics  Skaar      Gorgon  Tomi Shishido  Gorgon      List of incarnations of Spider Man#Ai Apaec Ai Apaec    Dr    June Covington      Superia    and   Barney Barton Trickshot    The team is backed up by   Hydra  comics  HYDRA   and   Advanced Idea Mechanics A I M    Norman Osborn also has A I M  rebuild   Ragnarok  comics  Ragnarok   so that he can join the Dark Avengers  ref   New Avengers   vol  2 #18 /ref  Although Osborn claims to be certain that his new team is superior to their  templates   he appears unaware that   Viper  Madame Hydra  Madame Hydra   and Gorgon are already planning to kill him once he proves himself to be too dangerous as leader  intending to use his team to sow discord by serving as a voice of the  disenfranchised  unsatisfied with the status quo  ref   New Avengers   vol  2 #19 /ref  The subsequent fight against the New Avengers proves to be relatively evenly matched  Although Osborn demonstrates a surprising new level of strength allowing him to throw Luke Cage a considerable distance and his   Scarlet Witch   injures   Doctor Strange    the others are able to hold their own far more easily  When they attempt to teleport away  the New Avengers end up facing Ragnarok  ref   New Avengers   vol  2 #20 /ref  Spider Man and   Iron Fist  comics  Iron Fist   are able to defeat Ragnarok  but the Dark Avengers  actions have still damaged the New Avengers  reputations by tricking them into provoking a fight with a team who just helped the civilians  ref   New Avengers   vol  2 #21 /ref  Osborn  other forces attacking the main team to charge them with various war crimes  ordering the President to declare Osborn the new head of world security and put the Avengers on trial  ref   Avengers   vol  4 #23 /ref 
-
-The Dark Avengers capture Captain America during their successful attack on both Avengers teams with the intention of executing him for his  crimes   Gorgon and Superia are already planning to betray the team  while Victoria Hand  apparently Norman  double agent inside the team  reveals her real allegiance to Captain America to the New Avengers  and Skaar turns on his teammates after they confirm their intentions to assault Captain America  proclaiming  Avengers Assemble   as he does so  ref   New Avengers   vol  2 #22 /ref  Skaar reveals that he is a double agent for Captain America  allowing the New Avengers to defeat the rest of the team  ref   New Avengers   vol  2 #23 /ref  Norman Osborn is shown to have developed the abilities of the   Super Adaptoid    enabling him to copy the abilities of the other Avengers  The Avengers find a way to overload this power  which puts Norman Osborn into a coma  After Osborn is defeated  the rest of the Dark Avengers are detained  It is suggested in a conversation with Captain America that they be considered for the Thunderbolts Program  ref   Avengers   vol  4 #24 /ref 
-
-As of #175    Thunderbolts   is renamed   Dark Avengers   with writer   Jeff Parker  comics  Jeff Parker   and the art team of   Kev Walker   and   Declan Shalvey   remaining on the title  ref name  auto /  ref name  auto1 / 
-
-When the Thunderbolts are missing in the time stream  the Dark Avengers were recruited as a replacement team  In order to keep the Dark Avengers in line  they were implanted with nanites  and placed under the leadership of Luke Cage  ref   Dark Avengers   #175 /ref 
-
-The Dark Avengers team are thrown into the alternate world of Earth 13584 with   U S  Agent  comics  John Walker  U S  Agent    where they are captured by that reality  version of   Iron Man    ref   Dark Avengers   #184 /ref  It turns out that A I M  is behind the reality manipulation  Due to the Dark Avengers  arrival  the solar system is starting to disappear  The Dark Avengers enter the A I M  base and accelerate the sliver  destruction  The Dark Avengers arrive back in their world  Skaar hops away  but the rest of the team ponders what to do  as most of them are still criminals  June Covington bewitches U S  Agent into believing they could still work as a team and steps on a still miniaturized Ai Apaec  ref   Dark Avengers   #190 /ref 
-
-  Roster  
-
-   Founders   
-   class  wikitable  width 100%
- width 14%  Character
- width 20%  Real Name
- width 18%  Joined in
-   Notes
+  music              Alan Silvestri  
+  cinematography     Trent Opaloch  
+  editing          
+  studio             Marvel Studios  
+  distributor        Walt Disney Studios Motion Pictures Walt Disney Studios br / Motion Pictures  
+  released           Film date 2019 5 3 United States  
+  runtime          
+  country          United States
+  language         English
+  budget               Please do NOT add the shared budget amount between the two films here  The amount here should be that which applies solely to this film  If by the time the film releases an amount cannot be attributed to solely this film  it can be reevaulated how to to best present the number that represents both films  Thank you     
+  gross            
   
-    Iron Patriot  
-    Norman Osborn  
- rowspan  8    Dark Avengers   #1  March 2009 
-  Former leader  captured in   Dark Avengers   #16  Redesigned Stark armor to represent both   Iron Man   and   Captain America    Rejoined in   New Avengers   #18 acquired the power of the   Super Adaptoid   after reassembling the team 
-  
-     Spider Man   
-    Mac Gargan  
-  Captured in  Dark Avengers  #16  Became Scorpion again after Venom suit was taken by government 
-  
-     Ms  Marvel    a k a  Captain Marvel
-    Moonstone  comics  Karla Sofen  
-  Captured in   Dark Avengers   #16 and joined Luke Cage    Thunderbolts  comics  Thunderbolts   in   Thunderbolts   #144  Rejoins the team in Dark Avengers #184 
-  
-     Bullseye  comics  Bullseye   
-    Bullseye  comics  Lester  
-  Captured in   Dark Avengers   #16  Killed by Daredevil in   Shadowland   #1 
-  
-     Wolverine  character  Wolverine   
-    Daken Akihiro  
-    Wolverine  character  Wolverine    psychopathic son  He avoided capture in   Dark Avengers   #16 and remains at large 
-  
-    Noh Varr Captain Marvel  
-    Noh Varr  
-  Left the team in   Dark Avengers   #6 and joined the   Avengers  comics  Avengers   
-  
-    Ares  Marvel Comics  Ares  
-  Ares
-  Killed in   Siege   #2 by the Sentry 
-  
-    Sentry  Robert Reynolds  The Sentry  
-  Robert Reynolds
-  Went rogue in   Siege   #3 before being killed by Thor in   Siege   #4 
-  
+The    untitled Avengers film     colloquially referred to as      Avengers 4       is an upcoming American   superhero film   based on the   Marvel Comics   superhero team the   Avengers  comics  Avengers    produced by   Marvel Studios   and distributed by   Walt Disney Studios Motion Pictures    It is intended to be the direct sequel to 2018      Avengers  Infinity War      as well as the sequel to 2012      The Avengers  2012 film  Marvel  The Avengers     and 2015      Avengers  Age of Ultron     and   List of Marvel Cinematic Universe films the twenty second film   in the   Marvel Cinematic Universe    MCU   The film is directed by   Russo brothers Anthony and Joe Russo    with a screenplay by the writing team of   Christopher Markus and Stephen McFeely    and features an   ensemble cast   with   List of Marvel Cinematic Universe film actors many actors from previous MCU films   
+
+The film was announced in October 2014 as   Avengers  Infinity War – Part 2    The Russo brothers came on board to direct in April 2015 and by May  Markus and McFeely signed on to script the film  In July 2016  Marvel removed the film  title  referring to it simply as   Untitled Avengers   film  Filming began in August 2017 at   Pinewood Atlanta Studios   in   Fayette County  Georgia    shooting   back to back film production back to back   with   Avengers  Infinity War    and ended in January 2018  Additional filming took place in the   Downtown Atlanta Downtown   and   Metro Atlanta   areas      and Scotland    
+
+The untitled Avengers film is scheduled to be released in the United States on May 3  2019  in   IMAX   and   3D film 3D   
+
+   Cast   
+     Order is based on Infinity War BILLING BLOCK  with actors not in that film appended at the end once they are confirmed  Adjustments will be made once a reliable source is released providing a new order     
+    Robert Downey Jr    as   Tony Stark  Marvel Cinematic Universe  Tony Stark / Iron Man      Cast list break The leader and benefactor of the   Avengers  comics  Avengers   who is a self described genius  billionaire  playboy  and philanthropist with   Iron Man  armor in other media#Live action electromechanical suits of armor   of his own making  ref name  DowneyInfinity  /  ref name  DowneyClarify  /   
+    Chris Hemsworth   as   Thor  Marvel Comics  Thor    An Avenger and the king of   Asgard  comics  Asgard    based on the   Norse mythology Norse mythological   deity of the   Thor same name    ref name  HemsworthEvans  / 
+    Mark Ruffalo   as   Hulk  comics  Bruce Banner / Hulk      Cast list break An Avenger and a genius scientist who  because of exposure to   gamma radiation    transforms into a monster when enraged or agitated  ref name  Oct2014EventQA  /  ref name  RuffaloYahooJan2016  /  The character concludes a story arc that was established in     Thor  Ragnarok     and     Avengers  Infinity War      ref name  RuffaloHulkArc  /   
+    Chris Evans  actor  Chris Evans   as   Captain America Steve Rogers / Captain America      Cast list break A fugitive superhero and leader of a faction of Avengers  A   World War II   veteran  he was enhanced to the peak of human physicality by an experimental serum and frozen in suspended animation before waking up in the modern world  ref name  HemsworthEvans  /  Although the film was beyond Evans  initial six film contract with Marvel which would have ended with   Avengers  Infinity War    Evans agreed to appear in the film  because it made sense  It  going to wrap everything up   ref name  EvansJun2017  /   
+    Scarlett Johansson   as   Black Widow  Natasha Romanova  Natasha Romanoff / Black Widow    A highly trained spy  a member of Rogers  faction of Avengers  and a former agent of   S H I E L D    ref name  JohanssonAvengers4  /  ref name  RuddAvengers4  / 
+    Benedict Cumberbatch   as     Inclusion of  Dr   per discussion on Talk Doctor Strange  2016 film    Dr    Stephen Strange    A former   neurosurgeon   who  after a car accident that led to a journey of healing  discovered the hidden world of magic and alternate dimensions and became a Master of the Mystic Arts  ref name  CumberbatchAvengers4  / 
+    Don Cheadle   as   War Machine James  Rhodey  Rhodes / War Machine    A former officer in the   United States Air Force U S  Air Force   who operates the War Machine armor and is an Avenger  ref name  CheadleAvengers4  / 
+    Tom Holland  actor  Tom Holland   as   Spider Man Peter Parker / Spider Man    A teenager and Avenger who received spider like abilities after being bitten by a genetically modified spider  ref name  HollandAvengers4  / 
+    Chadwick Boseman   as   Black Panther  comics  T Challa / Black Panther    The king of the African nation of   Wakanda  comics  Wakanda    who gained his enhanced strength by ingesting the Heart Shaped Herb  ref name  BosemanWrightAvengers4  / 
+    Paul Bettany   as   Vision  Marvel Comics  Vision    An android and Avenger created using the artificial intelligence   Edwin Jarvis J A R V I S       Ultron   and the   Infinity Gems Mind Stone    ref name  BettanyAvengers4  / 
+    Elizabeth Olsen   as   Scarlet Witch Wanda Maximoff / Scarlet Witch    A member of Rogers  faction of Avengers who can harness magic and engage in   hypnosis   and   telekinesis    ref name  PrattOlsen  / 
+    Anthony Mackie   as   Falcon  comics  Sam Wilson / Falcon    A member of Rogers  faction of Avengers and former   United States Air Force Pararescue pararescueman   trained by the military in aerial combat using a specially designed wing pack  ref name  MackieConfirm  / 
+    Sebastian Stan   as   Bucky Barnes Bucky Barnes / White Wolf      Cast list break An enhanced assassin and Rogers  ally and best friend  who reemerged brainwashed after being thought   killed in action   during World War II  ref name  StanAvengers4  /  Barnes  who formerly went by Winter Soldier  takes the name   White Wolf  comics  White Wolf    given to him by the people of Wakanda  who helped remove his   Hydra  comics  Hydra   programming  ref name  EWIWBTS  /   
+    Tom Hiddleston   as   Loki  comics  Loki      Thor  Marvel Comics  Thor    adoptive brother based on the Norse mythological deity of the   Loki same name    ref name  HiddlestonInfinity  / 
+    Pom Klementieff   as   Mantis  Marvel Comics  Mantis    A member of the Guardians with empathic powers  ref name  KlementieffAvengers4  / 
+    Karen Gillan   as   Nebula  comics  Nebula    An adopted daughter of Thanos who was raised with   Gamora   as siblings  ref name  Gillan  / 
+    Dave Bautista   as   Drax the Destroyer    A member of the Guardians and warrior in search of vengeance against Thanos for killing his family  ref name  BautistaAvengers4  / 
+    Zoe Saldana   as   Gamora    A member of the Guardians who is an orphan from an alien world who seeks redemption for her past crimes  She was trained by Thanos to be his personal assassin  ref name  SaldanaAvengers4  / 
+    Gwyneth Paltrow   as   Pepper Potts Virginia  Pepper  Potts    Stark  fianceé and the CEO of   Stark Industries    ref name  FavreauPaltrowAvengers4  / 
+    Josh Brolin   as   Thanos      Cast list break An intergalactic despot who longs to collect all of the   Infinity Stones   in order to inflict his will on all of reality  ref name  BrolinInfinity  /  ref name  IWSynopsis  /  ref name  BrolinAvengers4  /  In addition to providing the voice for the character  Brolin performed   motion capture   on set  ref name  BrolinMoCap  /   
+    Chris Pratt   as   Star Lord Peter Quill / Star Lord      Cast list break The half human  half   Celestial  comics  Celestial   leader of the   Guardians of the Galaxy  2008 team  Guardians of the Galaxy   who was abducted from Earth as a child and raised by a group of alien thieves and smugglers called the Ravagers  ref name  PrattOlsen  /   
+    Jeremy Renner   as   Hawkeye  comics  Clint Barton / Hawkeye    A master   archer    former Avenger  and agent of   S H I E L D     ref name  Renner  /  ref name  RennerConfirmed  / 
+    DO NOT ADD SAMUEL L  JACKSON WITHOUT A RELIABLE SOURCE THAT HE WILL BE IN THE MOVIE THANK YOU      Samuel L  Jackson   as   Nick Fury    The former director of S H I E L D  who originally recruited the Avengers  ref name  SLJConfirm  /     
+    Evangeline Lilly   as   Hope Pym Hope van Dyne / Wasp      Cast list break The daughter of   Hank Pym   and   Wasp  comics  Janet van Dyne    who is bequeathed a similar suit and the Wasp sobriquet from her mother  Lilly said that her character would not appear in   Avengers  Infinity War   in order to preserve her reveal as the Wasp in     Ant Man and the Wasp      ref name  Lilly  /   
+    Jon Favreau   as   Happy Hogan  comics  Harold  Happy  Hogan    The former head of security for   Stark Industries   and Tony Stark  driver and bodyguard  ref name  FavreauPaltrowAvengers4  / 
+    Paul Rudd   as   Ant Man  Scott Lang  Scott Lang / Ant Man    A former petty criminal who acquired a suit that allows him to shrink or grow in scale but increase in strength  ref name  RuddAvengers4  / 
+    Brie Larson   as   Carol Danvers Carol Danvers / Captain Marvel      Cast list break A   United States Air Force U S  Air Force   pilot whose DNA is fused with that of an alien during an accident  which imbues her with the powers of superhuman strength  energy projection and flight  ref name  LarsonAvengers4  /  Screenwriter Christopher Markus stated that Danvers  powers are on scale that has not previously existed in the MCU and likened her personality to Rogers    which is sort of a person who  right and knows they re right and doesn t really want to hear it when you tell them they re wrong   ref name  Markus_March2018  /   
+     Order is based on Infinity War BILLING BLOCK  with actors not in that film appended at the end once they are confirmed  Adjustments will be made once a reliable source is released providing a new order     
+
+Additionally    Letitia Wright   reprises her role as   Shuri  comics  Shuri    ref name  BosemanWrightAvengers4  /  and   Hiroyuki Sanada   has been cast in an undisclosed role  ref name  Sanada  /  Avengers co creator   Stan Lee   has a cameo in the film  ref name  LeeCameo  / 
+
+   Production   
+  Main Production of Avengers  Infinity War and the untitled Avengers sequel  
+In October 2014  Marvel announced a two part sequel to   Age of Ultron    titled   Avengers  Infinity War      Part 1   was scheduled to be released on May 4  2018  with   Part 2   scheduled for May 3  2019  ref name  InfinityWar  /  ref name  Oct2014Event  /  In April 2015  Marvel announced that   Russo brothers Anthony and Joe Russo   would direct both parts of   Avengers  Infinity War    ref name  Russos2  /  with   back to back film production back to back filming   expected to begin in 2016  ref name  Russos  /  Also in the month    Kevin Feige   said the films would be two  distinct films  because they  have  such shared elements  it felt appropriate    to  subtitle the films  like that  But I wouldn t call it   List of films split into multiple parts one story that  cut in half    I would say it  going to be two distinct movies   ref name  FeigeApril2015  /  By May 2015    Christopher Markus & Stephen McFeely   signed on to write the screenplays for both parts of the film  ref name  MarkusMcFeely  /  The following May  the Russos revealed that they would be retitling the two films  to further remove the misconception that the films were one large film split in two  with Joe stating   The intention is we will change  the titles   we just haven t come up with  them  yet   ref name  Retitled  /  In July 2016  Marvel removed the film  title  simply referring to it as   Untitled Avengers   film  ref name  Retitled2  /  Anthony Russo stated that the new title for the film would not be revealed  for quite some time   ref name  RussosRetitle  /  with Feige and the Russo brothers indicating the title was being withheld as it would give away plot details for this film and   Infinity War    ref name  FeigeTitle  /  ref name  RussosTitle  / 
+
+  Principal photography   began on August 10  2017  ref name  FilmingStart  /  under the   working title     Mary Lou 2    ref name  WorkingTitle  /  at   Pinewood Atlanta Studios   in   Fayette County  Georgia    ref name  Pinewood  /  with   Trent Opaloch   serving as   cinematographer director of photography    ref name  Atlanta  /  Also in the month  filming occurred in   The Gulch  Atlanta  The Gulch   area of   Downtown Atlanta    near the   Five Points station Five Points     Metropolitan Atlanta Rapid Transit Authority MARTA   station  and   Piedmont Park    ref name  AtlantaAugFilming  /  Feige stated that the films were originally scheduled to be filmed simultaneously but instead decided to shoot them   Back to back film production back to back   explaining   We re doing them one right after another  It became too complicated to cross board them like that  and we found ourselves—again  something would always pay the price  We wanted to be able to focus and shoot one movie and then focus and shoot another movie   ref name  ColliderApril2017  /  Anthony Russo originally felt it made more sense to shoot the films simultaneously due to financial and logistical reasons considering the large number of cast members  even though each part is its own distinct film  ref name  RussosFilmingReason  /  and suggested that  some days we ll be shooting the first movie and some days we ll be shooting the second movie  Just jumping back and forth   ref name  Atlanta  /  Production   Wrap  filmmaking  wrapped   on January 11  2018  ref name  FilmingEnd  /  although additional filming is scheduled to take place in   Edinburgh   and   Glasgow    Scotland in July 2018  ref name  ScotlandFilming  /  with reshoots scheduled for late 2018  ref name  Reshoots  / 
+
+   Music   
+In June 2016    Alan Silvestri    who composed the score for     The Avengers  2012 film  The Avengers      was revealed to be returning to score both   Infinity War   and the untitled sequel  ref name  Silvestri  / 
+
+   Release   
+The untitled Avengers film is scheduled to be released in the United Kingdom on April 26  2019  ref name  KlementieffAvengers4  /  and United States on May 3  2019  ref name  InfinityWar  /  ref name  Oct2014Event  /  in   IMAX   and   3D film 3D    ref name  IMAXRelease  /  ref name  3DRelease  / 
+
+   Marketing   
+Germain Lussier of   io9   spoke to the approach Marvel might have to take in marketing film  given the end of   Infinity War    which sees many established characters die  He questioned if those characters would appear on posters and in toy campaigns  and if the actors portraying them would participate in press events leading up to the film  release  Lussier felt Disney and Marvel could focus on the original Avengers team members  who make up the majority of the living characters  but noted it would be more beneficial to show the return of the dead characters  which would  build a mystery and curiosity about   em how   they come back  It could create a whole new level of interest about the film while having all the stars front and center  as they should be   ref name  MarketingMay2018  / 
+
+   References   
+  reflist refs 
+
+ ref name  Oct2014Event    cite web url http //www newsarama com/22573 marvel announces black panther captain marvel inhumans avengers infinity war films cap thor 3 subtitles html  title Marvel Announces Black Panther  Captain Marvel  Inhumans  Avengers  Infinity War Films  Cap & Thor 3 Subtitles  last Siegel  first Lucas  publisher   Newsarama    date October 28  2014  accessdate October 28  2014  archiveurl https //www webcitation org/6TfU8mLIr?url http //www newsarama com/22573 marvel announces black panther captain marvel inhumans avengers infinity war films cap thor 3 subtitles html  archivedate October 28  2014  deadurl no  df     /ref 
+
+ ref name  InfinityWar    cite web url http //marvel com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war  title Marvel  The Avengers Head into an Infinity War  last Strom  first Marc  publisher   Marvel Comics Marvel com    date October 28  2014  accessdate October 28  2014  archiveurl https //www webcitation org/6TforkqPl?url http //marvel com/news/movies/23546/marvels_the_avengers_head_into_an_infinity_war  archivedate October 29  2014  deadurl no  df     /ref 
+
+ ref name  Oct2014EventQA    cite web url http //www slashfilm com/marvel phase 3 kevin feige/  title Watch  All Of Your Marvel Phase 3 Questions Answered By Marvel Head Kevin Feige  last Sciretta  first Peter  publisher   /Film    date October 28  2014  accessdate October 30  2014  archiveurl https //www webcitation org/6TiXTd7oh?url http //www slashfilm com/marvel phase 3 kevin feige/  archivedate October 30  2014  deadurl no  df     /ref 
+
+ ref name  HiddlestonInfinity    cite web url http //www digitalspy co uk/movies/news/a607266/loki to appear in thor ragnarok and both parts of avengers infinity war html  title Loki to appear in Thor  Ragnarok and both parts of Avengers  Infinity War  last Babbage  first Rachel  work Digital Spy  date November 1  2014  accessdate November 2  2014  archiveurl https //www webcitation org/6TlZmNL8m?url http //www digitalspy co uk/movies/news/a607266/loki to appear in thor ragnarok and both parts of avengers infinity war html  archivedate November 1  2014  deadurl yes  df     /ref 
+
+ ref name  BrolinInfinity    cite web url http //screenrant com/avengers 3 4 infinity war release dates/  title  Avengers  Infinity War  Announced For 2018–19 in Two Parts  last Keyes  first Rob  work Screen Rant  date October 28  2014  accessdate November 2  2014  archiveurl https //web archive org/web/20141029085257/http //screenrant com/avengers 3 4 infinity war release dates/  archivedate October 29  2014  deadurl no  df     /ref 
+
+ ref name  Russos    cite web url http //www hollywoodreporter com/heat vision/russo brothers direct avengers infinity 783685  title Russo Brothers to Direct  Avengers  Infinity War  Parts 1 and 2  last1 Kit  first1 Borys  last2 Siegemund Broka  first2 Austin  work   The Hollywood Reporter    date March 23  2015  accessdate March 23  2015  archiveurl https //www webcitation org/6XFh6l7ys?url http //www hollywoodreporter com/heat vision/russo brothers direct avengers infinity 783685  archivedate March 23  2015  deadurl no  df     /ref 
+
+ ref name  Russos2    cite web url http //marvel com/news/movies/24399/joe_anthony_russo_to_direct_2 part_marvels_avengers_infinity_war_event  title Joe & Anthony Russo to Direct 2 Part Marvel   Avengers  Infinity War  Event  last Strom  first Marc  publisher   Marvel Comics Marvel com    date April 7  2015  accessdate April 7  2015  archiveurl https //www webcitation org/6XcFsLKrg?url http //marvel com/news/movies/24399/joe_anthony_russo_to_direct_2 part_marvels_avengers_infinity_war_event  archivedate April 7  2015  deadurl no  df     /ref 
+
+ ref name  MarkusMcFeely    cite web url http //marvel com/news/movies/24589/christopher_markus_stephen_mcfeely_to_write_marvels_2 part_avengers_infinity_war_event  title Christopher Markus & Stephen McFeely to Write Marvel  2 Part  Avengers  Infinity War  Event  last Strom  first Mark  publisher   Marvel Comics Marvel com    date May 7  2015  accessdate May 7  2015  archiveurl https //www webcitation org/6YMOLHv92?url http //marvel com/news/movies/24589/christopher_markus_stephen_mcfeely_to_write_marvels_2 part_avengers_infinity_war_event  archivedate May 8  2015  deadurl no  df     /ref 
+
+ ref name  FeigeApril2015    cite web url http //www mtv com/news/2130574/kevin feige marvel movie future/  title Marvel  Movie Future  Here  Everything You Need To Know Through… Phase 4?  last1 Zalben  first1 Alex  last2 Horowitz  first2 Josh  publisher   MTV    date April 12  2015  accessdate April 12  2015  archiveurl https //www webcitation org/6XkNKo8yd?url http //www mtv com/news/2130574/kevin feige marvel movie future/  archivedate April 13  2015  deadurl no  df     /ref 
+
+ ref name  HemsworthEvans    cite web url http //collider com/avengers 3 4 chris hemsworth reveals marvel movies left on his contract/  title Chris Hemsworth Reveals the 3 Marvel Movies Left on His Contract  last Chitwood  first Adam  publisher Collider  date April 14  2015  accessdate April 15  2015  archiveurl https //www webcitation org/6Xo5kQI9b?url http //collider com/avengers 3 4 chris hemsworth reveals marvel movies left on his contract/  archivedate April 15  2015  deadurl no  df     /ref 
+
+ ref name  DowneyInfinity    cite web url http //marvel com/news/movies/20786/robert_downey_jr_to_return_as_marvels_iron_man  title Robert Downey Jr  To Return As Marvel  Iron Man  publisher   Marvel Comics Marvel com    date June 20  2013  accessdate June 20  2013  archiveurl https //www webcitation org/6HWVI49Mb?url http //marvel com/news/story/20786/robert_downey_jr_to_return_as_marvels_iron_man  archivedate June 20  2013  deadurl no  df     /ref 
+
+ ref name  Atlanta    cite web url http //collider com/captain america civil war avengers 3 infinity war updates russo brothers/  title  Captain America  Civil War  Directors on Landing Spider Man   Infinity War  Shooting Schedule  last Cabin  first Chris  publisher   Collider  website  Collider    date January 14  2016  accessdate January 14  2016  archiveurl https //www webcitation org/6eXBPJg81?url http //collider com/captain america civil war avengers 3 infinity war updates russo brothers/  archivedate January 14  2016  deadurl no  df     /ref 
+
+ ref name  RuffaloYahooJan2016    cite web url https //news yahoo com/mark ruffalo promises epic arc for hulk across 173437861 html  title Mark Ruffalo Promises Epic Arc For Hulk Across Thor 3 and Infinity War  publisher   Yahoo     date January 25  2016  accessdate January 28  2016  last Butler  first Tom  archiveurl https //www webcitation org/6eslzxPIM?url http //news yahoo com/mark ruffalo promises epic arc for hulk across 173437861 html  archivedate January 28  2016  deadurl no  df     /ref 
+
+ ref name  BrolinMoCap    cite web url http //www superherohype com/news/364467 josh brolin on playing thanos in the marvel cinematic universe 2#/slide/1  title Josh Brolin on Playing Thanos in the Marvel Cinematic Universe  last Busch  first Jenna  publisher   Superhero Hype     date February 1  2016  accessdate February 2  2016  archiveurl https //www webcitation org/6f0LbdwlR?url http //www superherohype com/news/364467 josh brolin on playing thanos in the marvel cinematic universe 2  archivedate February 2  2016  deadurl no  df     /ref 
+
+     ref name  PrattInfinity    cite web url http //comicbook com/2016/04/11/star lord and thor confirmed for avengers infinity war/ title Russo Brothers Confirm Star Lord And Thor in Avengers  Infinity War last Davis first Brandon publisher ComicBook com date April 10  2016 accessdate April 10  2016 archiveurl https //www webcitation org/6ggCryJhN?url http //comicbook com/2016/04/11/star lord and thor confirmed for avengers infinity war/ archivedate April 11  2016 deadurl no   /ref     
+
+ ref name  DowneyClarify    cite web url http //www hollywoodreporter com/heat vision/robert downey jr joins spider 885829  title Robert Downey Jr  Joins  Spider Man  Homecoming   last Kit  first Borys  work   The Hollywood Reporter    date April 21  2016  accessdate April 21  2016  archiveurl https //www webcitation org/6gwJpLINa?url http //www hollywoodreporter com/heat vision/robert downey jr joins spider 885829  archivedate April 21  2016  deadurl no  df     /ref 
+
+ ref name  Retitled    cite web url http //uproxx com/movies/russo brothers confirm avengers infinity war title change/  title Russo Brothers Confirm   Avengers  Infinity War 1 And 2  Will Be Retitled  last Ryan  first Mike  publisher Uproxx  date May 4  2016  accessdate May 4  2016  archiveurl https //www webcitation org/6hGB4kPmk?url http //uproxx com/movies/russo brothers confirm avengers infinity war title change/  archivedate May 4  2016  deadurl no  df     /ref 
+
+ ref name  Silvestri    cite web url http //comicbook com/2016/06/07/avengers composer alan silvestri to return for infinity war/  title Avengers Composer Alan Silvestri To Return For Infinity War  last Burlingame  first Russ  publisher Comicbook com  date June 6  2016  accessdate June 6  2016  archiveurl https //www webcitation org/6i4umD5qd?url http //comicbook com/2016/06/07/avengers composer alan silvestri to return for infinity war/  archivedate June 7  2016  deadurl no  df     /ref 
+
+ ref name  Retitled2    cite web url http //www thewrap com/marvel surprise avengers infinity war wont be split into 2 movies/  title Marvel Surprise   Avengers  Infinity War  Won t Be Split Into 2 Movies  last Donnelly  first Matt  publisher   The Wrap    date July 29  2016  accessdate July 29  2016  archiveurl https //web archive org/web/20160801014428/http //www thewrap com/marvel surprise avengers infinity war wont be split into 2 movies/  archivedate August 1  2016  deadurl no  df     /ref 
+
+ ref name  PrattOlsen    cite web url http //deadline com/2016/07/avengers infinity war avengers 3 marvel studios 1201795344/  title Marvel   Avengers 3  Gets Official Title With Temp Name Hung On  Avengers 4   last Lincoln  first Ross A   website   Deadline Hollywood    date July 29  2016  accessdate July 30  2016  archiveurl https //web archive org/web/20160731183651/http //deadline com/2016/07/avengers infinity war avengers 3 marvel studios 1201795344/  archivedate July 31  2016  deadurl no  df     /ref 
+
+ ref name  RussosRetitle    cite web url http //www cinemablend com/news/1547620/why avengers 4 isnt going to be called infinity war part 2 anymore  title Why Avengers 4 Isn t Going To Be Called Infinity War Part 2 Anymore  last Eisenberg  first Eric  publisher Cinema Blend  date August 19  2016  accessdate August 19  2016  archiveurl https //www webcitation org/6jtBPrXTK?url http //www cinemablend com/news/1547620/why avengers 4 isnt going to be called infinity war part 2 anymore  archivedate August 19  2016  deadurl no  df     /ref 
+
+     ref name  SLJConfirm    cite web url http //collider com/samuel l jackson avengers 3 xxx 3/  title Samuel L  Jackson on How He Factors into  xXx 3  and Nick Fury  Return for the  Avengers  Sequels  last Goldberg  first Matt  publisher   Collider  website  Collider    date September 28  2016  accessdate September 28  2016  archiveurl https //www webcitation org/6ks2XqLX3?url http //collider com/samuel l jackson avengers 3 xxx 3/  archivedate September 28  2016  deadurl no  df     /ref     
+
+ ref name  Lilly    cite web url http //www blastr com/2016 10 9/watch evangeline lilly introducing wasp when shell join avengers  title Watch  Evangeline Lilly on introducing the Wasp  when she ll join The Avengers  last Avila  first Mike  publisher   Blastr    date October 9  2016  accessdate October 9  2016  archiveurl https //www webcitation org/6l8naaL0X?url http //www blastr com/2016 10 9/watch evangeline lilly introducing wasp when shell join avengers  archivedate October 9  2016  deadurl no  df     /ref 
+
+ ref name  CumberbatchAvengers4    cite web url http //www ew com/article/2016/10/13/doctor strange kevin feige benedict cumberbatch  title Doctor Strange will play a  very  very important  role in the MCU  Marvel Studios president says  last Collis  first Clark  work   Entertainment Weekly    date October 13  2016  accessdate October 14  2016  archiveurl https //www webcitation org/6lFE0OihQ?url http //www ew com/article/2016/10/13/doctor strange kevin feige benedict cumberbatch  archivedate October 14  2016  deadurl no  df     /ref 
+
+ ref name  Renner    cite web url http //www thedailybeast com/articles/2014/09/29/jeremy renner talks marriage his problems with the media and the future of hawk eye html  title Jeremy Renner Opens Up About Marriage  His Problems with the Media  and the Future of Hawk Eye  last Stern  first Marlow  work   The Daily Beast    date September 29  2014  accessdate June 24  2015  archiveurl https //www webcitation org/6ZXZgcMiG?url http //www thedailybeast com/articles/2014/09/29/jeremy renner talks marriage his problems with the media and the future of hawk eye html  archivedate June 25  2015  deadurl no  df     /ref 
+
+ ref name  RennerConfirmed    cite web url http //screenrant com/jeremy renner michael douglas marvel team up/  title Jeremy Renner & Michael Douglas Hint at Marvel Team Up  last Ricwulf  first Daniel  publisher Screen Rant  date October 24  2015  accessdate October 25  2016  archiveurl https //www webcitation org/6lXNSx91Z?url http //screenrant com/jeremy renner michael douglas marvel team up/  archivedate October 26  2016  deadurl no  df     /ref 
+
+ ref name  Gillan    cite web url http //www bbc com/news/uk scotland highlands islands 38638907  title Karen Gillan on Tupperware Party  Inverness and Avengers  last McLean  first Pauline  publisher   BBC News    date January 17  2017  accessdate January 17  2017  archiveurl https //www webcitation org/6naaZPCEI?url http //www bbc com/news/uk scotland highlands islands 38638907  archivedate January 17  2017  deadurl no  df     /ref 
+
+ ref name  IMAXRelease    cite web url http //deadline com/2017/02/disney films show imax through 2019 new distribution deal star wars 1201938700/  title Disney Films To Show on Imax Through 2019 With New Distribution Deal  last Lieberman  first David  website   Deadline Hollywood    date February 22  2017  accessdate February 22  2017  archiveurl https //www webcitation org/6oTt0ZsX5?url http //deadline com/2017/02/disney films show imax through 2019 new distribution deal star wars 1201938700/  archivedate February 23  2017  deadurl no  df     /ref 
+
+ ref name  MackieConfirm    cite web url http //www screengeek net/2017/03/20/anthony mackie says falcon wont die/  title Exclusive  Anthony Mackie Says FALCON Won t Die  last Palmer  first Frank  publisher Screen Geek  date March 20  2017  accessdate March 21  2017  archiveurl https //www webcitation org/6p8uqFlQ4?url http //www screengeek net/2017/03/20/anthony mackie says falcon wont die/  archivedate March 22  2017  deadurl no  df     /ref 
+
+ ref name  HollandAvengers4    cite web url http //www hollywoodreporter com/heat vision/marvels kevin feige why studio wont make r movies guardians 2 joss whedons dc move 99507  title Marvel  Kevin Feige on Why the Studio Won t Make R Rated Movies   Guardians 2  and Joss Whedon  DC Move  last1 Kit  first1 Borys  last2 Couch  first2 Aaron  work   The Hollywood Reporter    date April 18  2017  accessdate April 18  2017  archiveurl https //www webcitation org/6poyzHP7x?url http //www hollywoodreporter com/heat vision/marvels kevin feige why studio wont make r movies guardians 2 joss whedons dc move 99507  archivedate April 18  2017  deadurl no  df     /ref 
+
+ ref name  RussosFilmingReason    cite web url http //www heyuguys com/russo brothers interview civil war/  title Exclusive Interview  The Russo Brothers address the possibility of a new Captain America after Avengers  Infinity War  last Pape  first Stefan  publisher HeyUGuys  date April 27  2016  accessdate April 28  2016  archiveurl https //www webcitation org/6h76IbLiR?url http //www heyuguys com/russo brothers interview civil war/  archivedate April 28  2016  deadurl no  df     /ref 
+
+ ref name  ColliderApril2017    cite web url http //collider com/avengers infinity war avengers 4 filming separately/#marvel  title  Avengers  Infinity War  and  Avengers 4  Are Being Shot Separately  Says Kevin Feige  last Chitwood  first Adam  publisher   Collider  website  Collider    date April 21  2017  accessdate April 21  2017  archiveurl https //www webcitation org/6ptVwQKvA?url http //collider com/avengers infinity war avengers 4 filming separately/  archivedate April 21  2017  deadurl no  df     /ref 
+
+ ref name  FeigeTitle    cite web url http //www cinemablend com/news/1650510/why avengers 4 doesnt have a title yet according to kevin feige  title Why Avengers 4 Doesn t Have A Title Yet  According To Kevin Feige  last Eisenberg  first Eric  publisher Cinema Blend  date April 23  2017  accessdate April 24  2017  archiveurl https //www webcitation org/6pyLMYsxt?url http //www cinemablend com/news/1650510/why avengers 4 doesnt have a title yet according to kevin feige  archivedate April 24  2017  deadurl no  df     /ref 
+
+ ref name  SaldanaAvengers4    cite web url http //metro co uk/2017/04/24/has guardians of the galaxy star zoe saldana revealed the name of avengers 4 6595287/  title Has Guardians of the Galaxy star Zoe Saldana revealed the name of Avengers 4?  last Deen  first Sarah  work   Metro  British newspaper  Metro    date April 24  2017  accessdate April 24  2017  archiveurl https //www webcitation org/6pyO7kxdy?url http //metro co uk/2017/04/24/has guardians of the galaxy star zoe saldana revealed the name of avengers 4 6595287/  archivedate April 24  2017  deadurl no  df     /ref 
+
+ ref name  IWSynopsis    cite web url http //comicbook com/marvel/2017/05/19/avengers infinity war synopsis description/ title Avengers  Infinity War Synopsis Released  last Peters first Megan  publisher ComicBook com  date May 19  2017  accessdate May 19  2017  archiveurl https //www webcitation org/6qZyNyw73  archivedate May 19  2017  deadurl no  df     /ref 
+
+ ref name  EvansJun2017    cite web url http //www superherohype com/news/398919 chris evans agreed to avengers 4 because its going to wrap everything up#/slide/1 title Chris Evans Agreed to Avengers 4 Because It   Going to Wrap Everything Up  publisher   Superhero Hype   date June 11  2017 accessdate June 12  2017 archiveurl https //www webcitation org/6rAYaC7xt archivedate June 12  2017 deadurl no   /ref 
+
+ ref name  WorkingTitle    cite web url http //omegaunderground com/2017/06/14/avengers 4 aka mary lou 2 shoots july december atlanta/ title  Avengers 4  aka  Mary Lou 2  Shoots July–December in Atlanta last Marc first Christopher publisher Omega Underground date June 14  2017 accessdate June 14  2017 archiveurl https //www webcitation org/6rF5EF3a3 archivedate June 15  2017 deadurl no   /ref 
+
+ ref name  Pinewood    cite web url http //www cbr com/avengers infinity war wraps filming/ title Avengers  Infinity War Appears to Have Wrapped Filming last Melrose first Kevin publisher   Comic Book Resources   date July 14  2017 accessdate July 14  2017 archiveurl https //www webcitation org/6rxg01u8Z archivedate July 14  2017 deadurl no   /ref 
+
+ ref name  BautistaAvengers4    cite tweet user DaveBautista last Bautista first Dave number 887105918625775616 title I ll be in China  Bummer  😔Doing a film with Woo Ping  😃I ll also miss the premier  😢Cuz I ll be on @Avengers 4  😃#goodproblems date July 17  2017 accessdate July 25  2017 archiveurl https //www webcitation org/6sEarnB0l archivedate July 25  2017 deadurl no   /ref 
+
+ ref name  FilmingStart    cite web url http //www comingsoon net/movies/news/878425 avengers 4 filming has begun#/slide/1 title Avengers 4 Filming Has Begun  last Perry first Spencer publisher   ComingSoon net   date August 10  2017 accessdate August 10  2017 archiveurl https //www webcitation org/6scWOQZjJ archivedate August 10  2017 deadurl no   /ref 
+
+ ref name  BettanyAvengers4    cite web url http //collider com/paul bettany interview manhunt unabomber avengers infinity war title Paul Bettany on  Manhunt  Unabomber   Understanding Ted Kaczynski  and  Avengers  Infinity War  last Radish first Christina publisher   Collider  website  Collider   date August 15  2017 accessdate August 21  2017 archiveurl https //www webcitation org/6st2TopcH archivedate August 21  2017 deadurl no   /ref 
+
+ ref name  JohanssonAvengers4    cite web url http //screenrant com/avengers 4 images japan black widow/ title Black Widow Heads to Japan in Avengers 4 Set Photos last Welch first Alex publisher Screen Rant date August 22  2017 accessdate August 22  2017 archiveurl https //www webcitation org/6svCIdgLA archivedate August 22  2017 deadurl no   /ref 
+
+ ref name  FavreauPaltrowAvengers4    cite web url http //www cbr com/avengers 4 pepper potts set photo/ title Avengers 4 Set Photos Capture Iron Man Character  Return last Damore first Meagan publisher   Comic Book Resources   date August 22  2017 accessdate August 22  2017 archiveurl https //www webcitation org/6svCN1NzM archivedate August 22  2017 deadurl no   /ref 
+
+ ref name  AtlantaAugFilming    cite web url http //www atlantamagazine com/news culture articles/whats filming in atlanta now avengers infinity war ant man wasp valor uncle drew plus marvel film got away/ title What  filming in Atlanta now? Avengers  Infinity War  Ant Man and the Wasp  Valor  Uncle Drew  plus the Marvel film that got away last Walljasper first Matt work   Atlanta  magazine  Atlanta   date August 24  2017 accessdate August 26  2017 archiveurl https //www webcitation org/6t0tSeb1x archivedate August 26  2017 deadurl no   /ref 
+
+ ref name  ScotlandFilming    cite web url http //www dailyrecord co uk/entertainment/movies/movie news/avengers set assemble scotland again 11102689 title Avengers set to assemble in Scotland again for Marvel blockbuster spin off last Donohoe first Graeme work   Daily Record  Scotland  Daily Record   date September 3  2017 accessdate September 4  2017 archiveurl https //www webcitation org/6tESdAUbu archivedate September 4  2017 deadurl no   /ref 
+
+ ref name  3DRelease    cite web url https //variety com/2017/film/news/star wars episode ix release date jj abrams 1202555963/ title  Star Wars  Episode IX  Release Date Moves to December 2019 last Kroll first Justin work   Variety  magazine  Variety   date September 12  2017 accessdate September 13  2017 archiveurl https //www webcitation org/6tS209lzT archivedate September 13  2017 deadurl no   /ref 
+
+ ref name  StanAvengers4    cite web url https //theplaylist net/sebastian stan marvel tonya interview 20170911/2/ title Sebastian Stan Says Marvel Studios Training Put To Good Use On  I  Tonya   Interview  last Ellwood first Gregory publisher The Playlist date September 11  2017 accessdate September 15  2017 archiveurl   archivedate September 15  2017 deadurl no   /ref 
+
+ ref name  Sanada    cite web url http //deadline com/2017/09/westworld hiroyuki sanada recur season 2 hbo series 1202170410/ title  Westworld   Hiroyuki Sanada Set To Recur in Season 2 of HBO Series last Petski first Denise website   Deadline Hollywood   date September 15  2017 accessdate September 15  2017 archiveurl https //www webcitation org/6tVDxx2r0 archivedate September 15  2017 deadurl no   /ref 
+
+ ref name  CheadleAvengers4    cite web url http //www cbr com/avengers 4 don cheadle war machine/ title Paltrow Confirms Avengers 4 Role for Cheadle  War Machine last Damore first Meagan publisher   Comic Book Resources   date September 21  2017 accessdate September 21  2017 archiveurl https //www webcitation org/6teS8TmE4 archivedate September 21  2017 deadurl no   /ref 
+
+ ref name  KlementieffAvengers4    cite web url http //www digitalspy com/movies/the avengers/news/a839336/guardians of the galaxy avengers 4 mantis/ title Another Guardians of the Galaxy star confirms they ll be coming back for Avengers 4 last Sandwell first Ian work   Digital Spy   date September 29  2017 accessdate September 30  2017 archiveurl https //www webcitation org/6tsahlqmS archivedate September 30  2017 deadurl no   /ref 
+
+ ref name  RuddAvengers4    cite web url https //screenrant com/robert downey jr avengers 4/ title Robert Downey Jr  Announces Avengers 4 Return last Mithaiwala first Mansoor publisher   Screen Rant   date October 28  2017 accessdate November 4  2017 archiveurl https //www webcitation org/6ujDsjDp2 archivedate November 4  2017 deadurl no   /ref 
+
+ ref name  RuffaloHulkArc    cite web url https //www cinemablend com/news/1712449/apparently mark ruffalo and kevin feige have planned a special trilogy for the hulk title Apparently Mark Ruffalo And Kevin Feige Have Planned A Special Trilogy for the Hulk last Eisenberg first Eric publisher Cinema Blend date October 10  2017 accessdate October 10  2017 archiveurl https //www webcitation org/6u7lWJ0NQ archivedate October 10  2017 deadurl no   /ref 
+
+ ref name  BrolinAvengers4    cite web url https //screenrant com/avengers 4 thanos return josh brolin announcement/ title Josh Brolin Announces Return For Avengers 4 Filming last Dolloff first Matt publisher   Screen Rant   date July 30  2017 accessdate November 23  2017 archiveurl https //www webcitation org/6ujDsjDp2 archivedate July 30  2017 deadurl no   /ref 
+
+ ref name  LarsonAvengers4    cite web url https //www vanityfair com/hollywood/2017/11/the future of the marvel cinematic universe robocop title What RoboCop Has to Do with the Future of the Marvel Cinematic Universe last Robinson first Joanna work   Vanity Fair  magazine  Vanity Fair   date November 28  2017 accessdate November 28  2017 archiveurl https //www webcitation org/query?url https%3A%2F%2Fwww vanityfair com%2Fhollywood%2F2017%2F11%2Fthe future of the marvel cinematic universe robocop&date 2017 11 28 archivedate November 28  2017  deadurl no   /ref 
+
+ ref name  LeeCameo    cite web url https //www cbr com/stan lees avengers infinity war avengers 4 cameos/ title Stan Lee Has Already Filmed Cameos for Black Panther Avengers 4  & More last Fitch first Adam publisher   Comic Book Resources   date September 11  2017 accessdate January 10  2018 archiveurl https //www webcitation org/6wNjwY7zR archivedate January 10  2018 deadurl no   /ref 
+
+ ref name  FilmingEnd    cite web url http //collider com/avengers 4 wraps filming russo brothers title  Avengers 4  Wraps Filming as the Russo Brothers Move into Post Production last Trumbore first Dave publisher   Collider  website  Collider   date January 11  2018 accessdate January 11  2018 archiveurl https //www webcitation org/6wQEwsmFp archivedate January 12  2018 deadurl no   /ref 
+
+ ref name  EWIWBTS    cite web url http //ew com/movies/2018/03/08/avengers infinity war behind the scenes/ title Behind the scenes of Avengers  Infinity War as new heroes unite — and others will end last Breznican first Anthony work   Entertainment Weekly   date March 8  2018 accessdate March 8  2018 archiveurl https //www webcitation org/6xlpMr68A archivedate March 8  2018 deadurl no   /ref 
+
+ ref name  RussosTitle    cite web url http //www digitalspy com/movies/the avengers/news/a852828/avengers 4 title infinity war spoilers/ title Here  why we won t get Avengers 4  title until after Infinity War last Sandwell first Ian work   Digital Spy   date March 21  2018 accessdate March 21  2018 archiveurl https //www webcitation org/6y6ANxHxu archivedate March 21  2018 deadurl no   /ref 
+
+ ref name  Reshoots    cite web url https //www nytimes com/2018/03/22/theater/chris evans lobby hero captain america html title Chris Evans  a k a  Captain America  Comes Back Down to Earth last Ugwu first Reggie work   The New York Times   date March 22  2018 accessdate March 22  2018 archiveurl https //www webcitation org/6y7evMiY3 archivedate March 22  2018 deadurl no   /ref 
+
+ ref name  Markus_March2018    cite web url https //screenrant com/avengers 4 captain marvel powers/  title Avengers 4 Writers Had Fun With Captain Marvel  Unprecedented Power Level  last Keyes  first Rob  work Screen Rant  date March 23  2018  accessdate March 23  2018  archiveurl https //www webcitation org/6y8L31x3U  archivedate March 23  2018  deadurl no  df     /ref 
+
+ ref name  BosemanWrightAvengers4    cite web url http //www comingsoon net/movies/news/898375 more avengers 4 set photos featuring hulk black panther and more title More Avengers 4 Set Photos Featuring Hulk  Black Panther  and More last Perry first Spencer publisher   ComingSoon net   date October 26  2017 accessdate March 26  2018 archiveurl https //www webcitation org/6yDMlNpSl archivedate March 26  2018 deadurl no   /ref 
+
+ ref name  MarketingMay2018    cite web url https //io9 gizmodo com/thanks to infinity war marvel may need a new strategy 1825787133 title The Sequel to Spider Man Homecoming Spans the Globe last Lussier first Germain publisher   io9   date May 7  2018 accessdate May 8  2018 archiveurl http //web archive org/web/20180507234322/https //io9 gizmodo com/thanks to infinity war marvel may need a new strategy 1825787133 archivedate May 8  2018 deadurl no   /ref 
+
   
 
-   Post     Fear Itself  comics  Fear Itself     recruits   
-   class  wikitable  width 100%
- width 14%  Character
- width 20%  Real Name
- width 18%  Joined in
-   Notes
-  
-     Wolverine  character  Wolverine   
-    Gorgon  Tomi Shishido  Tomi Shishido  
- rowspan  7    New Avengers   #18  November 2011 
-  Fought and killed by Wolverine in   Wolverine   #31  Revived by the   The Hand  comics  Hand   in     Secret Warriors  2009 series  Secret Warriors     #2  Leaves the team in   New Avengers   vol  2  #23 
-  
-     Hulk  comics  Hulk   
-    Skaar  comics  Skaar  
-  Recruited by Osborn in the   Savage Land    Skaar was actually double agent working for   Captain America   in secret  Rejoins the team in   Dark Avengers   #175 and leaves again in   Dark Avengers   #190 
-  
-     Ms  Marvel   
-    Superia Deidre Wentworth  
-  Led a   H A M M E R    team after Norman Osborn  incarceration  Leaves the team in   New Avengers   vol  2  #23 
-  
-     Hawkeye  comics  Hawkeye   
-    Barney Barton  
-  Joined after having his death in a hospital bed faked by Osborn 
-  
-     Spider Man   
-    List of incarnations of Spider Man#Ai Apaec Ai Apaec  
-  South American spider god  First encountered by Osborn in   Osborn   #1  Changed into a six armed humanoid form resembling the black suit version of Spider Man by an unknown substance 
-  
-        Scarlet Witch      
-    June Covington Dr  June Covington  
-  Biologist and geneticist  First encountered by Osborn in   Osborn   #1 following the Siege of Asgard 
-  
-        Thor  Marvel Comics  Thor      
-    Ragnarok  comics  Ragnarok  
-  Currently held and being repaired by   Advanced Idea Mechanics A I M    on Norman Osborn  behalf  He was repaired in time to help the Dark Avengers fight the New Avengers 
-  
+   External links   
+    IMDb title 4154796  
+    mojo title marvel2019  
+    rotten tomatoes avengers_infinity_war_part_ii  
+    metacritic film avengers infinity war   part ii  
 
-     Marvel ReEvolution   recruits    
-   class  wikitable  width 100%
- width 14%  Character
- width 20%  Real Name
- width 18%  Joined in
-   Notes
-  
-       U S  Agent  comics  U S  Agent     
-  John Walker
-    Dark Avengers   #185  2013 
-  Former warden of the Raft swept along with the Dark Avengers to an alternate reality  Resumes his role as U S  Agent after receiving a lobotomized alternate reality version of the Venom symbiote that recreates his missing limbs 
-  
-  
-
-  Other versions  
-
-   Ultimate Marvel   
-In the   Ultimate Marvel   reality  an alternate version of the Dark Avengers appears under the name the Dark Ultimates  The group consists of a female   Kang the Conqueror   and   Mister Fantastic Reed Richards   as well as the former   The Ultimates Ultimates     Hulk  comics  Hulk   and   Quicksilver  comics  Quicksilver    The team is formed with the goal of forcibly saving the world by any means necessary  They first appear while attacking the   Triskelion  comics  Triskelion   in order to steal the   Infinity Gems    ref   Ultimate Comics  Ultimates   #25 /ref 
-
-  In other media  
-
-   Television   
-  In the     Avengers Assemble  TV series  Avengers Assemble     episode  The Dark Avengers   the Dark Avengers appear as reality flipped versions of the Avengers who are the bad guys while the   Squadron Supreme   are the good guys  The  evil  versions of the Avengers eventually discover that the Squadron Supreme have the Reality Infinity Gem and have used it to change the world in their image  After claiming the Reality Infinity Gem  the Dark Avengers used it to return the world to the way it was before the Squadron Supreme used the Reality Infinity Gem  powers 
-
-   Video games   
-  The Dark Avengers appear in     Marvel  Avengers Alliance      They are featured in Spec Ops #12 where they were formed by   Red Skull Dell Rusk   and consist of   Bullseye  comics  Bullseye    operating as Hawkeye     Daken    operating as Wolverine     Ragnarok  comics  Ragnarok      Black Widow  Yelena Belova  Black Widow    Yelena Belova  and   Mac Gargan Venom   
-  The Dark Avengers appear in     Marvel Puzzle Quest      a game available for download for   Android  operating system  Android   devices and for   iTunes   with   Apple Inc  Apple   devices  The team consists of   Ares  Marvel Comics  Ares      Bullseye  comics  Bullseye      Daken      Moonstone  comics  Moonstone      Ragnarok  comics  Ragnarok      Sentry  comics  Sentry      Mac Gargan Venom    and   Black Widow  Yelena Belova  Yelena Belova   
-
-  Collected editions  
-The series is being collected into individual   trade paperback  comics  volumes   
-
-    Volume 1  Dark Avengers Assemble    collects   Dark Avengers   #1–6  160 pages  premiere hardcover  September 2009    ISBN 0 7851 3851 X    softcover  December 2009    ISBN 0 7851 3852 8   
-    Dark Avengers/Uncanny X Men     Utopia  comics  Utopia      collects   Dark Avengers   #7 8   Dark Avengers/Uncanny X Men  Utopia   Utopia Finale  and   Uncanny X Men   #513 514  352 pages  hardcover  December 2009    ISBN 0 7851 4233 9    softcover  April 2010    ISBN 0 7851 4234 7   
-    Volume 2  Molecule Man    collects   Dark Avengers   #9 12  112 pages  premiere hardcover  February 2010    ISBN 0 7851 3853 6   
-    Dark Avengers  Siege    collects   Dark Avengers   #13 16  and   Dark Avengers Annual   #1  144 pages  Marvel Comics  premiere hardcover  July 2010    ISBN 0 7851 4811 6   
-    Dark Avengers  The End is the Beginning    collects   Dark Avengers   #175 183  softcover  February 2013    ISBN 0785161724   
-    Dark Avengers  Masters of Evil    collects   Dark Avengers   #184 190  softcover  July 2013    ISBN 0785168478   
-
-All the issues  Except the Utopia crossover  are being collected into one hardback book 
-    Dark Avengers   Marvel Comics Marvel      collects   Dark Avengers   #1 6  #9 16 and Annual #1  hardcover  400 pages  July 2011    ISBN 0 7851 5650 X   
-
-As were the spin offs 
-    Ms  Marvel   
-     Volume 7  Dark Reign    collects   Ms  Marvel   #35 40  176 pages  Marvel Comics  premiere hardcover  September 2009    ISBN 0 7851 3838 2    softcover  December 2009    ISBN 0 7851 3839 0   
-     Volume 8  War of The Marvels    collects   Ms  Marvel   #41 46  120 pages  Marvel Comics  premiere hardcover  January 2010    ISBN 0 7851 3840 4    softcover  May 2010    ISBN 0 7851 3841 2   
-      Dark Wolverine     
-     Volume 1  The Prince    collects     Wolverine  comic book  Wolverine     #73 74 and   Dark Wolverine   #75 77  112 pages  Marvel Comics  premiere hardcover  October 2009    ISBN 0 7851 3900 1    softcover  March 2010    ISBN 0 7851 3866 8   
-     Volume 2  My Hero    collects   Dark Wolverine   #78 81  112 pages  Marvel Comics  premiere hardcover  April 2010    ISBN 0 7851 3977 X   
-     Siege  X Men   Dark Wolverine & New Mutants    includes   Dark Wolverine   #82 84  128 pages  Marvel Comics  premiere hardcover  June 2010    ISBN 0 7851 4815 9   
-    Dark Reign  Sinister Spider Man    collects   Dark Reign  The Sinister Spider Man   #1 4  112 pages  Marvel Comics  softcover  January 2010    ISBN 0 7851 4239 8   
-    Dark Avengers  Ares    collects   Ares   #1 5 and   Dark Avengers  Ares   #1 3  192 pages  Marvel Comics  softcover  April 2010    ISBN 0 7851 4406 4   
-    Dark Reign  Hawkeye    collects   Dark Reign  Hawkeye   #1 5  120 pages  Marvel Comics  softcover  May 2010    ISBN 0 7851 3850 1   
-
-  References  
-  Reflist  
-
-  External links  
-   http //www newsarama com/comics/010922 Dark Avengers Bendis html Explaining it All  Brian Bendis Talks Dark Avengers #1     Newsarama    January 22  2008
-    gcdb series id 33502 title   Dark Avengers    
-   http //marvel wikia com/Dark_Avengers_%28Earth 616%29 Dark Avengers  at Marvel Wiki
-   http //www comicvine com/dark avengers/65 55990/ Dark Avengers  at Comic Vine
-    comicbookdb type team id 1717 title Dark Avengers  
-
-  Dark Avengers  
-  New Avengers  
+  Navboxes
+ title   Untitled Avengers film
+ list1 
   Avengers  
-  Avengers publications  
-  S H I E L D   
-  Thunderbolts  
+  Marvel Cinematic Universe  
+  Marvel Comics films  
+  Anthony and Joe Russo  
+  Christopher Markus & Stephen McFeely  
+  Spider Man films  
+  portal bar Marvel Cinematic Universe Film in the United States Superhero fiction 2010s  
+  
+
+  Category 2010s action films  
+  Category 2019 3D films  
+  Category American science fiction action films  
+  Category American films  
+  Category Avengers  comics  films  
+  Category English language films  
+  Category Films scored by Alan Silvestri  
+  Category Films directed by Anthony and Joe Russo  
+  Category Films set in Japan  
+  Category Films shot at Pinewood Atlanta Studios  
+  Category Films shot in Atlanta  
+  Category Films shot in Edinburgh  
+  Category Films shot in Glasgow  
+  Category Films using computer generated imagery  
+  Category IMAX films  
+  Category Marvel Cinematic Universe films  
+  Category Performance capture in film  
+  Category Screenplays by Christopher Markus & Stephen McFeely  
+  Category Sequel films  
+  Category Upcoming sequel films  
+  Category Upcoming IMAX films  
