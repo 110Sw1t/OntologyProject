@@ -19,7 +19,7 @@ public class OntologiesContextSimilarity {
     /**
      * @param args the command line arguments
      */
-    public static Tuple[] getContextandTimingSimilarities(HashMap<String, Double> timing) {
+    public static Tuple[] getContextandTimingSimilarities(String required_keyword, HashMap<String, Double> timing) {
         ArrayList<KeyWord> keywords = new ArrayList();
         try {
             /*
@@ -34,7 +34,7 @@ public class OntologiesContextSimilarity {
                 if(words.length < 2) break;
                 int keyword_freq = Integer.parseInt(words[1]);
                 total_freq += keyword_freq;
-                if (words[0].equals("avengers")) {
+                if (words[0].equals(required_keyword)) {
                     keywords.add(new KeyWord(words[0], keyword_freq, new File(words[0]).listFiles().length, timing));
                 }
                 //break;
