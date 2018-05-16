@@ -17,6 +17,7 @@ public class MicroblogsAnnotator {
 
     public static void main(String[] args) throws Exception {
         //add relative path here, will do it later
+        String keyword = "Avengers";
         String inputPath = "tweets.txt";
         String OutputPath = "keywords.txt";
         Runtime.getRuntime().exec("python First-Block.py").waitFor();
@@ -26,7 +27,7 @@ public class MicroblogsAnnotator {
         GateTool g = new GateTool(inputPath, OutputPath);
         g.RunTwitIE();
         //g.RunANNIE(); 
-        System.out.println(Arrays.toString(OntologiesContextSimilarity.getContextandTimingSimilarities("Avengers", OntologyTimeSimilarity.getTimingSimilarity())));
+        System.out.println(Arrays.toString(OntologiesContextSimilarity.getContextandTimingSimilarities(keyword, OntologyTimeSimilarity.getTimingSimilarity())));
     }
 
 }
