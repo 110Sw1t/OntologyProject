@@ -46,7 +46,7 @@ public class GateTool {
         try {
             Gate.init();
             
-            SwingUtilities.invokeAndWait(() -> MainFrame.getInstance().setVisible(true));
+            //SwingUtilities.invokeAndWait(() -> MainFrame.getInstance().setVisible(true));
             corpus = Factory.newCorpus("myCorpus");
             doc = Factory.newDocument(new File(Inputpath).toURI().toURL());
             corpus.add(doc);
