@@ -1,7 +1,7 @@
 # MicroblogsAnnotator
 ## Update
 
-We managed to run the python scripts from inside the java applicaiton, you can now run the whole program from within the main() method in MicroblogsAnnotator.java  
+We managed to run the python scripts from inside the java applicaiton, you can now run the whole program from within the main() method in MicroblogsAnnotator.java and setting the parameter String hashtag to the desired hashtag keyword  
 
 ## Old
 1)Run First-Block.py to generate "tweets.txt" and "wikipedia_output.txt"  
