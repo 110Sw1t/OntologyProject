@@ -34,7 +34,7 @@ public class OntologiesContextSimilarity {
                 if(words.length < 2) break;
                 int keyword_freq = Integer.parseInt(words[1]);
                 total_freq += keyword_freq;
-                if (words[0].equals(required_keyword)) {
+                if (words[0].equalsIgnoreCase(required_keyword)) {
                     keywords.add(new KeyWord(words[0], keyword_freq, new File(words[0]).listFiles().length, timing));
                 }
                 //break;
